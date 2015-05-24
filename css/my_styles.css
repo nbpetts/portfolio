@@ -1395,7 +1395,7 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Trebuchet MS", Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857;
   color: #333333;
@@ -6378,7 +6378,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Trebuchet MS", Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -6489,7 +6489,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Trebuchet MS", Arial, sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857;
@@ -7137,6 +7137,48 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+body {
+  background-color: #93c3ff;
+}
+
+.hero {
+  background: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+  font-family: "Life Savers", Georgia, Times, serif;
+  font-size: 4.5em;
+  color: #191919;
+  line-height: 1.125em;
+}
+
+h1.hero {
+  margin-bottom: -1px;
+}
+
+.heroCallout {
+  color: #bc5f04;
+  font-weight: bold;
+}
+
+.grass {
+  height: 50px;
+  background: url("../images/grassPattern.png") repeat;
+}
+
+.rock {
+  height: 100px;
+  background: url("../images/rockPattern.png") repeat;
+  background-position: 30% 35%;
+}
+
+.bottomAlign {
+  display: flex;
+  align-items: baseline;
+}
+
+.downArrow {
+  margin-bottom: 10px;
 }
 
 /*# sourceMappingURL=my_styles.css.map */

@@ -1,5 +1,45 @@
 @import '../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap';
-
-body {
+* {
   
+//  outline: 1px solid red;
+}
+body {
+  background-color: $lightBlue;
+  
+}
+
+.hero {
+  background: $myWhite;
+  border-radius: 10px;
+  padding: 20px;
+  font-family: $font-family-serif;
+  font-size: 4.5em;
+  color: $myH1;
+  line-height: 1.125em;
+  
+}
+h1.hero {
+  margin-bottom: -1px;
+}
+.heroCallout {
+  color: $beard;
+  font-weight: bold;
+}
+
+.grass {
+  height: 50px;
+  background: url("../images/grassPattern.png") repeat;
+}
+.rock {
+  height: 100px;
+  background: url("../images/rockPattern.png") repeat;
+  background-position: 30% 35%;
+}
+.bottomAlign {
+  display: flex;
+  align-items: baseline;
+  
+}
+.downArrow {
+  margin-bottom: 10px;
 }
