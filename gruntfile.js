@@ -23,7 +23,7 @@ module.exports = function (grunt) {
     },
     watch: {
       sass: {
-        files: 'sass/{,*/}*.{scss,sass}',
+        files: ['sass/{,*/}*.{scss,sass}', 'bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/{,*/}*.{scss,sass}'],
         tasks: ['sass:dev']
       }
     }
