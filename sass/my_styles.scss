@@ -43,7 +43,12 @@ h1.hero {
 .downArrow {
   padding-bottom: 10px;
 }
+main {
+  background-color: $myWhite;
+}
 
+
+// animations. Thanks to Animate.css for the animation classes.
 .animated {
   -webkit-animation-duration: 1s;
   -webkit-animation-delay: 5s; /* Chrome, Safari, Opera */
