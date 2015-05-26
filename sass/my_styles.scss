@@ -7,7 +7,18 @@ body {
   background-color: $lightBlue;
   
 }
-
+p > a, li > a {
+  font-style: italic;
+}
+.caption > p {
+  font-size: 1.5em;
+  font-style: italic;
+  color: $myLightGrey;
+  
+}
+h2 {
+  
+}
 .hero {
   background: $myWhite;
   border-radius: 10px;
@@ -25,7 +36,34 @@ h1.hero {
   color: $beard;
   font-weight: bold;
 }
+.navbar-brand {
+  font-family: $font-family-serif;
+  font-size: 1.875em;
+  font-weight: bold;
+}
+.navbar{
+  margin-bottom: 0;
+}
+.pageBackground {
+  background-color: $myWhite;
+}
+.btn {
+  background-color: $darkBlue;
+  border-radius: 0;
+  box-shadow: 5px 5px 0px $myButtonShadow;
+  color: $myWhite;
+}
+.btn:hover{
+  color:  darken($myWhite, 15%);
+}
+.btn:active {
+//  box-shadow: 0px 0px 0px $myButtonShadow;
+}
+.btn:visitied {
+  color:$myWhite;
+}
 
+// Illustration
 .grass {
   height: 50px;
   background: url("../images/grassPattern.png") repeat;
@@ -43,19 +81,32 @@ h1.hero {
 .downArrow {
   padding-bottom: 10px;
 }
-main {
-  background-color: $myWhite;
+
+
+//breakpoints
+
+@media (max-width: $screen-xs-max) { 
+  h1.hero {
+    margin-bottom: 20px;
+  }
 }
+@media (min-width: $screen-sm-min) { 
+  .myFloatRight {
+    
+  }
+}
+@media (max-width: $screen-sm-max) {  }
+@media (min-width: $screen-md-min) {  }
+@media (max-width: $screen-md-max) {  }
+@media (min-width: $screen-lg-min) {  }
 
 
 // animations. Thanks to Animate.css for the animation classes.
 .animated {
   -webkit-animation-duration: 1s;
-  -webkit-animation-delay: 5s; /* Chrome, Safari, Opera */
-    animation-delay: 5s;
+ 
   animation-duration: 1s;
-  -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
-    animation-iteration-count: 2;
+
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
@@ -118,6 +169,10 @@ main {
 .bounce {
   -webkit-animation-name: bounce;
   animation-name: bounce;
+   -webkit-animation-delay: 5s; /* Chrome, Safari, Opera */
+    animation-delay: 5s;
+    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
+    animation-iteration-count: 2;
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
 }
