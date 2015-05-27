@@ -7142,6 +7142,10 @@ body {
   background-color: #93c3ff;
 }
 
+.pageBackground {
+  background-color: #f9f9f9;
+}
+
 p > a, li > a {
   font-style: italic;
 }
@@ -7181,10 +7185,6 @@ h1.hero {
   margin-bottom: 0;
 }
 
-.pageBackground {
-  background-color: #f9f9f9;
-}
-
 .btn {
   background-color: #28466a;
   border-radius: 0;
@@ -7196,8 +7196,23 @@ h1.hero {
   color: lightgray;
 }
 
+.btn:active {
+  position: relative;
+  top: 5px;
+  left: 5px;
+}
+
 .btn:visitied {
   color: #f9f9f9;
+}
+
+.sidebarImage {
+  max-height: 300px;
+}
+
+p.activeCaption {
+  font-size: 1em;
+  font-style: normal;
 }
 
 .grass {
@@ -7223,6 +7238,15 @@ h1.hero {
 @media (max-width: 767px) {
   h1.hero {
     margin-bottom: 20px;
+  }
+
+  .caption > p.sidebar {
+    font-size: 1em;
+  }
+}
+@media (min-width: 768px) {
+  .caption > p.sidebar {
+    font-size: .75em;
   }
 }
 .animated {

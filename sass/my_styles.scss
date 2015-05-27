@@ -7,6 +7,9 @@ body {
   background-color: $lightBlue;
   
 }
+.pageBackground {
+  background-color: $myWhite;
+}
 p > a, li > a {
   font-style: italic;
 }
@@ -36,6 +39,9 @@ h1.hero {
   color: $beard;
   font-weight: bold;
 }
+
+
+// my navbar styles
 .navbar-brand {
   font-family: $font-family-serif;
   font-size: 1.875em;
@@ -44,9 +50,9 @@ h1.hero {
 .navbar{
   margin-bottom: 0;
 }
-.pageBackground {
-  background-color: $myWhite;
-}
+
+
+// my button styles
 .btn {
   background-color: $darkBlue;
   border-radius: 0;
@@ -57,12 +63,21 @@ h1.hero {
   color:  darken($myWhite, 15%);
 }
 .btn:active {
-//  box-shadow: 0px 0px 0px $myButtonShadow;
-}
+position: relative;
+  top: 5px;
+  left: 5px;
+// box-shadow: 2px 0px 0px $myButtonShadow;
+} 
 .btn:visitied {
   color:$myWhite;
 }
-
+.sidebarImage {
+  max-height: 300px
+}
+p.activeCaption {
+  font-size: 1em;
+  font-style: normal;
+}
 // Illustration
 .grass {
   height: 50px;
@@ -89,14 +104,24 @@ h1.hero {
   h1.hero {
     margin-bottom: 20px;
   }
+  .caption > p.sidebar {
+  font-size: 1em;
+  }
 }
 @media (min-width: $screen-sm-min) { 
   .myFloatRight {
     
   }
+  .caption > p.sidebar {
+  font-size: .75em;
+  }
 }
-@media (max-width: $screen-sm-max) {  }
-@media (min-width: $screen-md-min) {  }
+@media (max-width: $screen-sm-max) { 
+  
+}
+@media (min-width: $screen-md-min) { 
+  
+}
 @media (max-width: $screen-md-max) {  }
 @media (min-width: $screen-lg-min) {  }
 
