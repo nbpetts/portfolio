@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Nathan Petts | UX designer</title>
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Life+Savers:400,700" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="/css/my_styles.css">
@@ -26,7 +27,8 @@
     </div>
     <!--end row-->
     <div class="row bottomAlign">
-      <img src="/images/downArrow.svg" alt="Click Here to Skip to the main Content" class="hidden-xs  col-xs-1 col-sm-1 col-sm-offset-6 downArrow animated bounce">
+      <a class="hidden-xs  col-xs-1 col-sm-1 col-sm-offset-6 downArrow animated bounce" href="#content"><img src="/images/downArrow.svg" alt="Click Here to Skip to the main Content">
+      </a>
       <img src="images/pixelGuy.png" alt="Pixel Version of Nathan Petts" class="img-responsive col-xs-1 col-xs-offset-1 nathan hidden-xs ">
 
     </div>
@@ -84,6 +86,7 @@
       <section class="row">
         <div class="col-xs-12 col-sm-2 col-sm-offset-1">
           <h1>Hi!</h1>
+          <a name="content"></a>
         </div>
 
       </section>
@@ -123,7 +126,7 @@
 
     </main>
     <!--close main-->
-    <article class="">
+    <article class="bitOfWork">
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-1">
           <h1>A bit of My Work</h1>
@@ -133,10 +136,10 @@
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-1 ">
           <div href="#" class="thumbnail ">
-            <img src="images/worthyWords.png" alt="The Story telling app Worthy Words" class="img-responsive">
+            <img src="images/worthyWords.png" alt="The Story telling app Worthy Words" class="img-responsive activeImage">
             <div class="caption text-center">
-              <p class="activeCaptionTitle">Fig. 2 Worthy Words - A storytelling App </p>
-              <p class="activeCaption text-left">Worthy Words is a project that I designed and developed in conjunction with Adventure Stage Chicago. They were putting on a show called Worthy that deals with issues of identity and the stories our culture tells. They were interested in creating an app or website that would allow them to connect to their young audience in a unique way. We brainstormed many ideas and eventually came up with a Mad Libs-esque toy that allowed the audience to read and change stories about the characters in the show. It also allowed the audience members to share their own stories with the folks at Adventure Stage. <a href="#">Check out the full story of the building of Worthy Words >></a>
+              <p class="activeCaptionTitle">Fig. 2 Worthy Words - A storytelling App</p>
+              <p class="activeCaption text-left">Worthy Words is a project that I designed and developed in conjunction with Adventure Stage Chicago. They were putting on a show called Worthy that deals with issues of identity and the stories our culture tells. They were interested in creating an app or website that would allow them to connect to their young audience in a unique way. We brainstormed many ideas and eventually came up with a Mad Libs-esque toy that allowed the audience to read and change stories about the characters in the show. It also allowed the audience members to share their own stories with the folks at Adventure Stage. <a href="#">Check out the full story of the building of Worthy Words &gt;&gt;</a>
               </p>
 
             </div>
@@ -150,7 +153,8 @@
           <div href="#" class="thumbnail ">
             <img src="images/ethnographicResarch.png" alt="The cover sheet for Finding Volunteer Resources User Research" class="img-responsive">
             <div class="caption text-center">
-              <p class="sidebar">Fig. 3 Ethnographic User Research</p>
+              <p class="sidebar"><a href="#" class="more">Fig. 3 Ethnographic User Research</a></p>
+              <p class="sidebarCaption text-left">Ethnographic Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris eros, sodales sit amet iaculis consectetur, sodales sed ante. Nunc aliquam diam orci, id rutrum dolor porttitor sed. Maecenas vehicula elit ullamcorper eros finibus, id vulputate dolor placerat. Cras et porttitor quam. Vestibulum aliquam nisl eget iaculis mattis.  <a href="#">Check out the full story of the building of Ethnographic &gt;&gt;</a></p>
             </div>
           </div>
           <!-- end thumbnail-->
@@ -161,8 +165,10 @@
           <div href="#" class="thumbnail ">
             <img src="images/petStatsPetOMatic.png" alt="A Screenshot from the prototype for the Pet-O-Matic app" class="sidebarImage">
             <div class="caption text-center">
-              <p class="sidebar">Fig. 4 Pet-O-Matic Prototype</p>
-            </div>
+              <p class="sidebar"><a href="#" class="more">Fig. 4 Pet-O-Matic Prototype</a></p>
+            
+            <p class="sidebarCaption text-left">Pet-O-Matic Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris eros, sodales sit amet iaculis consectetur, sodales sed ante. Nunc aliquam diam orci, id rutrum dolor porttitor sed. Maecenas vehicula elit ullamcorper eros finibus, id vulputate dolor placerat. Cras et porttitor quam. Vestibulum aliquam nisl eget iaculis mattis.  <a href="#">Check out the full story of the building of Pet-O-Matic &gt;&gt;</a></p>
+              </div>
           </div>
           <!-- end thumbnail-->
 
@@ -170,15 +176,15 @@
         <!-- end small image-->
 
 
-        
+
 
       </section>
       <!-- end row-->
-<section class="row">
-          <div class="col-xs-12 col-sm-12 col-lg-4 col-sm-offset-1">
-            <a class="btn " href="#" role="button">Peruse my<br>Full Portfolio</a>
-          </div>
-        </section>
+      <section class="row">
+        <div class="col-xs-12 col-sm-12 col-lg-4 col-sm-offset-1">
+          <a class="btn " href="#" role="button">Peruse my<br>Full Portfolio</a>
+        </div>
+      </section>
     </article>
     <!--close article-->
   </div>
@@ -186,6 +192,6 @@
 </body>
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js"></script>
-<script src="js/my_app,js"></script>
+<script src="js/my_app.js"></script>
 
 </html>

@@ -7210,6 +7210,10 @@ h1.hero {
   max-height: 300px;
 }
 
+.sidebarCaption {
+  display: none;
+}
+
 p.activeCaption {
   font-size: 1em;
   font-style: normal;
@@ -7228,7 +7232,7 @@ p.activeCaption {
 
 .bottomAlign {
   display: flex;
-  align-items: baseline;
+  align-items: flex-end;
 }
 
 .downArrow {
