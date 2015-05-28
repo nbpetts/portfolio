@@ -2,10 +2,12 @@ $(document).ready(function() {
     
     //navbar scorll control\
     var nav = $("nav"),
-    navTop = nav.offset().top;
+        navTop = nav.offset().top,
+        pageBackground = $(".pageBackground");
     $(window).scroll(function(e) {
       
-      nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop)
+      nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
+      pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);
       
     });
   
@@ -33,6 +35,7 @@ $(".bitOfWork ").on("click", "a.more", function(e){
   var elCurrentActiveImage = $(".activeImage"),
       elCurrentActiveCaptionTitle = $(".activeCaptionTitle"),
       elCurrentActiveCaption = $(".activeCaption"),
+      elActiveSpot = $(".mainWork"),
       currentActiveImage = $(".activeImage").attr("src"),
       currentActiveCaptionTitle = $(".activeCaptionTitle").html(),
       currentActiveCaption = $(".activeCaption").html(),
@@ -43,17 +46,19 @@ $(".bitOfWork ").on("click", "a.more", function(e){
       clickedImage = $(this).parent().parent().prev("img").attr("src"),
       clickedCaption = $(this).parent().next().html();
   
-  $(".activeImage, .activeCaptionTitle, .activeCaption").hide(function(){
+  
+  elActiveSpot.hide(function(){
     $(".activeImage").attr("src", clickedImage);
     $(".activeCaptionTitle").html(clickedCaptionTitle);
     $(".activeCaption").html(clickedCaption);
     elClickedCaptionTitle.html(currentActiveCaptionTitle);
     elClickedCaptionImage.attr("src", currentActiveImage);
     elClickedCaption.html(currentActiveCaption);
-    $(".activeImage, .activeCaptionTitle, .activeCaption").show();
+    elActiveSpot.show();
     
   }); // end hide
-  console.log(clickedCaption);
+
+ 
 }); // end on click
   
 

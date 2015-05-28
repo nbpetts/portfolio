@@ -39,7 +39,9 @@ h1.hero {
   color: $beard;
   font-weight: bold;
 }
-
+.socialGroup, .bitOfWork{
+  margin-top: 20px;
+}
 
 // my navbar styles
 .navbar-brand {
@@ -50,7 +52,9 @@ h1.hero {
 .navbar{
   margin-bottom: 0;
 }
-
+.pageBackgroundMargin {
+  margin-top: 75px;
+}
 
 // my button styles
 .btn {
@@ -81,6 +85,16 @@ p.activeCaption {
   font-size: 1em;
   font-style: normal;
 }
+.footerLinks {
+  list-style: none;
+  margin-top: 150px;
+  
+}
+.footerLinks > li {
+  display: inline;
+  padding: 15px;
+}
+
 // Illustration
 .grass {
   height: 50px;
@@ -91,16 +105,24 @@ p.activeCaption {
   background: url("../images/rockPattern.png") repeat;
   background-position: 30% 35%;
 }
+
+.downArrow {
+  padding-bottom: 10px;
+}
+.nathanFooter {
+  max-width: 100px;
+}
+// allignment classes
 .bottomAlign {
   display: flex;
   align-items: flex-end;
   
 }
-.downArrow {
-  padding-bottom: 10px;
+.middleAlign {
+  display: flex;
+  align-items: center;
+  
 }
-
-
 //breakpoints
 
 @media (max-width: $screen-xs-max) { 

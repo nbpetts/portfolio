@@ -7175,6 +7175,10 @@ h1.hero {
   font-weight: bold;
 }
 
+.socialGroup, .bitOfWork {
+  margin-top: 20px;
+}
+
 .navbar-brand {
   font-family: "Life Savers", Georgia, Times, serif;
   font-size: 1.875em;
@@ -7183,6 +7187,10 @@ h1.hero {
 
 .navbar {
   margin-bottom: 0;
+}
+
+.pageBackgroundMargin {
+  margin-top: 75px;
 }
 
 .btn {
@@ -7219,6 +7227,16 @@ p.activeCaption {
   font-style: normal;
 }
 
+.footerLinks {
+  list-style: none;
+  margin-top: 150px;
+}
+
+.footerLinks > li {
+  display: inline;
+  padding: 15px;
+}
+
 .grass {
   height: 50px;
   background: url("../images/grassPattern.png") repeat;
@@ -7230,13 +7248,22 @@ p.activeCaption {
   background-position: 30% 35%;
 }
 
+.downArrow {
+  padding-bottom: 10px;
+}
+
+.nathanFooter {
+  max-width: 100px;
+}
+
 .bottomAlign {
   display: flex;
   align-items: flex-end;
 }
 
-.downArrow {
-  padding-bottom: 10px;
+.middleAlign {
+  display: flex;
+  align-items: center;
 }
 
 @media (max-width: 767px) {
