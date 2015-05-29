@@ -70,7 +70,6 @@ h1.hero {
 position: relative;
   top: 5px;
   left: 5px;
-// box-shadow: 2px 0px 0px $myButtonShadow;
 } 
 .btn:visitied {
   color:$myWhite;
@@ -82,8 +81,22 @@ position: relative;
   display: none;
 }
 p.activeCaption {
-  font-size: 1em;
-  font-style: normal;
+//  font-size: 1em;
+//  font-style: normal;
+}
+.porfolioThumbnail {
+font-style: italic;
+  min-height: 180px;
+}
+.porfolioThumbnailImage {
+//  min-width: 20em;
+//  position: relative;
+//  z-index: ;
+}
+.caption {
+//  position: absolute;
+  
+
 }
 .footerLinks {
   list-style: none;

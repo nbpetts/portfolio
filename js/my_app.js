@@ -39,6 +39,8 @@ $(".bitOfWork ").on("click", "a.more", function(e){
       currentActiveImage = $(".activeImage").attr("src"),
       currentActiveCaptionTitle = $(".activeCaptionTitle").html(),
       currentActiveCaption = $(".activeCaption").html(),
+      
+      // this all needs to be re-writtne. This refers to the whole link now, so all the parents, nexts etc. need to be redone. (sigh)
       elClickedCaptionTitle = $(this),
       elClickedCaptionImage = $(this).parent().parent().prev("img"),
       elClickedCaption = $(this).parent().next(),
