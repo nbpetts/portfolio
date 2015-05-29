@@ -20,7 +20,7 @@ p > a, li > a  {
   
 }
 h2 {
-  
+  color: $myLightGrey;
 }
 .hero {
   background: $myWhite;
@@ -39,8 +39,41 @@ h1.hero {
   color: $beard;
   font-weight: bold;
 }
+nav.navbar {
+  top:0px;
+}
 .socialGroup, .bitOfWork{
   margin-top: 20px;
+}
+article {
+  margin-bottom: 20px;
+}
+.pageBackgroundMargin {
+  margin-top: 75px;
+}
+
+//resume styles
+p.resumePhone {
+  margin-bottom: 0;
+}
+a.resumeEmail {
+  margin-top: 0;
+}
+h3.jobTitle{
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+p.jobPlace {
+  margin-bottom: 0;
+  
+}
+.jobDetailsGroup{
+  border-left: 2px solid $myLightGrey;
+}
+p.jobTime {
+  font-style: italic;
+  margin-bottom: 0;
 }
 
 // my navbar styles
@@ -52,9 +85,7 @@ h1.hero {
 .navbar{
   margin-bottom: 0;
 }
-.pageBackgroundMargin {
-  margin-top: 75px;
-}
+
 
 // my button styles
 .btn {
@@ -70,7 +101,6 @@ h1.hero {
 position: relative;
   top: 5px;
   left: 5px;
-// box-shadow: 2px 0px 0px $myButtonShadow;
 } 
 .btn:visitied {
   color:$myWhite;
@@ -82,8 +112,22 @@ position: relative;
   display: none;
 }
 p.activeCaption {
-  font-size: 1em;
-  font-style: normal;
+//  font-size: 1em;
+//  font-style: normal;
+}
+.porfolioThumbnail {
+font-style: italic;
+  min-height: 180px;
+}
+.porfolioThumbnailImage {
+//  min-width: 20em;
+//  position: relative;
+//  z-index: ;
+}
+.caption {
+//  position: absolute;
+  
+
 }
 .footerLinks {
   list-style: none;
