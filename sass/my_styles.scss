@@ -13,12 +13,7 @@ body {
 p > a, li > a  {
   font-style: italic;
 }
-.caption > p {
-  font-size: 1.5em;
-  font-style: italic;
-  color: $myLightGrey;
-  
-}
+
 h2 {
   color: $myLightGrey;
 }
@@ -27,6 +22,19 @@ h4 {
   font-style: italic;
 }
 
+article {
+  margin-bottom: 20px;
+}
+.pageBackgroundMargin {
+  margin-top: 75px;
+}
+.socialGroup, .bitOfWork{
+  margin-top: 20px;
+}
+
+
+
+////////////////////////////////////////////////////// Hero styles
 .hero {
   background: $myWhite;
   border-radius: 10px;
@@ -44,19 +52,9 @@ h1.hero {
   color: $beard;
   font-weight: bold;
 }
-nav.navbar {
-  top:0px;
-}
-.socialGroup, .bitOfWork{
-  margin-top: 20px;
-}
-article {
-  margin-bottom: 20px;
-}
-.pageBackgroundMargin {
-  margin-top: 75px;
-}
-//resume styles
+
+
+///////////////////////////////resume styles
 p.resumePhone {
   margin-bottom: 0;
 }
@@ -87,7 +85,10 @@ p.jobTime {
   margin-bottom: 0;
 }
 
-// my navbar styles
+//////////////////////////////////////          my navbar styles
+nav.navbar {
+  top:0px;
+}
 .navbar-brand {
   font-family: $font-family-serif;
   font-size: 1.875em;
@@ -98,7 +99,7 @@ p.jobTime {
 }
 
 
-// my button styles
+////////////////////////////////////////////// my button styles
 .btn {
   background-color: $darkBlue;
   border-radius: 0;
@@ -117,6 +118,15 @@ position: relative;
 .btn:visitied {
   color:$myWhite;
 }
+
+///////////////////////////////// thumbnail and caption styles
+.caption > p {
+  
+  
+}
+h4.sidebar {
+  font-size: 1em;
+}
 .sidebarImage {
   max-height: 300px
 }
@@ -124,7 +134,7 @@ position: relative;
   display: none;
 }
 p.activeCaption {
-
+ font-size: 1em;
 }
 .porfolioThumbnail {
 font-style: italic;
@@ -140,8 +150,11 @@ font-style: italic;
 //////////////////////////////// /////form styling
 textarea {
   height: 120px;
-  border: none;
+  
   background: none;
+}
+input, textarea {
+  border: 1px solid lighten($myLightGrey, 25)
 }
 form, input, label, textarea, .myLabel, .form-group {
 	box-sizing: border-box;
@@ -152,7 +165,7 @@ label, input, textarea {
 }
 .myLabel {
   
-	border-bottom: 1px solid lighten($myLightGrey, 25);
+	
 	margin-top: -1px; // border collapser
 	position: relative;
 
@@ -180,9 +193,9 @@ label {
 		letter-spacing: -0.01em;
 	}
 }
-input, input:focus textarea, textarea:focus {
+input, input:focus, textarea, textarea:focus {
 	background-color: transparent;
-	border: none;
+	
 	
 	font-size: 18px;
 	margin: 9px 0 7px 0;
@@ -200,18 +213,22 @@ label, input, textarea {
 	transition: color 0.4s ease, background-color 0.1s ease-in-out;
 }
 
-/////////////////////////// Footer stylings
+////////////////////////////////////////////////////// Footer stylings
 .footerLinks {
   list-style: none;
   margin-top: 150px;
+
   
 }
 .footerLinks > li {
   display: inline;
-  padding: 15px;
+  padding-bottom: 50px;
+}
+.copyright {
+  font-size: .6em;
 }
 
-// Illustration
+////////////////////////////////////////////////////// Illustration
 .grass {
   height: 50px;
   background: url("../images/grassPattern.png") repeat;
@@ -228,7 +245,7 @@ label, input, textarea {
 .nathanFooter {
   max-width: 100px;
 }
-// allignment classes
+/////////////////////////////////////////////// alignment classes
 .bottomAlign {
   display: flex;
   align-items: flex-end;
@@ -239,7 +256,7 @@ label, input, textarea {
   align-items: center;
   
 }
-//breakpoints
+///////////////////////////////////////////////////////////////////breakpoints
 
 @media (max-width: $screen-xs-max) { 
   h1.hero {
@@ -252,6 +269,7 @@ label, input, textarea {
   border-bottom: 1px solid $myLightGrey;
   }
 }
+
 @media (min-width: $screen-sm-min) { 
   .myFloatRight {
     
@@ -278,7 +296,7 @@ margin-top: 15px;
 @media (min-width: $screen-lg-min) {  }
 
 
-// animations. Thanks to Animate.css for the animation classes.
+/////////////////////////// animations. Thanks to Animate.css for the animation classes.
 .animated {
   -webkit-animation-duration: 1s;
  

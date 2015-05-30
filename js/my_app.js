@@ -28,7 +28,7 @@ $(function() {
   });
 }); // end scroll button controll 
   
-  // Bit of my work control
+// Bit of my work control
   
 $(".bitOfWork ").on("click", "a.more", function(e){
   e.preventDefault();
@@ -40,28 +40,37 @@ $(".bitOfWork ").on("click", "a.more", function(e){
       currentActiveCaptionTitle = $(".activeCaptionTitle").html(),
       currentActiveCaption = $(".activeCaption").html(),
       
-      // this all needs to be re-writtne. This refers to the whole link now, so all the parents, nexts etc. need to be redone. (sigh)
-      elClickedCaptionTitle = $(this),
-      elClickedCaptionImage = $(this).parent().parent().prev("img"),
-      elClickedCaption = $(this).parent().next(),
-      clickedCaptionTitle = $(this).html(),
-      clickedImage = $(this).parent().parent().prev("img").attr("src"),
-      clickedCaption = $(this).parent().next().html();
+      elClicked = $(this),
+      elClickedCaptionImage = $(this).children(".thumbnail").children(".sidebarImage"),
+      elClickedCaption = $(this).siblings("p"),
+      elclickedCaptionTitle = $(this).children(".thumbnail").children(".caption").children("h4"),
+      clickdCaptionTitle = elclickedCaptionTitle.html(),
+      clickedImage = elClickedCaptionImage.attr("src"),
+      clickedCaption = elClickedCaption.html();
   
   
-  elActiveSpot.hide(function(){
+  elActiveSpot.add(elClicked).fadeOut("fast",function(){
     $(".activeImage").attr("src", clickedImage);
-    $(".activeCaptionTitle").html(clickedCaptionTitle);
+    $(".activeCaptionTitle").html(clickdCaptionTitle);
     $(".activeCaption").html(clickedCaption);
-    elClickedCaptionTitle.html(currentActiveCaptionTitle);
+    elclickedCaptionTitle.html(currentActiveCaptionTitle);
     elClickedCaptionImage.attr("src", currentActiveImage);
     elClickedCaption.html(currentActiveCaption);
-    elActiveSpot.show();
+    elActiveSpot.add(elClicked).fadeIn("fast");
     
   }); // end hide
 
  
 }); // end on click
+  
+// Active Page Control
+  $(".navbar-right li a").each(function(){
+    console.log($(this).attr("href"));
+    if ($(this).attr("href") === window.location.pathname.replace("/","")){
+      $(this).parent().addClass("active");
+    }
+    
+  });// end each
   
 
 

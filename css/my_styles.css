@@ -312,8 +312,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+  src: url("../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot");
+  src: url("../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
 }
 .glyphicon {
   position: relative;
@@ -7150,12 +7150,6 @@ p > a, li > a {
   font-style: italic;
 }
 
-.caption > p {
-  font-size: 1.5em;
-  font-style: italic;
-  color: #424242;
-}
-
 h2 {
   color: #424242;
 }
@@ -7163,6 +7157,18 @@ h2 {
 h4 {
   color: #424242;
   font-style: italic;
+}
+
+article {
+  margin-bottom: 20px;
+}
+
+.pageBackgroundMargin {
+  margin-top: 75px;
+}
+
+.socialGroup, .bitOfWork {
+  margin-top: 20px;
 }
 
 .hero {
@@ -7182,22 +7188,6 @@ h1.hero {
 .heroCallout {
   color: #bc5f04;
   font-weight: bold;
-}
-
-nav.navbar {
-  top: 0px;
-}
-
-.socialGroup, .bitOfWork {
-  margin-top: 20px;
-}
-
-article {
-  margin-bottom: 20px;
-}
-
-.pageBackgroundMargin {
-  margin-top: 75px;
 }
 
 p.resumePhone {
@@ -7227,6 +7217,10 @@ p.jobPlace {
 p.jobTime {
   font-style: italic;
   margin-bottom: 0;
+}
+
+nav.navbar {
+  top: 0px;
 }
 
 .navbar-brand {
@@ -7261,12 +7255,20 @@ p.jobTime {
   color: #f9f9f9;
 }
 
+h4.sidebar {
+  font-size: 1em;
+}
+
 .sidebarImage {
   max-height: 300px;
 }
 
 .sidebarCaption {
   display: none;
+}
+
+p.activeCaption {
+  font-size: 1em;
 }
 
 .porfolioThumbnail {
@@ -7276,8 +7278,11 @@ p.jobTime {
 
 textarea {
   height: 120px;
-  border: none;
   background: none;
+}
+
+input, textarea {
+  border: 1px solid #828282;
 }
 
 form, input, label, textarea, .myLabel, .form-group {
@@ -7289,7 +7294,6 @@ label, input, textarea {
 }
 
 .myLabel {
-  border-bottom: 1px solid #828282;
   margin-top: -1px;
   position: relative;
 }
@@ -7313,9 +7317,8 @@ label {
   letter-spacing: -0.01em;
 }
 
-input, input:focus textarea, textarea:focus {
+input, input:focus, textarea, textarea:focus {
   background-color: transparent;
-  border: none;
   font-size: 18px;
   margin: 9px 0 7px 0;
   margin: 0;
@@ -7340,7 +7343,11 @@ label, input, textarea {
 
 .footerLinks > li {
   display: inline;
-  padding: 15px;
+  padding-bottom: 50px;
+}
+
+.copyright {
+  font-size: .6em;
 }
 
 .grass {
