@@ -26,7 +26,7 @@
         <!--end row-->
         <div class="row bottomAlign">
             <a class="hidden-xs  col-xs-1 col-sm-1 col-sm-offset-6 downArrow animated bounce" href="#content">
-                <img src="/images/downArrow.svg" alt="Click Here to Skip to the main Content">
+                <img src="images/downArrow.svg" alt="Click Here to Skip to the main Content">
             </a>
             <img src="images/pixelGuy.png" alt="Pixel Version of Nathan Petts" class="img-responsive col-xs-1 col-xs-offset-1 nathan hidden-xs ">
 
