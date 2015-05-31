@@ -66,8 +66,8 @@ $(".bitOfWork ").on("click", "a.more", function(e){
   
 // Active Page Control
   $(".navbar-right li a").each(function(){
-    console.log($(this).attr("href"));
-    if ($(this).attr("href") === window.location.pathname.replace("/","")){
+
+    if ( ("/portfolio" + $(this).attr("href")) === window.location.pathname.replace("/","")){
       $(this).parent().addClass("active");
     }
     
