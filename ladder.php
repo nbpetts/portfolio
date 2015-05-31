@@ -31,7 +31,7 @@
       <section class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
           <h2>The Problem:</h2>
-          <p>Adventure Stage Chicago wanted to connect with thier audiences in a unique way on a shoestring budget</p>
+          <p>Adventure Stage Chicago wanted to connect with their audiences in a unique way on a shoestring budget</p>
         </div>
 
       </section>
