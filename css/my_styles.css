@@ -7363,6 +7363,14 @@ label, input, textarea {
   font-size: .6em;
 }
 
+.nathanFooter {
+  max-height: 272px;
+}
+
+.footerTree {
+  max-height: 459px;
+}
+
 .grass {
   height: 50px;
   background: url("../images/grassPattern.png") repeat;

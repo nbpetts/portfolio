@@ -241,7 +241,12 @@ label, input, textarea {
 .copyright {
   font-size: .6em;
 }
-
+.nathanFooter {
+  max-height: 272px;
+}
+.footerTree {
+  max-height: 459px;
+}
 ////////////////////////////////////////////////////// Illustration
 .grass {
   height: 50px;
@@ -284,6 +289,7 @@ label, input, textarea {
   .jobTitleGroup{
   border-bottom: 1px solid $myLightGrey;
   }
+  
 }
 
 @media (min-width: $screen-sm-min) { 

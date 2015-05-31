@@ -15,7 +15,7 @@
           <p class="col-xs-12 copyright">Site <span class="glyphicon glyphicon-copyright-mark"></span> <?php date_default_timezone_set('UTC'); echo date("Y"); ?> Nathan Petts.  <br>Maniac Mansion is a copyright of its respective owners. Please do not sue me. </p>
         </ul>
          </section>
-        <img src="images/tree.png" class="img-responisve hidden-xs col-sm-8 col-sm-pull-1">
+        <img src="images/tree.png" class="img-responisve hidden-xs col-sm-8 col-sm-pull-1 footerTree">
       </section>
   
    
