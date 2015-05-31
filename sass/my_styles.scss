@@ -275,12 +275,12 @@ label, input, textarea {
   align-items: center;
   
 }
-///////////////////////////////////////////////////////////////////breakpoints
+/////////////////////////////////////////////////////////////breakpoints
 
 @media (max-width: $screen-xs-max) { 
   h1.hero {
     margin-bottom: 20px;
-    font-size: 3.5em;
+    font-size: 3em;
   }
   
   .caption > p.sidebar {

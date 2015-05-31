@@ -7403,7 +7403,7 @@ label, input, textarea {
 @media (max-width: 767px) {
   h1.hero {
     margin-bottom: 20px;
-    font-size: 3.5em;
+    font-size: 3em;
   }
 
   .caption > p.sidebar {

@@ -24,12 +24,23 @@ module.exports = function (grunt) {
     watch: {
       sass: {
         files: ['sass/{,*/}*.{scss,sass}', 'bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/{,*/}*.{scss,sass}'],
-        tasks: ['sass:dev']
+        tasks: ['sass:dev', 'cssmin:dev' ]
+      }
+    },
+    cssmin: {
+      dev: {
+        files:[{expand: true,
+                cwd: 'css',
+                src: ['*.css','!*.min.css'],
+                dest: 'css',
+                ext: ".min.css"}]
+
       }
     }
   });
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
 
   grunt.registerTask('default', [
       'watch'

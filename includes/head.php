@@ -27,7 +27,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Life+Savers:400,700" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="css/my_styles.css">
+<link rel="stylesheet" href="css/my_styles.min.css">
 
 <link type="text/plain" rel="author" href="http://www.nathanpetts.com/humans.txt" />
 <meta content="index,follow" name="robots" />
