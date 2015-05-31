@@ -96,6 +96,7 @@ nav.navbar {
 }
 .navbar{
   margin-bottom: 0;
+  border-radius: 0;
 }
 
 
@@ -108,13 +109,26 @@ nav.navbar {
   margin: 10px 0 10px 0;
 }
 .btn:hover{
-  color:  darken($myWhite, 15%);
+  color:  darken($myLightGrey, 15%);
+  background-color: $myWhite;
 }
 .btn:active {
 position: relative;
   top: 5px;
   left: 5px;
+  bacground-color: darken($myWhite, 15%);
+  border-radius: 0;
+  box-shadow: 0 0 0 0;
 } 
+.btn-default :active {
+position: relative;
+  top: 5px;
+  left: 5px;
+  bacground-color: darken($myWhite, 15%);
+  border-radius: 0;
+  box-shadow: 0 0 0 0;
+} 
+
 .btn:visitied {
   color:$myWhite;
 }
@@ -138,7 +152,7 @@ p.activeCaption {
 }
 .porfolioThumbnail {
 font-style: italic;
-  min-height: 180px;
+//  min-height: 180px;
 }
 .porfolioThumbnailImage {
 
@@ -261,7 +275,9 @@ label, input, textarea {
 @media (max-width: $screen-xs-max) { 
   h1.hero {
     margin-bottom: 20px;
+    font-size: 4em;
   }
+  
   .caption > p.sidebar {
   font-size: 1em;
   }

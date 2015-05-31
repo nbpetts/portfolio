@@ -2,24 +2,22 @@
 <html>
 
 <head>
-  <meta charset="UTF-8">
+ <?php include "includes/head.php" ?>
   <title>Disingenuous Unified Monetary Bank | Nathan Petts - UX designer</title>
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Life+Savers:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/css/my_styles.css">
+  
 
 </head>
 
 <body>
+  <?php include_once("includes/googleAnalytics.php") ?>
 
   <?php include "includes/header.php" ?>
-  <div class="container pageBackground">
+  <div class="container pageBackground ">
 
     <section class="row">
       <div class="col-xs-12 col-sm-offset-2 col-sm-8 ">
         <h1>Disingenuous Unified Monetary Bank</h1>
-        <a name="content"></a>
+        <a id="content" name="content"></a> 
       </div>
 
     </section>

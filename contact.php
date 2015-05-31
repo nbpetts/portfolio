@@ -2,29 +2,20 @@
 <html>
 
 <head>
-  <meta charset="UTF-8">
-  <title>Contact Me | Nathan Petts - UX designer</title>
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Life+Savers:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/css/my_styles.css">
-
+    <?php include "includes/head.php" ?>
+    <title>Contact Me | Nathan Petts - UX designer</title>
 </head>
 
-<?php include "includes/header.php" ?>
-    
-  <div class="container pageBackground">
+<body>
+    <?php include_once( "includes/googleAnalytics.php") ?>
+    <?php include "includes/header.php" ?>
 
-     <?php include "includes/contactForm.php" ?>
-  
+    <div class="container pageBackground">
+<a id="content" name="content"></a> 
+        <?php include "includes/contactForm.php" ?>
 
-
-
-
-
-
-  <?php include "includes/footer.php" ?>
-  </div>
+        <?php include "includes/footer.php" ?>
+    </div>
 
 </body>
 <script src="bower_components/jquery/dist/jquery.min.js"></script>

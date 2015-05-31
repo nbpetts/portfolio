@@ -2,23 +2,21 @@
 <html>
 
 <head>
-  <meta charset="UTF-8">
-  <title>Portfolio | Nathan Petts - UX designer</title>
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Life+Savers:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/css/my_styles.css">
+<?php include "includes/head.php" ?>
 
+  <title>Portfolio | Nathan Petts - UX designer</title>
+  
 </head>
 
 <body>
+  <?php include_once("includes/googleAnalytics.php") ?>
   <?php include "includes/header.php" ?>
   
   <div class="container pageBackground">
 
     <section class="row">
       <div class="col-xs-12 col-sm-8 ">
-        <h1>A Selection of My Work</h1>
+        <h1>A Selection of My Work</h1><a id="content" name="content"></a> 
         <a name="content"></a>
       </div>
 
@@ -30,7 +28,7 @@
     <!--close main-->
     <article class="continer">
 
-      <section class="row middleAlign">
+      <section class="row ">
         <div class="col-xs-12 col-sm-3  text-right">
           <h2>Interface Design</h2>
 
@@ -38,7 +36,7 @@
 
 
 
-        <div class="col-xs-12 col-sm-3">
+        <div class="col-xs-6 col-sm-3">
           <a href="worthywords.php" class="">
           <div href="#" class="thumbnail    porfolioThumbnail">
             
@@ -51,7 +49,7 @@
              </a>
         </div>
         <!-- end thumbnail-->
-        <div class="col-xs-12 col-sm-3">
+        <div class="col-xs-6 col-sm-3">
          <a href="mpact.php" class=""> <div href="#" class="thumbnail    porfolioThumbnail">
             
               <img src="images/mpactThumb.png" alt="A thumbnail for Mpact" class="porfolioThumbnailImage">
@@ -63,7 +61,7 @@
           </div></a>
         </div>
         <!-- end thumbnail-->
-        <div class="col-xs-12 col-sm-3">
+        <div class="col-xs-6 col-sm-3">
           <a href="dumb.php" class=""><div href="#" class="thumbnail    porfolioThumbnail">
             
               <img src="images/dumbThumb.png" alt="A thumbnail for Disingenuous Unified Monetary Bank" class="porfolioThumbnailImage">
@@ -81,7 +79,7 @@
 
       </section>
 
-     <section class="row middleAlign">
+     <section class="row ">
         <div class="col-xs-12 col-sm-3  text-right">
           <h2>User Research</h2>
 
@@ -89,7 +87,7 @@
 
 
 
-        <div class="col-xs-12 col-sm-3">
+        <div class="col-xs-6 col-sm-3">
           <a href="volunteer.php" class=""><div href="#" class="thumbnail    porfolioThumbnail">
            
               <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
@@ -101,7 +99,7 @@
           </div></a>
         </div>
         <!-- end thumbnail-->
-        <div class="col-xs-12 col-sm-3">
+        <div class="col-xs-6 col-sm-3">
           <a href="ladder.php" class=""><div href="#" class="thumbnail    porfolioThumbnail">
             
               <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
@@ -118,7 +116,7 @@
 
 
 
-      </section><section class="row middleAlign">
+      </section><section class="row ">
         <div class="col-xs-12 col-sm-3  text-right">
           <h2>Front End Development</h2>
 
@@ -126,7 +124,7 @@
 
 
 
-        <div class="col-xs-12 col-sm-3">
+        <div class="col-xs-6 col-sm-3">
           <a href="cardioglass.php" class=""><div href="#" class="thumbnail    porfolioThumbnail">
             
               <img src="images/umlClassDiagramThumb.png" alt="The cover sheet for Finding Volunteer Resources User Research" class="porfolioThumbnailImage">
@@ -138,7 +136,7 @@
           </div></a>
         </div>
         <!-- end thumbnail-->
-        <div class="col-xs-12 col-sm-3">
+        <div class="col-xs-6 col-sm-3">
           <a href="equipment.php" class=""><div href="#" class="thumbnail    porfolioThumbnail">
            
               <img src="images/placeholderSquareThumb.png" alt="The cover sheet for Finding Volunteer Resources User Research" class="porfolioThumbnailImage">

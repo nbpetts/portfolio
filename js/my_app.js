@@ -9,7 +9,7 @@ $(document).ready(function() {
       nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
       pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);
       
-    });
+    }); // end scroll
   
 //scroll button controll  
 $(function() {
@@ -19,9 +19,10 @@ $(function() {
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
       if (target.length) {
         $('html,body').animate({
-          scrollTop: target.offset().top - 125
+          scrollTop: target.offset().top - 100
         }, 1000);
-        
+        nav.toggleClass("navbar-fixed-top");
+        pageBackground.toggleClass ("pageBackgroundMargin");
         return false;
       }
     }

@@ -7231,6 +7231,7 @@ nav.navbar {
 
 .navbar {
   margin-bottom: 0;
+  border-radius: 0;
 }
 
 .btn {
@@ -7242,13 +7243,26 @@ nav.navbar {
 }
 
 .btn:hover {
-  color: lightgray;
+  color: #1c1c1c;
+  background-color: #f9f9f9;
 }
 
 .btn:active {
   position: relative;
   top: 5px;
   left: 5px;
+  bacground-color: lightgray;
+  border-radius: 0;
+  box-shadow: 0 0 0 0;
+}
+
+.btn-default :active {
+  position: relative;
+  top: 5px;
+  left: 5px;
+  bacground-color: lightgray;
+  border-radius: 0;
+  box-shadow: 0 0 0 0;
 }
 
 .btn:visitied {
@@ -7273,7 +7287,6 @@ p.activeCaption {
 
 .porfolioThumbnail {
   font-style: italic;
-  min-height: 180px;
 }
 
 textarea {
@@ -7382,6 +7395,7 @@ label, input, textarea {
 @media (max-width: 767px) {
   h1.hero {
     margin-bottom: 20px;
+    font-size: 4em;
   }
 
   .caption > p.sidebar {

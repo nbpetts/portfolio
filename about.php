@@ -2,24 +2,22 @@
 <html>
 
 <head>
-  <meta charset="UTF-8">
+ <?php include "includes/head.php" ?>
+
   <title>About Me | Nathan Petts - UX designer</title>
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Life+Savers:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/css/my_styles.css">
+  
 
 </head>
 
 <body>
-
+<?php include_once("includes/googleAnalytics.php") ?>
  <?php include "includes/header.php" ?>
 
   <div class="container pageBackground">
-    <main class="">
+    <main class="" role="main">
       <section class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-1">
-          <h1>A Few Things About Me</h1>
+          <h1>A Few Things About Me</h1><a id="content" name="content"></a> 
           <a name="content"></a>
         </div>
 
@@ -32,7 +30,7 @@
         </div>
         <div class="col-xs-5 col-sm-offset-0 col-sm-4 col-xs-pull-4 col-sm-pull-1 pull-right">
           <div href="#" class="thumbnail ">
-            <img src="images/portfolioHeroAlt.png" alt="A prototype of the Script Courier app" class="sidebarImage">
+            <img src="images/portfolioHeroAlt.png" alt="A photo of UX designer Nathan Petts" class="sidebarImage">
             <div class="caption text-center">
               <p class="sidebar">Fig. 1 - Our Dashing Hero</p>
             </div>

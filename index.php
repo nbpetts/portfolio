@@ -2,16 +2,14 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
-    <title>Nathan Petts | UX designer</title>
-    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Life+Savers:400,700" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/css/my_styles.css">
-
+<?php include "includes/head.php" ?>
+<title>Nathan Petts | UX designer</title>
 </head>
 
 <body>
+ 
+	<a href = ”#content” class="hidden"> Skip to content</a>
+  <?php include_once("includes/googleAnalytics.php") ?>
     <section class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-9 col-sm-offset-1">
@@ -51,7 +49,7 @@
         <main class="">
             <section class="row">
                 <div class="col-xs-12 col-sm-2 col-sm-offset-1">
-                    <h1>Hi!</h1>
+                    <h1>Hi!</h1><a id="content" name="content"></a> 
                     <a name="content"></a>
                 </div>
 

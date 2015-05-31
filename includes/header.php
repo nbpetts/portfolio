@@ -1,4 +1,8 @@
-  <nav class="navbar navbar-default" role="navigation">
+
+	<a href="#content" class="hidden">Skip to content</a>
+
+
+<nav class="navbar navbar-default "  role="navigation">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
@@ -37,6 +41,7 @@
   </nav>
   <!--close nav-->
  
+
     
 
 
