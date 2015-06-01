@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
 
 <head>
 <?php include "includes/head.php" ?>
@@ -127,7 +127,7 @@
         <div class="col-xs-6 col-sm-3">
           <a href="cardioglass.php" class=""><div href="#" class="thumbnail    porfolioThumbnail">
             
-              <img src="images/umlClassDiagramThumb.png" alt="The cover sheet for Finding Volunteer Resources User Research" class="porfolioThumbnailImage">
+              <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
               <div class=" text-center">
                 <p class="">Fig. 6 CardioGlass</p>
 
@@ -139,7 +139,7 @@
         <div class="col-xs-6 col-sm-3">
           <a href="equipment.php" class=""><div href="#" class="thumbnail    porfolioThumbnail">
            
-              <img src="images/placeholderSquareThumb.png" alt="The cover sheet for Finding Volunteer Resources User Research" class="porfolioThumbnailImage">
+              <img src="images/placeholderSquareThumb.png" alt="A thumbnail for my equipment schedular">
               <div class=" text-center">
                 <p class="">Fig. 7 Equipment Inventory</p>
 

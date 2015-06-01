@@ -23,8 +23,8 @@
             <label for="Message">Your Message</label>
         </li>
         <li class="myLabel">
-            <div class="checkbox hidden">
-                <label> Screen readers, please ignore this. 
+            <div class="checkbox hidden" aria-hidden="true">
+                <label aria-hidden="true"> Screen readers, please ignore this. 
                     <input type="checkbox" name="Check">Check me out
                 </label>
             </div>

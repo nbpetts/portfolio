@@ -1,5 +1,5 @@
 
-	<a href="#content" class="hidden">Skip to content</a>
+	<a href="#content" class="hidden sr-only">Skip to content</a>
 
 
 <nav class="navbar navbar-default "  role="navigation">

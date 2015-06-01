@@ -7154,7 +7154,7 @@ h2 {
   color: #424242;
 }
 
-h4 {
+p.activeCaptionTitle {
   color: #424242;
   font-style: italic;
 }
@@ -7269,8 +7269,13 @@ nav.navbar {
   color: #f9f9f9;
 }
 
-h4.sidebar {
-  font-size: 1em;
+.sideWork .thumbnail:hover {
+  box-shadow: 0px 0px 5px 5px #dbdbdb;
+}
+
+p.sidebar {
+  font-size: 2em;
+  font-style: italic;
 }
 
 .sidebarImage {
@@ -7287,6 +7292,10 @@ p.activeCaption {
 
 .porfolioThumbnail {
   font-style: italic;
+}
+
+.porfolioThumbnail:hover {
+  box-shadow: 0px 0px 5px 5px #dbdbdb;
 }
 
 textarea {
@@ -7403,7 +7412,7 @@ label, input, textarea {
 @media (max-width: 767px) {
   h1.hero {
     margin-bottom: 20px;
-    font-size: 3em;
+    font-size: 2.5em;
   }
 
   .caption > p.sidebar {
@@ -7416,7 +7425,7 @@ label, input, textarea {
 }
 @media (min-width: 768px) {
   .caption > p.sidebar {
-    font-size: .75em;
+    font-size: .9em;
   }
 
   .job {
