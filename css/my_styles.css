@@ -4927,7 +4927,7 @@ tbody.collapse.in {
   border-color: #ddd;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #ab8949;
+  background-color: #997a42;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #888;
@@ -7267,6 +7267,10 @@ nav.navbar {
 
 .btn:visitied {
   color: #f9f9f9;
+}
+
+.hambo {
+  margin-top: 5px;
 }
 
 .sideWork .thumbnail:hover {
