@@ -7426,6 +7426,10 @@ label, input, textarea {
   .jobTitleGroup {
     border-bottom: 1px solid #424242;
   }
+
+  .navbar-brand {
+    margin-top: 5px;
+  }
 }
 @media (min-width: 768px) {
   .caption > p.sidebar {
