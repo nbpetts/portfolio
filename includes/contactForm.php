@@ -15,7 +15,7 @@
         </li>
         <li class="myLabel">
             <input type="email" class="" id="Email1" name="Email" placeholder="" />
-            <label for="Email1">Your Email</label>
+            <label for="Email1">Your Email - Required</label>
         </li>
         <li class="myLabel">
 

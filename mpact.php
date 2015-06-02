@@ -22,57 +22,87 @@
 
     </section>
 
+<article class="continer">
 
 
 
-
-    <article class="continer">
-
-      <section class="row">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+     <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>The Problem:</h2>
-          <p>Adventure Stage Chicago wanted to connect with their audiences in a unique way on a shoestring budget</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+
+      </section>
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>My Role:</h2>
+          <p>ut varius elit placerat eget</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <img src="images/worthyWords.png" alt="The main page of Worthy Words the app" class="img-responsive">
-          <p class="text-center">Fig. 1 Worthy Words Home Page</p>
+          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
+          <p class="text-center">Fig. 1 Cras vestibulum porttitor</p>
 
 
         </div>
 
       </section>
       <section class="row">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-
-          <p>Worthy Words is a project that I designed and developed in conjunction with Adventure Stage Chicago. They were putting on a show called Worthy that deals with issues of identity and the stories our culture tells. They were interested in creating an app or website that would allow them to connect to their young audience in a unique way. We brainstormed many ideas and eventually came up with a Mad Libs-esque toy that allowed the audience to read and change stories about the characters in the show. It also allowed the audience members to share their own stories with the folks at Adventure Stage.</p>
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Lorem ipsum dolor</h2>
+          <p>Nulla varius et odio ac luctus. Aliquam maximus lorem a sapien iaculis, sit amet mollis eros consectetur. Nam eu ex nec sem fermentum convallis. Nulla est leo, tincidunt ut rhoncus et, tristique et leo. Donec blandit, lectus in vestibulum vulputate, turpis justo fermentum purus, ut efficitur ipsum risus eu est. Cras condimentum arcu sodales scelerisque volutpat. Cras fermentum ut ante sed pharetra.</p>
+          <p>Proin maximus velit vel nisl laoreet, a ornare enim scelerisque. Maecenas nec rhoncus nibh. Duis convallis scelerisque felis, in malesuada urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris leo nunc, vulputate quis risus in, mollis pulvinar felis. Praesent et volutpat sapien. Maecenas nunc ligula, molestie vel hendrerit et, imperdiet et odio. Phasellus nec tortor volutpat, volutpat nunc a, vestibulum enim. Nullam in vulputate mauris, et fermentum augue. Vestibulum vestibulum nisi odio, quis interdum tortor egestas quis. Quisque eget eros porttitor justo posuere tincidunt in sed dui. Sed malesuada accumsan orci, ut accumsan libero. Curabitur massa lorem, laoreet nec viverra et, luctus eget ligula. Sed placerat consequat porta. Fusce rutrum ligula id convallis feugiat.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-2">
           <div class=" thumbnail">
-            <img src="images/worthyWords.png" alt="The main page of Worthy Words the app" class="img-responsive">
-            <p class="text-center">Fig. 2 Worthy Words Word Switching</p>
+            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
+            <p class="text-center">Fig. 2 Quisque eget eros </p>
 
 
           </div>
         </div>
         <div class="col-xs-6 col-xs-offset-3  col-sm-4 col-sm-offset-0">
           <div class="thumbnail">
-            <img src="images/worthyWords.png" alt="The main page of Worthy Words the app" class="img-responsive">
-            <p class="text-center">Fig. 3 Worthy Words Story Form</p>
+            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
+            <p class="text-center">Fig. 3 nunc a, vestibulum</p>
 
 
           </div>
         </div>
       </section>
       <section class="row">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Proin maximus</h2>
+          <p>Morbi ac ex lectus. Aliquam lacinia elementum convallis. Morbi rhoncus consectetur dolor. Etiam non purus mi. Etiam dui ex, pulvinar nec purus pharetra, condimentum viverra nunc. Vestibulum fringilla turpis nec tortor viverra ornare. Maecenas id sollicitudin risus. Maecenas rhoncus dolor sed nisi molestie feugiat.</p>
+          <p>Nam id mi at turpis pharetra viverra. Integer rhoncus arcu et mauris congue condimentum. Aliquam magna magna, egestas eget vestibulum non, pharetra a lectus. Maecenas fringilla bibendum lectus sed interdum. Curabitur lacinia est purus, vel commodo mauris ultrices sit amet. Aenean fermentum ultrices massa sed sodales. Etiam elit diam, fermentum nec vestibulum a, porttitor eget nibh. Proin convallis, risus eu fermentum dignissim, magna dolor euismod quam, vehicula semper lacus metus id nulla. Ut vel purus non ex molestie mattis at efficitur mauris. Ut bibendum velit quis mi feugiat laoreet. Aliquam tincidunt imperdiet ipsum, sed gravida ante commodo dapibus. Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod. </p>
+        </div>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae tellus ultrices, venenatis nulla sit amet, pretium nulla. Nulla suscipit, felis ac semper venenatis, neque orci gravida dolor, nec pretium est risus non quam. Suspendisse mollis nibh ac ex mattis fermentum. Donec cursus lectus non nibh pharetra, a accumsan elit semper. Aenean a blandit dui. Quisque a consectetur libero. Proin ut ligula non erat varius efficitur quis eget turpis. Quisque nisi augue, sollicitudin sed magna eget, hendrerit congue augue. Nullam eget pretium sapien. Curabitur quis cursus massa.</p>
+      </section>
+      <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
+          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
+          <p class="text-center">Fig. 4 vehicula lacus, ac</p>
+
+
+        </div>
+
+      </section>
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>In scelerisque</h2>
+          <p>Vestibulum et ligula molestie, blandit turpis vehicula, congue magna. Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed. Donec scelerisque metus ut nibh luctus, quis congue nibh fringilla. Quisque nec magna tristique, consequat velit sed, pharetra arcu. Donec urna augue, rutrum id justo et, pulvinar bibendum dui. Phasellus maximus porta justo. Nullam pulvinar nibh nec faucibus fringilla. </p>
+          <h2>Lessons Learned</h2>
+          <ul>
+            <li><strong>Nam id mi:</strong> Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet.</li>
+            <li><strong>Nam id mi:</strong> Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod.</li>
+          </ul>
+          <h2>Morbi ac ex lectus</h2>
+          <p>Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. <a target="_blank" href="http://www.worthy-words.net">Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed.</a> </p>
         </div>
 
       </section>
@@ -80,6 +110,9 @@
   <?php include "includes/backToPortfolioButton.php" ?>
        
       </section>
+
+
+
 
 
     </article>

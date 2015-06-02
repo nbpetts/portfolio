@@ -44,7 +44,7 @@ $(".bitOfWork ").on("click", "a.more", function(e){
       elClicked = $(this),
       elClickedCaptionImage = $(this).children(".thumbnail").children(".sidebarImage"),
       elClickedCaption = $(this).siblings("p"),
-      elclickedCaptionTitle = $(this).children(".thumbnail").children(".caption").children("h4"),
+      elclickedCaptionTitle = $(this).children(".thumbnail").children(".caption").children(".sidebar"),
       clickdCaptionTitle = elclickedCaptionTitle.html(),
       clickedImage = elClickedCaptionImage.attr("src"),
       clickedCaption = elClickedCaption.html();
