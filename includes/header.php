@@ -6,12 +6,11 @@
     <div class="container">
       <div class="navbar-header">
         
-        <button type="button" class="navbar-toggle row" data-toggle="collapse" data-target="#collapse">
-          <div class="col-xs-6">Menu</div>
-          <div class="col-xs-6 hambo"><span class="sr-only"> Toggle Navigation </span>
+        <button type="button" class="navbar-toggle " data-toggle="collapse" data-target="#collapse">
+          <span class="sr-only"> Toggle Navigation </span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
-          <span class="icon-bar"></span></div>
+          <span class="icon-bar"></span>
           
         </button>
         <a class="navbar-brand" href="index.php">

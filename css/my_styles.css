@@ -4927,7 +4927,7 @@ tbody.collapse.in {
   border-color: #ddd;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #997a42;
+  background-color: #6a4f1d;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #888;
@@ -7425,10 +7425,6 @@ label, input, textarea {
 
   .jobTitleGroup {
     border-bottom: 1px solid #424242;
-  }
-
-  .navbar-brand {
-    margin-top: 5px;
   }
 }
 @media (min-width: 768px) {
