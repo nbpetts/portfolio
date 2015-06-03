@@ -254,7 +254,9 @@ label, input, textarea {
   max-height: 272px;
 }
 .footerTree {
+  position: relative;
   max-height: 459px;
+  left: -10px;
 }
 ////////////////////////////////////////////////////// Illustration
 .grass {

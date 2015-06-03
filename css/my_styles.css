@@ -7381,7 +7381,9 @@ label, input, textarea {
 }
 
 .footerTree {
+  position: relative;
   max-height: 459px;
+  left: -10px;
 }
 
 .grass {
