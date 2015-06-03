@@ -4,7 +4,7 @@
     <div class="col-xs-1  col-sm-2">
       <img src="images/pixelGuyEyesRight.png" alt="Pixel Version of Nathan Petts" class="img-responsive  nathanFooter  ">
     </div>
-    <div class="row col-xs-8 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-7">
+    <div class="row col-xs-8 col-xs-offset-2 col-sm-offset-0 col-sm-6 col-md-7">
       <ul class="footerLinks nav nav-pills  ">
         <li class=""><a href="portfolio.php">My Work</a>
         </li>
