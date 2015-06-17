@@ -103,30 +103,58 @@ nav.navbar {
 
 ////////////////////////////////////////////// my button styles
 .btn {
-  background-color: $myLightGreen;
+  background-color: $myWhite;
   border-radius: 0;
   color: $myH1;
   margin: 10px 0 10px 0;
+  border:none;
+  background-image: url("/images/pixelbutton.png") ;
+  background-repeat:no-repeat;
+//  background-size: contain;
+  min-width: 150px;
+ 
+  @include responsive-bg-image(321, 85);
 }
 .btn:hover{
   color:  darken($myLightGrey, 15%);
   background-color: $myWhite;
+  border:none;
+  background-image: url("/images/pixelButtonHover.png") ;
+  background-repeat:no-repeat;
+//  background-size: contain;
+  min-width: 150px;
+ 
+  @include responsive-bg-image(321, 85);
 }
+/*.buttonDiv {
+  max-height: 50px;
+}*/
 .btn:active {
-position: relative;
+  color:  darken($myLightGrey, 15%);
+  background-color: $myWhite;
+  border:none;
+  background-image: url("/images/pixelButtonPressed.png") ;
+  background-repeat:no-repeat;
+//  background-size: contain;
+  min-width: 150px;
+ 
+  @include responsive-bg-image(321, 85);
+  
+  
+/*position: relative;
   top: 5px;
   left: 5px;
   bacground-color: darken($myWhite, 15%);
   border-radius: 0;
-  box-shadow: 0 0 0 0;
+  box-shadow: 0 0 0 0;*/
 } 
 .btn-default :active {
-position: relative;
+/*position: relative;
   top: 5px;
   left: 5px;
-  bacground-color: darken($myWhite, 15%);
+//  bacground-color: darken($myWhite, 15%);
   border-radius: 0;
-  box-shadow: 0 0 0 0;
+  box-shadow: 0 0 0 0;*/
 } 
 
 .btn:visitied {

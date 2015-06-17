@@ -3,17 +3,25 @@
   height: 0;
   padding-bottom: percentage($image-height / $image-width);
   display: block;
+  
+  
   @media (max-width: $screen-xs-max) { 
-   padding-top: percentage($image-height / $image-width) - 23.5;
+   padding-top: percentage($image-height / $image-width) - 20;
   }
 
 @media (min-width: $screen-sm-min) { 
-  padding-top: percentage($image-height / $image-width) - 22;
+  
 }
   
   
-@media (max-width: $screen-sm-max) { }
-@media (min-width: $screen-md-min) { }
+@media (max-width: $screen-sm-max) { 
+  
+padding-top: percentage($image-height / $image-width) - 19;
+}
+@media (min-width: $screen-md-min) { 
+padding-top: percentage($image-height / $image-width) - 17;
+
+}
 @media (max-width: $screen-md-max) {  }
 @media (min-width: $screen-lg-min) {  }
   
