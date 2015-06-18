@@ -5,7 +5,7 @@ $(document).ready(function() {
         navTop = nav.offset().top,
         pageBackground = $(".pageBackground");
     $(window).scroll(function(e) {
-      
+        
       nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
       pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);
       
