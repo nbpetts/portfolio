@@ -127,7 +127,7 @@ nav.navbar {
   @include responsive-bg-image(321, 85);
 }
 /*.buttonDiv {
-  max-height: 50px;
+  max-height: 50px; 
 }*/
 .btn:active {
   color:  darken($myLightGrey, 15%);
