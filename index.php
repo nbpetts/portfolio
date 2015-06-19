@@ -10,7 +10,7 @@
  
 	<a href = ”#content” class="hidden"> Skip to content</a>
   <?php include_once("includes/googleAnalytics.php") ?>
-    <section class="container">
+    <section class="container myJumbotron" id="myJumbotron">
         <div class="row">
             <div class="col-xs-12 col-sm-9 col-sm-offset-1">
                 <h1 class="hero">With <span class="heroCallout">Empathy</span>, <span class="heroCallout">Humor</span> and <span class="heroCallout">Data</span>, I help people tell their stories. I am UX designer <span class="heroCallout">Nathan Petts</span>.</h1>

@@ -7144,6 +7144,7 @@ body {
 
 .pageBackground {
   background-color: #f9f9f9;
+  padding-top: 80px;
 }
 
 p > a, li > a {
@@ -7164,7 +7165,7 @@ article {
 }
 
 .pageBackgroundMargin {
-  margin-top: 75px;
+  padding-top: 100px;
 }
 
 .socialGroup, .bitOfWork {
@@ -7232,6 +7233,12 @@ nav.navbar {
 .navbar {
   margin-bottom: 0;
   border-radius: 0;
+}
+
+.affix {
+  width: 100%;
+  z-index: 100;
+  top: 0;
 }
 
 .btn {

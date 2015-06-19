@@ -1,15 +1,30 @@
 $(document).ready(function() {
     
     //navbar scorll control\
-    var nav = $("nav"),
-        navTop = nav.offset().top,
+  $(window).load(function(){
+     var nav = $("nav"),
+        navTop = nav.position().top,
         pageBackground = $(".pageBackground");
     $(window).scroll(function(e) {
-        
-      nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
-      pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);
+        $("nav").affix({
+          offset: {
+            top: navTop
+            
+          }
+          
+          
+        }); // end affix
+      
+      pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() >= navTop);
+      /*nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
+      pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);*/
       
     }); // end scroll
+    
+    
+    
+  }); // end pageload
+   
   
 //scroll button controll  
 $(function() {
@@ -19,10 +34,17 @@ $(function() {
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
       if (target.length) {
         $('html,body').animate({
-          scrollTop: target.offset().top - 100
+          scrollTop: target.offset().top - 160
         }, 1000);
-        nav.toggleClass("navbar-fixed-top");
-        pageBackground.toggleClass ("pageBackgroundMargin");
+        $("nav").affix({
+          offset: {
+            top: navTop
+            
+          }
+          
+          
+        }); // end affix
+//        $(".pageBackground").toggleClass ("pageBackgroundMargin");
         return false;
       }
     }
