@@ -17,8 +17,7 @@
     <section class="row ">
       <div class="col-xs-12 col-sm-8 ">
         <h1>Nathan B. Petts</h1><a id="content" name="content"></a> 
-        <p class="resumePhone">734.255.9042</p>
-        <a href="mailto:nbpetts@gmail.com" class="resumeEmail">nbpetts@gmail.com</a>
+        <a href="mailto:nbpetts@gmail.com" class="resumeEmail">nbpetts [at] gmail [dot] com</a>
       </div>
 
     </section>
@@ -30,7 +29,7 @@
 
     </section>
     <section class="row job">
-      <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-right jobTitleGroup">
+      <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-sm-right jobTitleGroup">
         <h3 class="jobTitle">MATEC Technologist </h3>
         <p class="jobPlace">University of Illinois at Chicago</p>
         <p class="jobTime">March 2014 - Current</p>
@@ -58,7 +57,7 @@ managing the laptop inventory. Hired graduate student assistant; our technical e
 
     </section>
     <section class="row job">
-      <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-right jobTitleGroup">
+      <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-sm-right jobTitleGroup">
         <h3 class="jobTitle">Technology Support Specialist</h3>
         <p class="jobPlace">Rush University Medical Library</p>
         <p class="jobTime">October 2012 - February 2014</p>
@@ -77,7 +76,7 @@ managing the laptop inventory. Hired graduate student assistant; our technical e
 
     </section>
      <section class="row job">
-      <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-right jobTitleGroup">
+      <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-sm-right jobTitleGroup">
         <h3 class="jobTitle">Library Tech</h3>
         <p class="jobPlace">Rush University Medical Library</p>
         <p class="jobTime">November 2005 - October 2012</p>
@@ -163,46 +162,55 @@ managing the laptop inventory. Hired graduate student assistant; our technical e
 
     </article>
     <!--close article-->
- <footer class=" ">
 
-      <section class="row bottomAlign">
-        <img src="images/goneFishing.png" alt="Pixel Version of Nathan Petts" class="img-responsive col-xs-4 col-xs-offset-1   ">
-        <ul class="footerLinks nav nav-pills col-xs-5 col-sm-12 ">
-          <li class=""><a href="portfolio.php">My Work</a>
-          </li>
-          <li class=""><a href="resume.php">My Résumé</a>
-          </li>
-          <li class=""><a href="about.php">About Me</a>
-          </li>
-          <li class=""><a href="contact.php">Contact Me</a>
-          </li>
-          <p class="col-xs-12 col-xs-push-2 copyright">Site <span class="glyphicon glyphicon-copyright-mark"></span> <?php date_default_timezone_set('UTC'); echo date("Y"); ?> Nathan Petts.  Maniac Mansion is a copyright of its respective owners. Please do not sue me. </p>
-        </ul>
-         
-        <img src="images/tree.png" class="img-responisve hidden-xs col-sm-9 col-sm-pull-1">
-      </section>
-  
-   
-  
-      <!--end row-->
+    <footer class=" ">
+
+  <section class="row bottomAlign">
+    <div class="col-xs-1  col-sm-2">
+      <img src="images/goneFishing.png" alt="Pixel Version of Nathan Petts" class="img-responsive  nathanFooter  ">
+    </div>
+    <section class="row col-xs-11 col-sm-4 col-lg-5 mountains">
+      
+      <div class="row col-xs-4 col-xs-offset-5 col-sm-8 col-sm-offset-2  ">
+      <ul class="footerLinks nav nav-pills nav-stacked ">
+        <li class="text-center"><a href="index.php#portfolio">My Portfolio</a>
+        </li>
+        <li class="text-center"><a href="resume.php">My Résumé</a>
+        </li>
+        <li class="text-center"><a href="about.php">About Me</a>
+        </li>
+        <li class="text-center"><a href="contact.php">Contact Me</a>
+        </li>
+      </ul>
+    </div>
+    <!--close row-->
+    <div class="row col-xs-12 col-xs-offset-2 col-sm-offset-0 ">
+      <p class="col-xs-12 copyright">Site <span class="glyphicon glyphicon-copyright-mark"></span>
+        <?php date_default_timezone_set( 'UTC'); echo date( "Y"); ?> Nathan Petts.
+       Maniac Mansion is a copyright of its respective owners. Please do not sue me. </p>
+    </div>
+    <!--close row-->
+    
+    </section>
+    <div class="hidden-xs col-sm-5 col-md-push-1 col-lg-push-1"><img src="images/tree.png" class="img-responisve  footerTree" alt="A pretty tree">
+    </div>
+  </section>
 
 
 
-      <section class="row">
-        <div class="col-xs-12 grass "></div>
-
-
-      </section>
+  <!--end row-->
 
 
 
-    </footer>
-    <!--end footer-->
+  <section class="row">
+    <div class="col-xs-12 grass "></div>
+
+
+  </section>
+
   </div>
 
 </body>
-<script src="bower_components/jquery/dist/jquery.min.js"></script>
-<script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js"></script>
-<script src="js/my_app.js"></script>
+<?php include "includes/jsDefaults.php" ?>
 
 </html>

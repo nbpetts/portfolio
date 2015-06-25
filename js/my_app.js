@@ -7,20 +7,20 @@ $(document).ready(function () {
   };
   
  var isScrolledIntoView = function (elem){
-    var $elem = $(elem);
-    var $window = $(window);
+    var $elem = $(elem),
+     $window = $(window),
+     docViewTop = $window.scrollTop(),
+     docViewBottom = docViewTop + $window.height(),
+     docViewMid = (docViewBottom + docViewTop) / 2,
+        docViewTopAdj = docViewTop + 200;
+     elemTop = $elem.offset().top,
+     elemBottom = elemTop + $elem.height();
 
-    var docViewTop = $window.scrollTop();
-    var docViewBottom = docViewTop + $window.height();
-
-    var elemTop = $elem.offset().top;
-    var elemBottom = elemTop + $elem.height();
-
-    return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+    return ((elemTop <= docViewMid) && (elemBottom >= docViewTopAdj));
 };
 
 
-  //navbar scorll control\
+  //navbar scorll control and active styling
   $(window).load(function () {
     var nav = $("nav"),
       navTop = nav.position().top,
@@ -34,13 +34,18 @@ $(document).ready(function () {
 
 
       }); // end affix
-      
-      if (isScrolledIntoView($("#portfolioSection"))){
+      if ($("#portfolio").length){
+        
+        
+        if (isScrolledIntoView($("#portfolioSection"))){
         $("#portfolioLink").parent().addClass("active");
       } else {
         $("#portfolioLink").parent().removeClass("active");
         
       }
+        
+      }
+      
         
       pageBackground.toggleClass("pageBackgroundMargin", $(window).scrollTop() >= navTop);
 

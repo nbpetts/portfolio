@@ -1,5 +1,5 @@
 With Empathy, Humor and Data, I help people tell their stories. I am UX designer Nathan Petts. This is my site. Take a look around, send me a message.
 
-This site is copyright Nathan Petts.
+This site copyright Nathan Petts.
 
 Thank you to Bootstrap, jquery, animate.css, Cynthia, Fenchurch and Mom. 

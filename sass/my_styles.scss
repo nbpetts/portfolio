@@ -1,5 +1,6 @@
 @import '../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap';
 @import 'my_mixins.scss';
+@import '../node_modules/animate.css/animate.min.css';
 * {
   
 //  outline: 1px solid red;
@@ -109,6 +110,7 @@ nav.navbar {
 }
 
 ////////////////////////////////////////////// my button styles
+
 .btn {
   background-color: $myWhite;
   border-radius: 0;
@@ -132,7 +134,7 @@ nav.navbar {
 //  background-size: contain;
   min-width: 150px;
  
-  @include responsive-bg-image(321, 85);
+  @include responsive-bg-image(240.75, 63.75); 
 }
 /*.buttonDiv {
   max-height: 50px; 
@@ -145,8 +147,8 @@ nav.navbar {
   background-repeat:no-repeat;
 //  background-size: contain;
   min-width: 150px;
- 
-  @include responsive-bg-image(321, 85);
+ box-shadow: none;
+  @include responsive-bg-image(240.75, 63.75);
   
   
 /*position: relative;
@@ -156,19 +158,22 @@ nav.navbar {
   border-radius: 0;
   box-shadow: 0 0 0 0;*/
 } 
-.btn-default :active {
-/*position: relative;
-  top: 5px;
-  left: 5px;
-//  bacground-color: darken($myWhite, 15%);
-  border-radius: 0;
-  box-shadow: 0 0 0 0;*/
+.btn-default :active { 
+  color:  darken($myLightGrey, 15%);
+  background-color: $myWhite;
+  border:none;
+  background-image: url("/images/pixelButtonPressed.png") ;
+  background-repeat:no-repeat;
+//  background-size: contain;
+  min-width: 150px;
+ box-shadow: none;
+  @include responsive-bg-image(240.75, 63.75);
 } 
 
 .btn:visitied {
   color:$myWhite;
 }
-div.buttonDiv, div.buttonDiv > a  {
+div.buttonDiv, div.buttonDiv > a,  div.buttonDiv > a:hover, div.buttonDiv > a:active  {
   height: 160px;
 }
 .hambo {
@@ -299,6 +304,9 @@ label, input, textarea {
   max-height: 459px;
   left: -10px;
 }
+ul.nav-pills > li {
+   
+}
 ////////////////////////////////////////////////////// Illustration
 .grass {
   height: 50px;
@@ -327,6 +335,10 @@ label, input, textarea {
   align-items: center;
   
 }
+.text-xs-left { text-align: left; }
+.text-xs-right { text-align: right; }
+.text-xs-center { text-align: center; }
+.text-xs-justify { text-align: justify; }
 /////////////////////////////////////////////////////////////breakpoints
 
 @media (max-width: $screen-xs-max) { 
@@ -348,6 +360,11 @@ label, input, textarea {
 }
 
 @media (min-width: $screen-sm-min) { 
+  .text-sm-left { text-align: left; }
+    .text-sm-right { text-align: right; }
+    .text-sm-center { text-align: center; }
+    .text-sm-justify { text-align: justify; }
+  
   .myFloatRight {
     
   }
@@ -364,87 +381,22 @@ margin-top: 15px;
   
 }
 @media (max-width: $screen-sm-max) { 
-  
+   
 }
 @media (min-width: $screen-md-min) { 
-  
+  .text-md-left { text-align: left; }
+    .text-md-right { text-align: right; }
+    .text-md-center { text-align: center; }
+    .text-md-justify { text-align: justify; }
 }
 @media (max-width: $screen-md-max) {  }
-@media (min-width: $screen-lg-min) {  }
+@media (min-width: $screen-lg-min) {  
 
-
-/////////////////////////// animations. Thanks to Animate.css for the animation classes.
-.animated {
-  -webkit-animation-duration: 1s;
- 
-  animation-duration: 1s;
-
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
-}
-@-webkit-keyframes bounce {
-  0%, 20%, 53%, 80%, 100% {
-    -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
-    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
-    -webkit-transform: translate3d(0,0,0);
-    transform: translate3d(0,0,0);
-  }
-  
-  40%, 43% {
-    -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    -webkit-transform: translate3d(0, -30px, 0);
-    transform: translate3d(0, -30px, 0);
-  }
-
-  70% {
-    -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    -webkit-transform: translate3d(0, -15px, 0);
-    transform: translate3d(0, -15px, 0);
-  }
-
-  90% {
-    -webkit-transform: translate3d(0,-4px,0);
-    transform: translate3d(0,-4px,0);
-  }
+ .text-lg-left { text-align: left; }
+    .text-lg-right { text-align: right; }
+    .text-lg-center { text-align: center; }
+    .text-lg-justify { text-align: justify; }
 }
 
-@keyframes bounce {
-  0%, 20%, 53%, 80%, 100% {
-    -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
-    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
-    -webkit-transform: translate3d(0,0,0);
-    transform: translate3d(0,0,0);
-  }
 
-  40%, 43% {
-    -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    -webkit-transform: translate3d(0, -30px, 0);
-    transform: translate3d(0, -30px, 0);
-  }
 
-  70% {
-    -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
-    -webkit-transform: translate3d(0, -15px, 0);
-    transform: translate3d(0, -15px, 0);
-  }
-
-  90% {
-    -webkit-transform: translate3d(0,-4px,0);
-    transform: translate3d(0,-4px,0);
-  }
-}
-
-.bounce {
-  -webkit-animation-name: bounce;
-  animation-name: bounce;
-   -webkit-animation-delay: 5s; /* Chrome, Safari, Opera */
-    animation-delay: 5s;
-    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
-    animation-iteration-count: 2;
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
-}
