@@ -16,10 +16,10 @@
   
 @media (max-width: $screen-sm-max) { 
   
-padding-top: percentage($image-height / $image-width) - 19;
+//padding-top: percentage($image-height / $image-width) - 19;
 }
 @media (min-width: $screen-md-min) { 
-padding-top: percentage($image-height / $image-width) - 17;
+//padding-top: percentage($image-height / $image-width) - 17;
 
 }
 @media (max-width: $screen-md-max) {  }

@@ -117,10 +117,11 @@ nav.navbar {
   border:none;
   background-image: url("/images/pixelbutton.png") ;
   background-repeat:no-repeat;
-//  background-size: contain;
+//  background-size: cover;
   min-width: 150px;
+//  min-height: 38px;
  
-  @include responsive-bg-image(321, 85);
+  @include responsive-bg-image(240.75, 63.75);
 }
 .btn:hover{
   color:  darken($myLightGrey, 15%);
@@ -167,6 +168,9 @@ nav.navbar {
 .btn:visitied {
   color:$myWhite;
 }
+div.buttonDiv, div.buttonDiv > a  {
+  height: 160px;
+}
 .hambo {
   margin-top: 5px;
 }
@@ -193,7 +197,9 @@ p.activeCaption {
 }
 .porfolioThumbnail {
 font-style: italic;
-
+border:none;
+  background-color: $myWhite;
+  border-radius: 0;
 }
 .porfolioThumbnail:hover {
  box-shadow: 0px 0px 5px 5px lighten($myLightGrey, 60);

@@ -7260,16 +7260,6 @@ nav.navbar {
     padding-top: 6.47975%;
   }
 }
-@media (max-width: 991px) {
-  .btn {
-    padding-top: 7.47975%;
-  }
-}
-@media (min-width: 992px) {
-  .btn {
-    padding-top: 9.47975%;
-  }
-}
 
 .btn:hover {
   color: #1c1c1c;
@@ -7286,16 +7276,6 @@ nav.navbar {
 @media (max-width: 767px) {
   .btn:hover {
     padding-top: 6.47975%;
-  }
-}
-@media (max-width: 991px) {
-  .btn:hover {
-    padding-top: 7.47975%;
-  }
-}
-@media (min-width: 992px) {
-  .btn:hover {
-    padding-top: 9.47975%;
   }
 }
 
@@ -7325,16 +7305,6 @@ nav.navbar {
     padding-top: 6.47975%;
   }
 }
-@media (max-width: 991px) {
-  .btn:active {
-    padding-top: 7.47975%;
-  }
-}
-@media (min-width: 992px) {
-  .btn:active {
-    padding-top: 9.47975%;
-  }
-}
 
 .btn-default :active {
   /*position: relative;
@@ -7347,6 +7317,10 @@ nav.navbar {
 
 .btn:visitied {
   color: #f9f9f9;
+}
+
+div.buttonDiv, div.buttonDiv > a {
+  height: 160px;
 }
 
 .hambo {
@@ -7376,6 +7350,9 @@ p.activeCaption {
 
 .porfolioThumbnail {
   font-style: italic;
+  border: none;
+  background-color: #f9f9f9;
+  border-radius: 0;
 }
 
 .porfolioThumbnail:hover {
