@@ -7339,6 +7339,21 @@ div.buttonDiv, div.buttonDiv > a, div.buttonDiv > a:hover, div.buttonDiv > a:act
   margin-top: 5px;
 }
 
+.caption > p {
+  color: #5782b7;
+}
+
+.thumbnail {
+  border: none;
+  background: #f9f9f9;
+  font-style: italic;
+  border-radius: 0;
+}
+
+.thumbnail:hover {
+  box-shadow: 0px 0px 5px 5px #dbdbdb;
+}
+
 .sideWork .thumbnail:hover {
   box-shadow: 0px 0px 5px 5px #dbdbdb;
 }
@@ -7502,7 +7517,6 @@ label, input, textarea {
 
 @media (max-width: 767px) {
   h1.hero {
-    margin-bottom: 20px;
     font-size: 2.5em;
   }
 
@@ -7546,6 +7560,10 @@ label, input, textarea {
   .jobDetailsGroup {
     border-left: 2px solid #424242;
   }
+
+  h1.hero {
+    font-size: 3.5em;
+  }
 }
 @media (min-width: 992px) {
   .text-md-left {
@@ -7562,6 +7580,10 @@ label, input, textarea {
 
   .text-md-justify {
     text-align: justify;
+  }
+
+  h1.hero {
+    font-size: 4.5em;
   }
 }
 @media (min-width: 1200px) {
