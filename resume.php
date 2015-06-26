@@ -102,11 +102,11 @@ managing the laptop inventory. Hired graduate student assistant; our technical e
 
     </section>
 <section class="row">
-     <div class="col-xs-12  col-sm-6 col-sm-offset-1">
+     <div class="col-xs-12  col-sm-5 col-sm-offset-1">
        <h4>Fig. 1 Components</h4>
       <img src="images/partsOfMe.png" alt="" class="img-responsive">
     </div>
-  <div class="col-xs-12 col-sm-5 col-sm-pull-1">
+  <div class="col-xs-12 col-sm-6 ">
     <h4>Fig. 2 Skills and Tools</h4>
       <img src="images/skillsAndTools.png" alt="" class="img-responsive">
     </div>
