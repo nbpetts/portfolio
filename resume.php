@@ -8,7 +8,7 @@
 
 </head>
 
-<body>
+<body data-spy="scroll" data-target=".navbar">
   <?php include_once("includes/googleAnalytics.php") ?>
   <?php include "includes/header.php" ?>
   
