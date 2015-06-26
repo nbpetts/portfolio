@@ -5,7 +5,7 @@
     </div>
 
 </section>
-<scection class="row">
+<section class="row">
 <div class="col-xs-12 col-sm-offset-1 col-sm-5">
   <?php include "includes/social.php" ?>
   </div>
