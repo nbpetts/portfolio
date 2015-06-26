@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
   var checkIfActiveLink = function (el) {
-    if (( "/portfolio" +  el.attr("href")) === window.location.pathname) {
+    if (( "/portfolio/" +  el.attr("href")) === window.location.pathname) {
       el.parent().addClass("active");
     }
   };

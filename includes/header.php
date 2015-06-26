@@ -21,13 +21,13 @@
       <!--close navbar-header-->
       <div class="collapse navbar-collapse" id="collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li class=""><a href="/index.php#portfolio" id="portfolioLink">My Portfolio</a>
+          <li class=""><a href="index.php#portfolio" id="portfolioLink">My Portfolio</a>
           </li>
           <!--<li class=""><a href="portfolio.php">My Portfolio</a>
           </li>-->
-          <li class=""><a href="/resume.php">My Résumé</a>
+          <li class=""><a href="resume.php">My Résumé</a>
           </li>
-          <li class=""><a href="/about.php">About Me</a>
+          <li class=""><a href="about.php">About Me</a>
           </li>
 <!--
           <li class=""><a href="contact.php">Contact Me</a>

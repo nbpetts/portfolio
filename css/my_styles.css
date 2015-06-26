@@ -7248,7 +7248,7 @@ nav.navbar {
   color: #191919;
   margin: 10px 0 10px 0;
   border: none;
-  background-image: url("/images/pixelbutton.png");
+  background-image: url("images/pixelbutton.png");
   background-repeat: no-repeat;
   min-width: 150px;
   background-size: 100%;
@@ -7266,7 +7266,7 @@ nav.navbar {
   color: #1c1c1c;
   background-color: #f9f9f9;
   border: none;
-  background-image: url("/images/pixelButtonHover.png");
+  background-image: url("images/pixelButtonHover.png");
   background-repeat: no-repeat;
   min-width: 150px;
   background-size: 100%;
@@ -7287,7 +7287,7 @@ nav.navbar {
   color: #1c1c1c;
   background-color: #f9f9f9;
   border: none;
-  background-image: url("/images/pixelButtonPressed.png");
+  background-image: url("images/pixelButtonPressed.png");
   background-repeat: no-repeat;
   min-width: 150px;
   box-shadow: none;
