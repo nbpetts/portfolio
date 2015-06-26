@@ -86,7 +86,7 @@
       </section>
       <!--          <a name="portfolio"></a>-->
       <section id="portfolioSection">
-        <?php include "includes/PortfolioSnippit.php" ?>
+        <?php include "includes/portfolioSnippit.php" ?>
       </section>
 
     </main>
