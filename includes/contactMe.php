@@ -14,4 +14,4 @@
   
   <h3><a href="mailto:nbpetts@gmail.com">nbpetts [at] gmail [dot] com</a></h3>
   </div>
-</scection>
+</section>
