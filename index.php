@@ -8,7 +8,7 @@
 
 <body data-spy="scroll" data-target=".navbar">
 
-  <a href=” #content” class="hidden"> Skip to content</a>
+  <a href="#content" class="hidden"> Skip to content</a>
   <?php include_once( "includes/googleAnalytics.php") ?>
   <section class="container myJumbotron" id="myJumbotron">
     <div class="row">

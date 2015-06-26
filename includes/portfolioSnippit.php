@@ -1,9 +1,7 @@
 <section class="row " id="portfolio">
    
         <div class="col-xs-12 col-sm-offset-1 col-sm-8 " >
-            <h1>A Selection of My Work</h1>
-            <a id="content" name="content"></a>
-            <a name="content"></a>
+          <h1>A Selection of My Work</h1>
             <a name="portfolio"></a>
         </div>
     
@@ -26,7 +24,7 @@
     <section class="row ">
         <div class="col-xs-6 col-sm-offset-1 col-sm-3">
             <a href="worthywords.php" class="">
-                <div href="#" class="thumbnail    porfolioThumbnail">
+                <div  class="thumbnail    porfolioThumbnail">
 
                     <img src="images/worthyWordsThumb.png" alt="A thumbnail for Worthy Words" class="porfolioThumbnailImage">
                     <div class=" text-center">
@@ -39,7 +37,7 @@
         <!-- end thumbnail-->
         <div class="col-xs-6 col-sm-3">
             <a href="mpact.php" class="">
-                <div href="#" class="thumbnail    porfolioThumbnail">
+                <div  class="thumbnail    porfolioThumbnail">
 
                     <img src="images/mpactThumb.png" alt="A thumbnail for Mpact" class="porfolioThumbnailImage">
                     <div class=" text-center">
@@ -53,7 +51,7 @@
         <!-- end thumbnail-->
         <div class="col-xs-6  col-sm-3 ">
             <a href="dumb.php" class="">
-                <div href="#" class="thumbnail    porfolioThumbnail">
+                <div  class="thumbnail    porfolioThumbnail">
 
                     <img src="images/dumbThumb.png" alt="A thumbnail for Disingenuous Unified Monetary Bank" class="porfolioThumbnailImage">
                     <div class=" text-center">
@@ -85,7 +83,7 @@
 
         <div class="col-xs-6 col-sm-offset-1 col-sm-3">
             <a href="ladder.php" class="">
-                <div href="#" class="thumbnail    porfolioThumbnail">
+                <div  class="thumbnail    porfolioThumbnail">
 
                     <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
                     <div class=" text-center">
@@ -100,7 +98,7 @@
 
         <div class="col-xs-6  col-sm-3">
             <a href="volunteer.php" class="">
-                <div href="#" class="thumbnail    porfolioThumbnail">
+                <div  class="thumbnail    porfolioThumbnail">
 
                     <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
                     <div class=" text-center">
@@ -128,7 +126,7 @@
     <section class="row ">
         <div class="col-xs-6 col-sm-offset-1 col-sm-3">
             <a href="cardioglass.php" class="">
-                <div href="#" class="thumbnail    porfolioThumbnail">
+                <div  class="thumbnail    porfolioThumbnail">
 
                     <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
                     <div class=" text-center">
@@ -142,7 +140,7 @@
         <!-- end thumbnail-->
         <div class="col-xs-6 col-sm-3">
             <a href="equipment.php" class="">
-                <div href="#" class="thumbnail    porfolioThumbnail">
+                <div  class="thumbnail porfolioThumbnail">
 
                     <img src="images/placeholderSquareThumb.png" alt="A thumbnail for my equipment schedular">
                     <div class=" text-center">
