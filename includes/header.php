@@ -1,22 +1,22 @@
+<a href="#content" class="hidden sr-only">Skip to content</a>
 
-	<a href="#content" class="hidden sr-only">Skip to content</a>
 
-
-<nav class="navbar navbar-default "  role="navigation"  >
+<div class="navWrapper">
+  <nav class="navbar navbar-default " role="navigation">
     <div class="container">
       <div class="navbar-header">
-        
+
         <button type="button" class="navbar-toggle " data-toggle="collapse" data-target="#collapse">
           <span class="sr-only"> Toggle Navigation </span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
-          
+
         </button>
         <a class="navbar-brand" href="index.php">
           <span class="myName">Nathan Petts</span>
         </a>
-        
+
       </div>
       <!--close navbar-header-->
       <div class="collapse navbar-collapse" id="collapse">
@@ -29,7 +29,7 @@
           </li>
           <li class=""><a href="about.php">About Me</a>
           </li>
-<!--
+          <!--
           <li class=""><a href="contact.php">Contact Me</a>
           </li>
 -->
@@ -46,8 +46,4 @@
 
   </nav>
   <!--close nav-->
- 
-
-    
-
-
+</div>

@@ -149,6 +149,7 @@ $(document).ready(function () {
 
   }); // end each
 
-
+// nav affix issues
+  $('.navWrapper').height($(".nav").height());
 
 }); // end ready
