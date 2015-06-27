@@ -117,7 +117,7 @@ nav.navbar {
   color: $myH1;
   margin: 10px 0 10px 0;
   border:none;
-  background-image: url("/images/pixelbutton.png") ;
+  background-image: url("../images/pixelbutton.png") ;
   background-repeat:no-repeat;
 //  background-size: cover;
   min-width: 150px;
@@ -129,7 +129,7 @@ nav.navbar {
   color:  darken($myLightGrey, 15%);
   background-color: transparent;
   border:none;
-  background-image: url("/images/pixelButtonHover.png") ;
+  background-image: url("../images/pixelButtonHover.png") ;
   background-repeat:no-repeat;
 //  background-size: contain;
   min-width: 150px;
@@ -143,7 +143,7 @@ nav.navbar {
   color:  darken($myLightGrey, 15%);
   background-color: transparent;
   border:none;
-  background-image: url("/images/pixelButtonPressed.png") ;
+  background-image: url("../images/pixelButtonPressed.png") ;
   background-repeat:no-repeat;
 //  background-size: contain;
   min-width: 150px;
@@ -162,7 +162,7 @@ nav.navbar {
   color:  darken($myLightGrey, 15%);
   background-color: transparent;
   border:none;
-  background-image: url("/images/pixelButtonPressed.png") ;
+  background-image: url("../images/pixelButtonPressed.png") ;
   background-repeat:no-repeat;
 //  background-size: contain;
   min-width: 150px;
