@@ -7243,7 +7243,7 @@ nav.navbar {
 }
 
 .btn {
-  background-color: #f9f9f9;
+  background-color: transparent;
   border-radius: 0;
   color: #191919;
   margin: 10px 0 10px 0;
@@ -7264,7 +7264,7 @@ nav.navbar {
 
 .btn:hover {
   color: #1c1c1c;
-  background-color: #f9f9f9;
+  background-color: transparent;
   border: none;
   background-image: url("/images/pixelButtonHover.png");
   background-repeat: no-repeat;
@@ -7285,7 +7285,7 @@ nav.navbar {
 }*/
 .btn:active {
   color: #1c1c1c;
-  background-color: #f9f9f9;
+  background-color: transparent;
   border: none;
   background-image: url("/images/pixelButtonPressed.png");
   background-repeat: no-repeat;
@@ -7310,7 +7310,7 @@ nav.navbar {
 
 .btn-default :active {
   color: #1c1c1c;
-  background-color: #f9f9f9;
+  background-color: transparent;
   border: none;
   background-image: url("/images/pixelButtonPressed.png");
   background-repeat: no-repeat;

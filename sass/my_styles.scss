@@ -109,10 +109,10 @@ nav.navbar {
   
 }
 
-///////////////////////////////////////////// my button styles
+//////////////////////////////////////////// my button styles
 
 .btn {
-  background-color: $myWhite;
+  background-color: transparent;
   border-radius: 0;
   color: $myH1;
   margin: 10px 0 10px 0;
@@ -127,7 +127,7 @@ nav.navbar {
 }
 .btn:hover{
   color:  darken($myLightGrey, 15%);
-  background-color: $myWhite;
+  background-color: transparent;
   border:none;
   background-image: url("/images/pixelButtonHover.png") ;
   background-repeat:no-repeat;
@@ -141,7 +141,7 @@ nav.navbar {
 }*/
 .btn:active {
   color:  darken($myLightGrey, 15%);
-  background-color: $myWhite;
+  background-color: transparent;
   border:none;
   background-image: url("/images/pixelButtonPressed.png") ;
   background-repeat:no-repeat;
@@ -160,7 +160,7 @@ nav.navbar {
 } 
 .btn-default :active { 
   color:  darken($myLightGrey, 15%);
-  background-color: $myWhite;
+  background-color: transparent;
   border:none;
   background-image: url("/images/pixelButtonPressed.png") ;
   background-repeat:no-repeat;

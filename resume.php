@@ -49,7 +49,7 @@
           <li><strong>Technology Champion -</strong> Working with the grant writing team to determine how technology can help educate more clinicians and allow us to do our jobs better.</li>
           <li><strong>Data Management -</strong> Ensuring data integrity by troubleshooting data errors and bugs and training users on effective data collection processes. Provide customized reports using web interfaces, PHP and MySQL. My accurate, timely reports provide management with the information they need for effective decision-making and report writing.</li>
           <li><strong>Tech Support -</strong> Performing server administration; helping onsite and remote users through technology issues; 
-managing the laptop inventory. Hired graduate student assistant; our technical expertise and troubleshooting skills provide a stable technology environment that MATEC users can depend on.</li>
+managing the laptop inventory. Hired graduate student assistant; our technical expertise and troubleshooting skills provide a stable technology environment on which MATEC users can depend.</li>
         
         </ul>
         
@@ -103,11 +103,11 @@ managing the laptop inventory. Hired graduate student assistant; our technical e
     </section>
 <section class="row">
      <div class="col-xs-12  col-sm-5 col-sm-offset-1">
-       <h4>Fig. 1 Components</h4>
+       <h4>Fig. 1 - Components</h4>
       <img src="images/partsOfMe.png" alt="" class="img-responsive">
     </div>
   <div class="col-xs-12 col-sm-6 ">
-    <h4>Fig. 2 Skills and Tools</h4>
+    <h4>Fig. 2 - Skills and Tools</h4>
       <img src="images/skillsAndTools.png" alt="" class="img-responsive">
     </div>
 
@@ -119,13 +119,13 @@ managing the laptop inventory. Hired graduate student assistant; our technical e
 
     </section>
     <section class="row">
-    <div class="col-xs-12 col-sm-8 ">
+    <div class="col-xs-12  ">
         <p><strong>DePaul University -</strong> Master of Science in Human Computer Interaction, 2016 (expected)- GPA 4.0</p>
       </div>
 
     </section>
      <section class="row">
-    <div class="col-xs-12 col-sm-8 ">
+    <div class="col-xs-12  ">
         <p><strong>University of Michigan -</strong> Bachelor of Fine Arts, April 2005 - GPA 3.50</p>
       </div>
 
