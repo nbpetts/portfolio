@@ -7549,6 +7549,10 @@ label, input, textarea {
     text-align: justify;
   }
 
+  .backToPortfolioButton {
+    padding-top: 14px;
+  }
+
   .caption > p.sidebar {
     font-size: .9em;
   }
@@ -7582,6 +7586,10 @@ label, input, textarea {
     text-align: justify;
   }
 
+  .backToPortfolioButton {
+    padding-top: 24px;
+  }
+
   h1.hero {
     font-size: 4.5em;
   }
@@ -7601,6 +7609,10 @@ label, input, textarea {
 
   .text-lg-justify {
     text-align: justify;
+  }
+
+  .backToPortfolioButton {
+    padding-top: 32px;
   }
 }
 

@@ -374,7 +374,9 @@ ul.nav-pills > li {
     .text-sm-right { text-align: right; }
     .text-sm-center { text-align: center; }
     .text-sm-justify { text-align: justify; }
-  
+  .backToPortfolioButton {
+      padding-top: 14px;
+    }
   .myFloatRight {
     
   }
@@ -402,6 +404,11 @@ margin-top: 15px;
     .text-md-right { text-align: right; }
     .text-md-center { text-align: center; }
     .text-md-justify { text-align: justify; }
+  
+  .backToPortfolioButton {
+      padding-top: 24px;
+    }
+  
   h1.hero {
     font-size: 4.5em;
   }
@@ -413,6 +420,9 @@ margin-top: 15px;
     .text-lg-right { text-align: right; }
     .text-lg-center { text-align: center; }
     .text-lg-justify { text-align: justify; }
+  .backToPortfolioButton {
+      padding-top: 32px;
+    }
 }
 
 
