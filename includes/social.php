@@ -4,7 +4,7 @@
           <h2>All over the Internet</h2>
         </div>
       </section>
-      <section class="row ">
+      <section class="row socialIcons">
         <a href="https://github.com/nbpetts" target="_blank" class="col-xs-6  col-sm-6  middleAlign">
           <p class="">"Check Out" my Repos: </p> 
           <img src="images/fi-social-github.svg" alt="Github Icon" class="img-responsive">
@@ -17,7 +17,7 @@
         
       
       </section>
-      <section class="row ">
+      <section class="row socialIcons">
         <a href="https://www.linkedin.com/in/nathanpetts" target="_blank" class="col-xs-6  col-sm-6  middleAlign">
           <p class="">So Professional: </p> 
           <img src="images/fi-social-linkedin.svg" alt="linkedin Icon" class="img-responsive ">

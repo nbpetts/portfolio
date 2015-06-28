@@ -7450,6 +7450,15 @@ label, input, textarea {
   transition: color 0.4s ease, background-color 0.1s ease-in-out;
 }
 
+.socialIcons > a > img {
+  max-height: 80px;
+  min-height: 40px;
+}
+
+.contactMe a {
+  font-style: italic;
+}
+
 .footerLinks {
   list-style: none;
   margin-top: 150px;
@@ -7472,6 +7481,10 @@ label, input, textarea {
   position: relative;
   max-height: 459px;
   left: -10px;
+}
+
+ul.nav-pills > li > a:hover {
+  border-radius: 0;
 }
 
 .grass {
@@ -7522,6 +7535,10 @@ label, input, textarea {
 @media (max-width: 767px) {
   h1.hero {
     font-size: 2.5em;
+  }
+
+  .jobTitleGroup {
+    padding-left: 0;
   }
 
   .caption > p.sidebar {

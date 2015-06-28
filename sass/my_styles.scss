@@ -294,6 +294,14 @@ input:focus, textarea:focus {
 label, input, textarea {
 	transition: color 0.4s ease, background-color 0.1s ease-in-out;
 }
+//////////////////////////////////////////////////////social styles
+.socialIcons > a > img {
+  max-height: 80px;
+  min-height: 40px;
+}
+.contactMe a {
+  font-style: italic;
+}
 
 ////////////////////////////////////////////////////// Footer stylings
 .footerLinks {
@@ -317,10 +325,11 @@ label, input, textarea {
   max-height: 459px;
   left: -10px;
 }
-ul.nav-pills > li {
-   
+ul.nav-pills > li > a:hover {
+   border-radius: 0;
 }
-////////////////////////////////////////////////////// Illustration
+
+///////////////////////////////////////////////////// Illustration
 .grass {
   height: 50px;
   background: url("../images/grassPattern.png") repeat;
@@ -359,7 +368,9 @@ ul.nav-pills > li {
     
     font-size: 2.5em;
   }
-  
+  .jobTitleGroup{
+    padding-left:0;
+  }
   .caption > p.sidebar {
   font-size: 1em;
   }
