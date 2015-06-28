@@ -179,6 +179,9 @@ div.buttonDiv, div.buttonDiv > a,  div.buttonDiv > a:hover, div.buttonDiv > a:ac
 .hambo {
   margin-top: 5px;
 }
+.buttonSection {
+  margin-top:50px;
+}
 /////////////////////////////// thumbnail and caption styles
 .caption > p {
   color: $tieBlue;
@@ -364,7 +367,7 @@ ul.nav-pills > li {
   border-bottom: 1px solid $myLightGrey;
   }
   .btn {
-    font-size: .8em;
+    font-size: .78em;
   }
 
 }
@@ -374,8 +377,10 @@ ul.nav-pills > li {
     .text-sm-right { text-align: right; }
     .text-sm-center { text-align: center; }
     .text-sm-justify { text-align: justify; }
+  
   .backToPortfolioButton {
       padding-top: 14px;
+     
     }
   .myFloatRight {
     

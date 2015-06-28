@@ -7339,6 +7339,10 @@ div.buttonDiv, div.buttonDiv > a, div.buttonDiv > a:hover, div.buttonDiv > a:act
   margin-top: 5px;
 }
 
+.buttonSection {
+  margin-top: 50px;
+}
+
 .caption > p {
   color: #5782b7;
 }
@@ -7529,7 +7533,7 @@ label, input, textarea {
   }
 
   .btn {
-    font-size: .8em;
+    font-size: .78em;
   }
 }
 @media (min-width: 768px) {
