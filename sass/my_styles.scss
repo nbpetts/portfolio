@@ -108,6 +108,10 @@ nav.navbar {
   top:0;
   
 }
+.navbar-collapse.collapse.in {
+  position: relative;
+  z-index: 100;
+}
 
 //////////////////////////////////////////// my button styles
 
@@ -439,6 +443,9 @@ margin-top: 15px;
   .backToPortfolioButton {
       padding-top: 32px;
     }
+  .btn {
+    font-size: 1.5em;
+  }
 }
 
 

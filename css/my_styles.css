@@ -7242,6 +7242,11 @@ nav.navbar {
   top: 0;
 }
 
+.navbar-collapse.collapse.in {
+  position: relative;
+  z-index: 100;
+}
+
 .btn {
   background-color: transparent;
   border-radius: 0;
@@ -7634,6 +7639,10 @@ ul.nav-pills > li > a:hover {
 
   .backToPortfolioButton {
     padding-top: 32px;
+  }
+
+  .btn {
+    font-size: 1.5em;
   }
 }
 

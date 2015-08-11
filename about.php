@@ -2,31 +2,31 @@
 <html lang="en">
 
 <head>
- <?php include "includes/head.php" ?>
+  <?php include "includes/head.php" ?>
 
   <title>About Me | Nathan Petts - UX designer</title>
-  
+
 
 </head>
 
 <body>
-<?php include_once("includes/googleAnalytics.php") ?>
- <?php include "includes/header.php" ?>
+  <?php include_once( "includes/googleAnalytics.php") ?>
+  <?php include "includes/header.php" ?>
 
   <div class="container pageBackground">
     <main class="" role="main">
       <section class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-1">
-          <h1>A Few Things About Me</h1><a id="content" name="content"></a> 
+          <h1>A Few Things About Me</h1>
+          <a id="content" name="content"></a>
           <a name="content"></a>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-1">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae tellus ultrices, venenatis nulla sit amet, pretium nulla. Nulla suscipit, felis ac semper venenatis, neque orci gravida dolor, nec pretium est risus non quam. </p>
-          <p>Suspendisse mollis nibh ac ex mattis fermentum. Donec cursus lectus non nibh pharetra, a accumsan elit semper. Aenean a blandit dui. Quisque a consectetur libero. Proin ut ligula non erat varius efficitur quis eget turpis. Quisque nisi augue, sollicitudin sed magna eget, hendrerit congue augue. Nullam eget pretium sapien. Curabitur quis cursus massa.</p>
-
+          <p>A Chicago actor and improvisor, computers and technology have always fascinated me. I’ve figured out a way to do what I am passionate about while earning my living.</p>
+          <p>I am a lifelong learner and have a history of teaching myself skills, from javascript frameworks to pneumatic blood squibs. Need a backpacking stove made from a Pepsi can? I got you covered. </p>
         </div>
         <div class="col-xs-5 col-sm-offset-0 col-sm-4 col-xs-pull-4 col-sm-pull-1 pull-right">
           <div href="#" class="thumbnail ">
@@ -40,8 +40,8 @@
 
         </div>
         <div class="col-xs-12 col-sm-6 col-sm-offset-1">
-          <p>Aenean a blandit dui. Quisque a consectetur libero. Proin ut ligula non erat varius efficitur quis eget turpis. Quisque nisi augue, sollicitudin sed magna eget, hendrerit congue augue. Nullam eget pretium sapien. Curabitur quis cursus massa.</p>
-          <p>Nullam eget pretium sapien. Curabitur quis cursus massa.</p>
+          <p>On the weekends you can find me with my wife hiking Wisconsin, at home working on my bicycle or losing to my friends at Settlers of Catan. </p>
+
 
         </div>
 
@@ -55,10 +55,10 @@
 
     </main>
     <!--close main-->
-   
-      <section class="row">
-        
-      </section>
+
+    <section class="row">
+
+    </section>
 
     <!--close article-->
     <?php include "includes/social.php" ?>

@@ -57,9 +57,8 @@
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-1">
-          <p>Thanks for dropping by. The way I see it, connecting with users—meeting them where they are with a spirit of optimism—is key to making useful software. I speak computer AND human, understanding systems and empathizing with the people who use them.</p>
-          <p>I love learning. All of it; even the boring stuff. Last summer, I researched section 508 compliance for governmental websites, then <a href="http://www.matec.info/508">presented a webinar</a> about it using kittens and JavaScript frameworks. After years of teaching myself programs such as Gimp and HTML, I am currently earning a master’s degree in Human Computer Interaction at DePaul University. In the near future I would like to learn more about: Node.js, user research methods, intelligent user agents, blacksmithing and developing an app that my father can use without swearing.</p>
-
+          <p>Thanks for dropping by.</p>
+          <p>The way I see it, connecting with users—meeting them where they are with a spirit of optimism—is the key to making useful software. Most technology is not designed with people in mind. I want to bring a user centered focus to software creation. That’s why I am currently earning a master’s degree in Human Computer Interaction at DePaul University. One day, I hope to develop an app that my father can use without swearing.</p>
         </div>
         <div class="col-xs-5 col-sm-offset-0 col-sm-4 col-xs-pull-4 col-sm-pull-1 pull-right">
           <a href="worthywords.php" class="">
@@ -74,11 +73,12 @@
           <!-- end thumbnail-->
         </div>
         <div class="col-xs-12 col-sm-6 col-sm-offset-1">
-          <p>I get stuff done. It started early for me. My middle school band leader (*pushes glasses up nose*) used to say “to be on time is to be late,” and I took this to heart. I love me a to-do list and love it more when it is fully crossed off—on time.</p>
-          <p>I am excited to do quality work with a strong team. Are you as excited as I am?
-          </p>
+          <p>Over the past ten years, I’ve had a lot of practice helping people implement, understand and use technology. I’ve seen first-hand what makes people throw their hands up in frustration. I’ve also seen the light bulbs go on when they encounter well-designed technology. So now I’m bilingual - I speak computer AND human; I understand systems and empathize with the people who use them.</p>
+          <p>I’m ready. I’ve experienced the problem, I’ve been learning how to solve it and I’m eager to get started. I am excited to do quality work with a strong team. Are you as excited as I am?</p>
 
         </div>
+        
+
       </section>
 
       <section class="row">
