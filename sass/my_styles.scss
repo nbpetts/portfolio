@@ -108,6 +108,11 @@ nav.navbar {
   top:0;
   
 }
+.affix-top {
+  position: relative;
+  z-index: 100;
+  
+}
 .navbar-collapse.collapse.in {
   position: relative;
   z-index: 100;

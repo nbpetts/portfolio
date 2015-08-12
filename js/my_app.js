@@ -31,7 +31,7 @@ $(document).ready(function () {
           top: navTop
 
         }
-
+        
 
       }); // end affix
       if ($("#portfolio").length) {
@@ -45,6 +45,7 @@ $(document).ready(function () {
         }
 
       }
+      
 
 
       pageBackground.toggleClass("pageBackgroundMargin", $(window).scrollTop() >= navTop);
@@ -58,7 +59,7 @@ $(document).ready(function () {
         top: navTop
 
       }
-
+      
 
     }); // end affix
 
