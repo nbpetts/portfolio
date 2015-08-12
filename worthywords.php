@@ -29,7 +29,7 @@
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>The Problem:</h2>
-          <p>Adventure Stage Chicago wanted to connect with their audiences in a unique way on a shoestring budget</p>
+          <p>Adventure Stage Chicago wanted to connect with their young audiences in a unique way on a shoestring budget.</p>
         </div>
 
       </section>
@@ -43,7 +43,7 @@
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
           <img src="images/worthyWords.png" alt="The main page of Worthy Words the app" class="img-responsive">
-          <p class="text-center">Fig. 1 Worthy Words Home Page</p>
+          <p class="text-center">Fig. 1 Worthy Words home page.</p>
 
 
         </div>
@@ -52,8 +52,8 @@
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>In the Beginning...</h2>
-          <p>Worthy Words is a project that I designed and developed in conjunction with Adventure Stage Chicago. They were putting on a show called Worthy that deals with issues of identity and the stories our culture tells. Adventure Stage puts on inventive theater for young audiences between the ages of six and sixteen. They were interested in creating an app or website that would allow them to connect to their young audience in a unique way. </p>
-          <p>I knew that I wanted the theater to be a major partner in this endeavor, and that the more I could involve them, the more likely I would be to create a design that met their needs. The first thing I did was have a meeting with the director of the show and the executive director of the theater company. With this multidisciplinary team, we were able to outline some ideas of what we could do. We talked about some ideas for the app, and also discussed the resources that might be available. The bad news: they could commit almost no resources. They might be able to host an html page on their webserver, but they couldn't spare any money for development from the company that managed their site. The good news: we came out of the discussion with two strong ideas. A mad libs style story toy and a paper doll type of toy that would allow the audience members to make characters of their choosing.</p>
+          <p>Worthy Words is a project that I designed and developed in conjunction with Adventure Stage Chicago. Adventure Stage produces inventive theater for young audiences between the ages of six and sixteen. They were creating a show called Worthy that deals with issues of identity and the stories our culture tells. They wanted an app or website that would allow them to connect to their young audience in a digital way.</p>
+          <p>I wanted the theater company to be a major partner in this endeavor. The more they got involved, the more likely I would be able to create a design that met their needs. The first thing I did was have a meeting with the director of the show and the executive director of the theater company. With both providing their unique perspectives, we were able to outline some ideas for the app. We also discussed the resources that might be available. The bad news: they could commit almost no resources. They might be able to host an HTML page on their webserver, but they couldn't spare any money for development from the company that manages their site. The good news: we came out of the discussion with two strong ideas. One was a Mad Lib- style story toy and the other a “paper doll” type of toy that would allow the audience members to create characters of their choosing.</p>
         </div>
 
       </section>
@@ -61,7 +61,7 @@
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-2">
           <div class=" thumbnail">
             <img src="images/worthyWordsSketch.png" alt="The main page of Worthy Words the app" class="img-responsive">
-            <p class="text-center">Fig. 2 Worthy Words: Early Sketches</p>
+            <p class="text-center">Fig. 2 Worthy Words early sketches.</p>
 
 
           </div>
@@ -69,7 +69,7 @@
         <div class="col-xs-6 col-xs-offset-3  col-sm-4 col-sm-offset-0">
           <div class="thumbnail">
             <img src="images/worthyWordsPrincessPickerPrototype.png" alt="the paper doll version of the worthy words prototype" class="img-responsive">
-            <p class="text-center">Fig. 3 Princess Picker: an Alternative to Worthy Words</p>
+            <p class="text-center">Fig. 3 Princess Picker. An alternative to Worthy Words.</p>
 
 
           </div>
@@ -78,15 +78,15 @@
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>Prototyping</h2>
-          <p>I knew the best way to make a decision between the two designs was to try them out. I went away and sketched both designs and then developed a prototype of both of the designs. For the story app, I mocked up a basic prototype using javascript and a word tagging library. I wrote the program so that when users clicked on certain words in the story, the word was replaced by a random word of the same part of speech. I repurposed a small image switching program that I wrote for a class to mock up a prototype for the paper doll prototype. I packaged these two prototypes with some context slides and sent them to the production team at Adventure Stage.</p>
-          <p>With the prototypes to play with, and to give to some of their audience members, it was clear to the production team that they wanted to go with the storytelling app. It was also clear that the random words weren’t nearly as much fun as a list of words that authors could choose to switch out in the stories. So, I rewrote the app so that authors could specify which words would swap out and what words would replace the swappable words. </p>
+          <p>I sketched both designs and then developed a prototype of each. For the story app, I mocked up a basic prototype using JavaScript and a word tagging library. When users clicked on a highlighted word in the story, a random, grammatically correct word would replace it. For the paper doll mock-up, I repurposed a small image switching program I wrote for a class. I packaged these two prototypes with some context slides and sent them to the production team at Adventure Stage.</p>
+          <p>After trying out the prototypes and sharing them with some of their audience members, the production team decided on the storytelling app. But, they thought that it would be more fun if the authors could create a curated list of words the program would swap out instead of using the random approach. I rewrote the app to allow authors to specify the words to be swapped. This made for funnier, more interesting stories.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
           <img src="images/worthyWordsV0.png" alt="The main page of an early version of Worthy Words the app" class="img-responsive">
-          <p class="text-center">Fig. 4 Worthy Words: Version .01</p>
+          <p class="text-center">Fig. 4 Worthy Words: version .01.</p>
 
 
         </div>
@@ -95,14 +95,17 @@
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>Testing and Iteration</h2>
-          <p>When I delivered this version of the program, we again shared it with both theater company members and audience members. After we tested it on those users, we met again. Another round of good news/bad news. Bad news: We can’t host the page on the theater company’s web server because the managing company will only add a new page with a payment. Good news: audience members like the app, but want a way to share their stories with us. We had decided that we didn't want to use a social network because their terms of service required that users be older than most of Adventure Stage’s audience. But, now that I wasn’t restricted to a single page, I knew that I could set the page up so that users could email their stories directly to the team at Adventure Stage. So, I went away to create a form for the app, style it and start to debug it. Our artistic director went away to see if he could scrounge the funds for a small server. Luckily, he was able to find those funds, and we got the site onto production. We were able to get the app in front of a number young audience members before the show opened and we widely advertised the site. This lead to a lot of insight into fine tuning the wording so that the audiences would enjoy the app. We also learned more about how the app was being used in the classes that Adventure Stage offered to schools. </p>
+          <p>When I delivered this version of the program, we had both theater company and audience members test it again. At a follow-up meeting, we got another round of good news and bad news. Bad news: We can’t host the page on the theater company’s web server because they cannot afford it. Good news: audience members really like the app, but want a way to share their stories. We didn't want to use a social network because the terms of service require users be older than most of Adventure Stage’s audience. But, now that I wasn’t restricted to a single page, I could set up the app so users could email their stories directly to the team at Adventure Stage.</p>
+          <p>I created a form for the app, styled it and debugged it. Meanwhile, the artistic director tried to see if he could scrounge the funds for a small server. Luckily, he was successful and we got the site into production. We were able to get the app in front of a number of young audience members before opening night. This led to a lot of feedback, which in turn led to some wordsmithing so that the audiences would enjoy the app even more. We also learned that teachers would use the app in classes offered by Adventure Stage.</p>
           <h2>Lessons Learned</h2>
           <ul>
-            <li><strong>Be Ready to change:</strong> Working with users meant that good ideas came out of all fields. I had to be ready to embrace that change.</li>
-            <li><strong>Strong Communication Defeats Confusion:</strong> At points in this project many specifics were up in the air. Where would we host the app? Who should I talk to? I kept in constant contact with the folks at Adventure Stage so that I could be notified about last minute changes.</li>
+            <li><strong>Be Ready to change.</strong>  Working with users means that good ideas come from many directions and points of view. I had to be ready to embrace feedback and change.
+</li>
+            <li><strong>Strong communication defeats confusion.</strong> At points during this project many specifics were up in the air. Where would we host the app? Who should I talk to? I kept in constant contact with the folks at Adventure Stage so that I could better understand their needs and stay abreast of any last minute changes.</li>
+            <li><strong>Constraints inspire creativity.</strong> It’s my experience that putting limitations on creative people helps them dig deeper into their imaginations and create stronger art. Lack of funding could have been an obstacle, but we focused on what we could accomplish at each step.</li>
           </ul>
           <h2>The Final Product</h2>
-          <p>I incorporated these insights into the final version of Worthy Words that I delivered to the client in time for opening night. <a target="_blank" href="http://www.worthy-words.net">Check out Worthy Words here!</a> </p>
+          <p><a target="_blank" href="http://www.worthy-words.net">Check out Worthy Words here!</a>
         </div>
 
       </section>
