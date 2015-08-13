@@ -2,113 +2,145 @@
 <html lang="en">
 
 <head>
-<?php include "includes/head.php" ?>
+  <?php include "includes/head.php" ?>
   <title>Finding Volunteer Opportunities | Nathan Petts - UX designer</title>
 
 
 </head>
 
 <body>
-  <?php include_once("includes/googleAnalytics.php") ?>
+  <?php include_once( "includes/googleAnalytics.php") ?>
+
   <?php include "includes/header.php" ?>
   <div class="container pageBackground">
 
     <section class="row">
       <div class="col-xs-12 col-sm-offset-2 col-sm-8 ">
         <h1>Finding Volunteer Opportunities</h1>
-        <a id="content" name="content"></a> 
+        <a id="content" name="content"></a>
+        <a name="content"></a>
       </div>
 
     </section>
 
+    <article class="continer">
 
-<article class="continer">
 
 
-    <section class="row">
+      <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>The Problem:</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>Can my team use ethnographic user research to inform design decisions that will help organizations find volunteers? </p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>My Role:</h2>
-          <p>ut varius elit placerat eget</p>
+          <p>Interviewer, Survey Designer, Persona Writer, Report Writer and Editor</p>
+        </div>
+      </section>
+      <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
+
+          <img src="images/volunteerFig1.png" alt="presentation cover for our research project" class="img-responsive">
+          <p class="text-center">Fig. 1 Finding Volunteer Opportunities research.</p>
+
+
+
+        </div>
+      </section>
+
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Finding the Right Volunteer Opportunity is Hard</h2>
+          <p>Volunteers can be difficult to wrangle and there is some evidence that people willing to volunteer are on the decline. My group decided to explore the question: Can the ways people search for volunteer opportunities give us design insights for technologies that connect people with volunteer opportunities? To answer this question, we approached our research from three angles: observations, interviews and a survey.</p>
+        </div>
+
+      </section>
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Observations </h2>
+          <p>We conducted observations of users searching for volunteer opportunities to see how they go about it. To analyze the data, we transferred our observations to the affinity diagramming tool Stormboard. We then sifted the data and created an affinity diagram to help us discover patterns that would aid in answering our research questions. </p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-          <p class="text-center">Fig. 1 Cras vestibulum porttitor</p>
 
-
+          <img src="images/volunteerFig2.png" alt="Part of an affinity diagram showing various themes from our observations" class="img-responsive">
+          <p class="text-center">Fig. 2 Part of our affinity diagram.</p>
         </div>
-
       </section>
+
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>Lorem ipsum dolor</h2>
-          <p>Nulla varius et odio ac luctus. Aliquam maximus lorem a sapien iaculis, sit amet mollis eros consectetur. Nam eu ex nec sem fermentum convallis. Nulla est leo, tincidunt ut rhoncus et, tristique et leo. Donec blandit, lectus in vestibulum vulputate, turpis justo fermentum purus, ut efficitur ipsum risus eu est. Cras condimentum arcu sodales scelerisque volutpat. Cras fermentum ut ante sed pharetra.</p>
-          <p>Proin maximus velit vel nisl laoreet, a ornare enim scelerisque. Maecenas nec rhoncus nibh. Duis convallis scelerisque felis, in malesuada urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris leo nunc, vulputate quis risus in, mollis pulvinar felis. Praesent et volutpat sapien. Maecenas nunc ligula, molestie vel hendrerit et, imperdiet et odio. Phasellus nec tortor volutpat, volutpat nunc a, vestibulum enim. Nullam in vulputate mauris, et fermentum augue. Vestibulum vestibulum nisi odio, quis interdum tortor egestas quis. Quisque eget eros porttitor justo posuere tincidunt in sed dui. Sed malesuada accumsan orci, ut accumsan libero. Curabitur massa lorem, laoreet nec viverra et, luctus eget ligula. Sed placerat consequat porta. Fusce rutrum ligula id convallis feugiat.</p>
-        </div>
-
-      </section>
-      <section class="row">
-        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-2">
-          <div class=" thumbnail">
-            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-            <p class="text-center">Fig. 2 Quisque eget eros </p>
-
-
-          </div>
-        </div>
-        <div class="col-xs-6 col-xs-offset-3  col-sm-4 col-sm-offset-0">
-          <div class="thumbnail">
-            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-            <p class="text-center">Fig. 3 nunc a, vestibulum</p>
-
-
-          </div>
-        </div>
-      </section>
-      <section class="row">
-        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>Proin maximus</h2>
-          <p>Morbi ac ex lectus. Aliquam lacinia elementum convallis. Morbi rhoncus consectetur dolor. Etiam non purus mi. Etiam dui ex, pulvinar nec purus pharetra, condimentum viverra nunc. Vestibulum fringilla turpis nec tortor viverra ornare. Maecenas id sollicitudin risus. Maecenas rhoncus dolor sed nisi molestie feugiat.</p>
-          <p>Nam id mi at turpis pharetra viverra. Integer rhoncus arcu et mauris congue condimentum. Aliquam magna magna, egestas eget vestibulum non, pharetra a lectus. Maecenas fringilla bibendum lectus sed interdum. Curabitur lacinia est purus, vel commodo mauris ultrices sit amet. Aenean fermentum ultrices massa sed sodales. Etiam elit diam, fermentum nec vestibulum a, porttitor eget nibh. Proin convallis, risus eu fermentum dignissim, magna dolor euismod quam, vehicula semper lacus metus id nulla. Ut vel purus non ex molestie mattis at efficitur mauris. Ut bibendum velit quis mi feugiat laoreet. Aliquam tincidunt imperdiet ipsum, sed gravida ante commodo dapibus. Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod. </p>
+          <h2>Interviews</h2>
+          <p>We used the themes in our affinity diagram to guide the development of an interview script. Next we ran a pilot of the interview on other UX researchers to test the clarity of our questions. We interviewed four users who were frequent volunteers. We then transcribed the interviews and coded the transcription. From there we identified themes that the volunteers talked about. </p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-          <p class="text-center">Fig. 4 vehicula lacus, ac</p>
 
+          <img src="images/volunteerFig3.png" alt="Themes present in our observations" class="img-responsive">
+          <p class="text-center">Fig. 3 Interview findings table.</p>
+        </div>
+      </section>
 
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Survey </h2>
+          <p>We used the data from the observations and interviews to generate two hypotheses to test. We hypothesized that users who find activities aligned with their interests will commit to volunteering more frequently than users who locate opportunities that do not align with their interests. We further hypothesized that when searching for volunteer opportunities online, the amount of detail presented about the opportunity has a direct impact on a person’s likelihood of volunteering. We compiled our survey and pilot tested it before distributing it more broadly. Thirty-nine people completed the survey and we ran statistical tests on the results. We did not find any statistically significant results and concluded that our survey did not address our hypotheses well, so we relied more heavily on the qualitative data from our interviews and observations to write our recommendations.</p>
         </div>
 
       </section>
       <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
+
+          <img src="images/volunteerFig4.png" alt="A persona named Kate Donnager" class="img-responsive">
+          <p class="text-center">Fig. 4 Volunteer persona. We developed this persona by looking at the interview data.</p>
+        </div>
+      </section>
+      <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>In scelerisque</h2>
-          <p>Vestibulum et ligula molestie, blandit turpis vehicula, congue magna. Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed. Donec scelerisque metus ut nibh luctus, quis congue nibh fringilla. Quisque nec magna tristique, consequat velit sed, pharetra arcu. Donec urna augue, rutrum id justo et, pulvinar bibendum dui. Phasellus maximus porta justo. Nullam pulvinar nibh nec faucibus fringilla. </p>
+          <h2>Our Recommendations</h2>
+          <p>There are several themes in our data that we think will help organizations use technology to more effectively recruit volunteers. For example, in our exploratory research, we encountered few sites that listed the skills a volunteer might learn. Volunteers are interested in much more detail about what the volunteer role entails and easy scheduling is important as well. We compiled our recommendations and ranked their priority.</p>
+        </div>
+
+      </section>
+
+
+      <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
+
+          <img src="images/volunteerFig5.png" alt="Our recommendations for organizations seeking volunteers">
+          <p class="text-center">Fig. 5 The final recommendations.</p>
+
+
+
+        </div>
+      </section>
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>Lessons Learned</h2>
           <ul>
-            <li><strong>Nam id mi:</strong> Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet.</li>
-            <li><strong>Nam id mi:</strong> Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod.</li>
+            <li><strong>Observations show what people do, interviews reveal how people feel.</strong> TIt is clear that when one sets out to answer a research question, the right tool is required. Otherwise you risk wasting everyone’s time. Pilot studies and a firm understanding of the theory behind UX best practices can help!</li>
+            <li><strong>Ethnographic research is worth the effort.</strong> It is invaluable for finding out how people feel, why they do things and what they really want. However, ethnographic research must be approached with the utmost rigor, so you don’t end up following false leads.</li>
+            <li><strong>Hypotheses can be hard to substantiate.</strong> If you are going to go through the effort of doing quantitative research, you really need to make sure that your sample size is large enough to generate meaningful results.</li>
           </ul>
-          <h2>Morbi ac ex lectus</h2>
-          <p>Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. <a target="_blank" href="http://www.worthy-words.net">Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed.</a> </p>
+          <h2>The Final Product</h2>
+          <a target="_blank" href="download.php?file=Finding_Volunteers_Report.pdf">Download the report!</a>
+
+
+
         </div>
+      </section>
+      <section class="row">
+        <?php include "includes/backToPortfolioButton.php" ?>
 
       </section>
-<section class="row">
-  <?php include "includes/backToPortfolioButton.php" ?>
-       
-      </section>
+
 
 
 
