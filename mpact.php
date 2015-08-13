@@ -59,12 +59,10 @@
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <div class=" thumbnail">
+          
             <img src="images/mpactFig2.png" alt="An image from our presentation that details the content manager section of Mpact" class="img-responsive">
             <p class="text-center">Fig. 2 Mpact details.</p>
 
-
-          </div>
         </div>
       </section>
       <section class="row">
@@ -76,12 +74,12 @@
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <div class=" thumbnail">
+          
             <img src="images/mpactFig3.png" alt="Sketches showing the screen flow and other details" class="img-responsive">
             <p class="text-center">Fig. 3 Mpact sketches and early designs.</p>
 
 
-          </div>
+          
         </div>
       </section>
 
@@ -89,28 +87,31 @@
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>Prototyping</h2>
           <p>Because we had such a clear roadmap from our sketches, it was obvious how to divide the work. I took the first few screens of the map and Majel added some of his screens. As the designs came together we were able to spot inconsistencies quickly. Finally, we worked together to test it and give notes on sections we had each designed.</p>
+        </div>
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <div class=" thumbnail">
+          
             <img src="images/mpact.png" alt="The app in a phone mock-up" class="img-responsive">
             <p class="text-center">Fig. 4 Mpact version.01.</p>
 
 
-          </div>
+          
         </div>
       </section>
       <section class="row">
-        <h2>Lessons Learned</h2>
-        <ul>
-          <li><strong>Working to our strengths works best.</strong> One of the reasons that our team was successful was that we complemented each other. Majel had experience with the Mpact system and I had design and Axure knowledge.</li>
-          <li><strong>Find the right tools to collaborate.</strong> Using many iterations and visual materials helped us to communicate.</li>
-          <li><strong>Prototyping shows where to look next.</strong> Each time we created an iteration, we took notes about where we could improve. Each new iteration was better than its predecessor.</li>
-        </ul>
-        <h2>The Final Product</h2>
-        <a target="_blank" href="http://8pjb72.axshare.com/">Check out our Mpact prototype here!</a>
-        </div>
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Lessons Learned</h2>
+          <ul>
+            <li><strong>Working to our strengths works best.</strong> One of the reasons that our team was successful was that we complemented each other. Majel had experience with the Mpact system and I had design and Axure knowledge.</li>
+            <li><strong>Find the right tools to collaborate.</strong> Using many iterations and visual materials helped us to communicate.</li>
+            <li><strong>Prototyping shows where to look next.</strong> Each time we created an iteration, we took notes about where we could improve. Each new iteration was better than its predecessor.</li>
+          </ul>
+          <h2>The Final Product</h2>
+          <a target="_blank" href="download.php?file=Mpact_Design_Document.pdf" >Download the design document!</a> <br>
+          <a target="_blank" href="http://8pjb72.axshare.com/">Check out our Mpact prototype here!</a>
 
+        </div>
       </section>
       <section class="row">
         <?php include "includes/backToPortfolioButton.php" ?>
