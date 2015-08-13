@@ -2,117 +2,133 @@
 <html lang="en">
 
 <head>
-<?php include "includes/head.php" ?>
+  <?php include "includes/head.php" ?>
   <title>Ladder Up | Nathan Petts - UX designer</title>
-  
+
 
 </head>
 
 <body>
-  <?php include_once("includes/googleAnalytics.php") ?>
+  <?php include_once( "includes/googleAnalytics.php") ?>
 
   <?php include "includes/header.php" ?>
   <div class="container pageBackground">
 
     <section class="row">
       <div class="col-xs-12 col-sm-offset-2 col-sm-8 ">
-        <h1>Ladder Up</h1><a id="content" name="content"></a> 
+        <h1>Ladder Up Usability Testing</h1>
+        <a id="content" name="content"></a>
         <a name="content"></a>
       </div>
 
     </section>
 
-<article class="continer">
+    <article class="continer">
 
 
 
-   <section class="row">
+      <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>The Problem:</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>Evaluate Ladder Up’s website for usability. Utilize heuristic evaluations and user testing to review the website and identify design improvements. Communicate the design changes effectively to laypersons.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>My Role:</h2>
-          <p>ut varius elit placerat eget</p>
+          <p>User Testing Moderator, Test Design, Report Writer and Editor</p>
+        </div>
+      </section>
+      <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
+
+          <img src="images/ladderUpFig1.png" alt="presentation cover for our research project" class="img-responsive">
+          <p class="text-center">Fig. 1 Ladder Up Usability Test Presentation.</p>
+
+
+
+        </div>
+      </section>
+
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Ladder Up Suspected Something Wasn’t Right</h2>
+          <p>Ladder up is a Chicago-based nonprofit that provides no-cost tax services to residents. They depend on a large volunteer staff to provide as many services as possible. Ladder Up partnered with our DePaul class for assistance with usability issues. A representative told us that over the last season they had received such a large number of questions from volunteers using the site that they realized there was a problem. The spokesperson described the process of volunteering and shared some specific examples of frequent questions, such as where to find a particular training video.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-          <p class="text-center">Fig. 1 Cras vestibulum porttitor</p>
 
-
+          <img src="images/ladderUpFig2.png" alt="Ladder Up's volunteer form" class="img-responsive">
+          <p class="text-center">Fig. 2 Ladder Up’s forms did not follow best practices.</p>
         </div>
-
       </section>
+
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>Lorem ipsum dolor</h2>
-          <p>Nulla varius et odio ac luctus. Aliquam maximus lorem a sapien iaculis, sit amet mollis eros consectetur. Nam eu ex nec sem fermentum convallis. Nulla est leo, tincidunt ut rhoncus et, tristique et leo. Donec blandit, lectus in vestibulum vulputate, turpis justo fermentum purus, ut efficitur ipsum risus eu est. Cras condimentum arcu sodales scelerisque volutpat. Cras fermentum ut ante sed pharetra.</p>
-          <p>Proin maximus velit vel nisl laoreet, a ornare enim scelerisque. Maecenas nec rhoncus nibh. Duis convallis scelerisque felis, in malesuada urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris leo nunc, vulputate quis risus in, mollis pulvinar felis. Praesent et volutpat sapien. Maecenas nunc ligula, molestie vel hendrerit et, imperdiet et odio. Phasellus nec tortor volutpat, volutpat nunc a, vestibulum enim. Nullam in vulputate mauris, et fermentum augue. Vestibulum vestibulum nisi odio, quis interdum tortor egestas quis. Quisque eget eros porttitor justo posuere tincidunt in sed dui. Sed malesuada accumsan orci, ut accumsan libero. Curabitur massa lorem, laoreet nec viverra et, luctus eget ligula. Sed placerat consequat porta. Fusce rutrum ligula id convallis feugiat.</p>
-        </div>
-
-      </section>
-      <section class="row">
-        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-2">
-          <div class=" thumbnail">
-            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-            <p class="text-center">Fig. 2 Quisque eget eros </p>
-
-
-          </div>
-        </div>
-        <div class="col-xs-6 col-xs-offset-3  col-sm-4 col-sm-offset-0">
-          <div class="thumbnail">
-            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-            <p class="text-center">Fig. 3 nunc a, vestibulum</p>
-
-
-          </div>
-        </div>
-      </section>
-      <section class="row">
-        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>Proin maximus</h2>
-          <p>Morbi ac ex lectus. Aliquam lacinia elementum convallis. Morbi rhoncus consectetur dolor. Etiam non purus mi. Etiam dui ex, pulvinar nec purus pharetra, condimentum viverra nunc. Vestibulum fringilla turpis nec tortor viverra ornare. Maecenas id sollicitudin risus. Maecenas rhoncus dolor sed nisi molestie feugiat.</p>
-          <p>Nam id mi at turpis pharetra viverra. Integer rhoncus arcu et mauris congue condimentum. Aliquam magna magna, egestas eget vestibulum non, pharetra a lectus. Maecenas fringilla bibendum lectus sed interdum. Curabitur lacinia est purus, vel commodo mauris ultrices sit amet. Aenean fermentum ultrices massa sed sodales. Etiam elit diam, fermentum nec vestibulum a, porttitor eget nibh. Proin convallis, risus eu fermentum dignissim, magna dolor euismod quam, vehicula semper lacus metus id nulla. Ut vel purus non ex molestie mattis at efficitur mauris. Ut bibendum velit quis mi feugiat laoreet. Aliquam tincidunt imperdiet ipsum, sed gravida ante commodo dapibus. Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod. </p>
+          <h2>Heuristic Evaluations</h2>
+          <p>We began by conducting a heuristic evaluation of the site, having each member of the team walk through the site and note usability issues. Once finished, we compiled the findings into a final evaluation which guided our subsequent research. This is in keeping with best practices as described by <a href="http://www.hcibib.org/tcuid/chap-4.html#4-3" target="_blank">Lewis and Rieman</a>, among others. Our evaluations led to research questions to explore.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-          <p class="text-center">Fig. 4 vehicula lacus, ac</p>
 
+          <img src="images/ladderUpFig3.png" alt="Some of the research questions we asked" class="img-responsive">
+          <p class="text-center">Fig. 3 Table of example research questions.</p>
+        </div>
+      </section>
 
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>User Testing</h2>
+          <p>Armed with our research questions, we wrote the user test plan. We prepared a script for the moderator, task descriptions for the participants, consent forms and data collection tools. Before turning it over to the users, we piloted our test plan to make sure it would help us answer the research questions. We then tested eight participants, compiled our data, and created a report for Ladder Up along with a slide deck to summarize our activities.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>In scelerisque</h2>
-          <p>Vestibulum et ligula molestie, blandit turpis vehicula, congue magna. Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed. Donec scelerisque metus ut nibh luctus, quis congue nibh fringilla. Quisque nec magna tristique, consequat velit sed, pharetra arcu. Donec urna augue, rutrum id justo et, pulvinar bibendum dui. Phasellus maximus porta justo. Nullam pulvinar nibh nec faucibus fringilla. </p>
+          <h2>Our Recommendations</h2>
+          <p>We wanted to be sure that our partners at Ladder Up would be able to clearly understand our recommendations without having to be UX experts, so we used diagrams to explain examples of what we meant. We also grouped the recommendations according to tasks familiar to the Ladder Up staff to help them understand the context. We made sure data existed to support each recommendation. We prioritized the recommendations based on our perspective of how easy the fix would be and how much of a usability problem it presented. Figure 4 is an example of how we presented each recommendation.</p>
+        </div>
+
+      </section>
+      
+      
+      <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
+
+          <img src="images/ladderUpFig4.png" alt="An example recomendation for Ladder Up.">
+          <p class="text-center">Fig. 4 Recommendation example. </p>
+
+
+
+        </div>
+      </section>
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>Lessons Learned</h2>
           <ul>
-            <li><strong>Nam id mi:</strong> Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet.</li>
-            <li><strong>Nam id mi:</strong> Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod.</li>
+            <li><strong>Heuristic evaluations can help guide research, but are assumptions at their core.</strong> They guided us when we lacked direction from the Ladder Up representative. Although helpful, we knew that they were no substitute for real user interaction, so we made sure to draw conclusions from the data provided by user testing.</li>
+            <li><strong>Small issues add up.</strong> Ladder Up’s volunteer site feels old, but there was no HUGE issue, rather a combination of small issues that resulted in a poor user experience. I have experienced few situations that have one single, clear answer. Rather, design solutions tend to be a more nuanced mix of answers to smaller problems.</li>
+            
           </ul>
-          <h2>Morbi ac ex lectus</h2>
-          <p>Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. <a target="_blank" href="http://www.worthy-words.net">Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed.</a> </p>
+          <h2>The Final Product</h2>
+          <a target="_blank" href="download.php?file=LadderUp_Report.pdf">Download the report!</a>
+          <br>
+
+
         </div>
-
-  
-
+      </section>
+      <section class="row">
+        <?php include "includes/backToPortfolioButton.php" ?>
 
       </section>
-<section class="row">
-  <?php include "includes/backToPortfolioButton.php" ?>
-       
-      </section>
+
+
+
 
 
     </article>
