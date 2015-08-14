@@ -14,8 +14,8 @@
         </li>
         <li class="text-center"><a href="about.php">About Me</a>
         </li>
-        <li class="text-center"><a href="contact.php">Contact Me</a>
-        </li>
+        <!--<li class="text-center"><a href="contact.php">Contact Me</a>
+        </li>-->
       </ul>
     </div>
     <!--close row-->
