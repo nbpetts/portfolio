@@ -7145,7 +7145,6 @@ body {
 
 .pageBackground {
   background-color: #f9f9f9;
-  padding-top: 80px;
 }
 
 p > a, li > a {
@@ -7171,6 +7170,10 @@ article {
 
 .socialGroup, .bitOfWork {
   margin-top: 20px;
+}
+
+h1 {
+  margin-top: 2em;
 }
 
 .hero {
@@ -7495,6 +7498,10 @@ label, input, textarea {
 
 ul.nav-pills > li > a:hover {
   border-radius: 0;
+}
+
+.recommendation {
+  margin-bottom: 1.5em;
 }
 
 .grass {

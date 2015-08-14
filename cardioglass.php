@@ -5,18 +5,19 @@
   <?php include "includes/head.php" ?>
 
   <title>CardioGlass | Nathan Petts - UX designer</title>
-  
+
 </head>
 
 <body>
-  <?php include_once("includes/googleAnalytics.php") ?>
+  <?php include_once( "includes/googleAnalytics.php") ?>
 
   <?php include "includes/header.php" ?>
-  <div class="container pageBackground" >
+  <div class="container pageBackground">
 
     <section class="row">
       <div class="col-xs-12 col-sm-offset-2 col-sm-8 ">
-        <h1>CardioGlass</h1><a id="content" name="content"></a> 
+        <h1>CardioGlass</h1>
+        <a id="content" name="content"></a>
         <a name="content"></a>
       </div>
 
@@ -24,90 +25,101 @@
 
     <article class="continer">
 
+
+
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>The Problem:</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>How do you diagram a complicated software program so that everyone involved in building it can understand the user requirements? We outlined a complex web and device driven app for the Google Glass platform in Unified Modeling Language (UML).</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>My Role:</h2>
-          <p>ut varius elit placerat eget</p>
+          <p>UML Sequence and Class Diagram designer, Design Scenarios and Use Case writer</p>
+        </div>
+      </section>
+
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+          <h2>Research Process</h2>
+          <p>We began with research into the medical device field and Google Glass. We envisioned a system that might monitor a patient’s biometric data and provide alerts for the patient and physician about conditions such as heart problems or seizures.</p>
+        </div>
+
+      </section>
+
+      <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
+
+          <img src="images/cardioglassFig1.png" alt="An overview diagram, showing the actors involved in the CardioGlass platform" class="img-responsive">
+          <p class="text-center">Fig. 1 CardioGlass overview.</p>
+
+
+
+        </div>
+      </section>
+
+
+      <section class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+
+          <p>We then identified stakeholders and a feature backlog. Next we assembled some brief use cases, a use case diagram and one detailed use case.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-          <p class="text-center">Fig. 1 Cras vestibulum porttitor</p>
 
-
+          <img src="images/cardioglassFig2.png" alt="An example use case for CardioGlass that details how the system supports reducing stress in a user" class="img-responsive">
+          <p class="text-center">Fig. 2 Example use case.</p>
         </div>
-
       </section>
+
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>Lorem ipsum dolor</h2>
-          <p>Nulla varius et odio ac luctus. Aliquam maximus lorem a sapien iaculis, sit amet mollis eros consectetur. Nam eu ex nec sem fermentum convallis. Nulla est leo, tincidunt ut rhoncus et, tristique et leo. Donec blandit, lectus in vestibulum vulputate, turpis justo fermentum purus, ut efficitur ipsum risus eu est. Cras condimentum arcu sodales scelerisque volutpat. Cras fermentum ut ante sed pharetra.</p>
-          <p>Proin maximus velit vel nisl laoreet, a ornare enim scelerisque. Maecenas nec rhoncus nibh. Duis convallis scelerisque felis, in malesuada urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris leo nunc, vulputate quis risus in, mollis pulvinar felis. Praesent et volutpat sapien. Maecenas nunc ligula, molestie vel hendrerit et, imperdiet et odio. Phasellus nec tortor volutpat, volutpat nunc a, vestibulum enim. Nullam in vulputate mauris, et fermentum augue. Vestibulum vestibulum nisi odio, quis interdum tortor egestas quis. Quisque eget eros porttitor justo posuere tincidunt in sed dui. Sed malesuada accumsan orci, ut accumsan libero. Curabitur massa lorem, laoreet nec viverra et, luctus eget ligula. Sed placerat consequat porta. Fusce rutrum ligula id convallis feugiat.</p>
-        </div>
-
-      </section>
-      <section class="row">
-        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-2">
-          <div class=" thumbnail">
-            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-            <p class="text-center">Fig. 2 Quisque eget eros </p>
-
-
-          </div>
-        </div>
-        <div class="col-xs-6 col-xs-offset-3  col-sm-4 col-sm-offset-0">
-          <div class="thumbnail">
-            <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-            <p class="text-center">Fig. 3 nunc a, vestibulum</p>
-
-
-          </div>
-        </div>
-      </section>
-      <section class="row">
-        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>Proin maximus</h2>
-          <p>Morbi ac ex lectus. Aliquam lacinia elementum convallis. Morbi rhoncus consectetur dolor. Etiam non purus mi. Etiam dui ex, pulvinar nec purus pharetra, condimentum viverra nunc. Vestibulum fringilla turpis nec tortor viverra ornare. Maecenas id sollicitudin risus. Maecenas rhoncus dolor sed nisi molestie feugiat.</p>
-          <p>Nam id mi at turpis pharetra viverra. Integer rhoncus arcu et mauris congue condimentum. Aliquam magna magna, egestas eget vestibulum non, pharetra a lectus. Maecenas fringilla bibendum lectus sed interdum. Curabitur lacinia est purus, vel commodo mauris ultrices sit amet. Aenean fermentum ultrices massa sed sodales. Etiam elit diam, fermentum nec vestibulum a, porttitor eget nibh. Proin convallis, risus eu fermentum dignissim, magna dolor euismod quam, vehicula semper lacus metus id nulla. Ut vel purus non ex molestie mattis at efficitur mauris. Ut bibendum velit quis mi feugiat laoreet. Aliquam tincidunt imperdiet ipsum, sed gravida ante commodo dapibus. Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod. </p>
+          <h2>Domain Model Diagram Process</h2>
+          <p>We then created a domain model diagram. I was primarily responsible for the layout and design of the images. My teammates helped to align the diagrams with object-oriented principles. We created a use case realization with a design scenario, a class responsibility table, sequence diagrams and a design class diagram.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-          <img src="images/placeholder-square.jpg" alt="placeholder" class="img-responsive">
-          <p class="text-center">Fig. 4 vehicula lacus, ac</p>
 
+          <img src="images/cardioglassFig3.png" alt="Some classes involved in the CardioGlass platform" class="img-responsive">
+          <p class="text-center">Fig. 3 Domain model diagram.</p>
+        </div>
+      </section>
+      <section class="row">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
 
+          <img src="images/cardioglassFig4.png" alt="one of our sequence diagrams. This one show how the system would analyse symptoms" class="img-responsive">
+          <p class="text-center">Fig. 4 Sequence diagram.</p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>In scelerisque</h2>
-          <p>Vestibulum et ligula molestie, blandit turpis vehicula, congue magna. Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed. Donec scelerisque metus ut nibh luctus, quis congue nibh fringilla. Quisque nec magna tristique, consequat velit sed, pharetra arcu. Donec urna augue, rutrum id justo et, pulvinar bibendum dui. Phasellus maximus porta justo. Nullam pulvinar nibh nec faucibus fringilla. </p>
           <h2>Lessons Learned</h2>
           <ul>
-            <li><strong>Nam id mi:</strong> Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet.</li>
-            <li><strong>Nam id mi:</strong> Sed at vehicula lacus, ac lacinia justo. Sed aliquam sit amet tellus non euismod.</li>
+            <li><strong>Really, though, what is OOP?</strong> Diagramming a complex system like this really helped me take the first steps toward understanding object-oriented programming. I still have a way to go, but I will remember this process as a major “aha” moment.</li>
+            <li><strong>Everyone loves diagrams.</strong> UML provides a strong visual language for documenting the processes behind a complex system.</li>
+
           </ul>
-          <h2>Morbi ac ex lectus</h2>
-          <p>Pellentesque pellentesque tellus a nunc porta, at interdum nisi imperdiet. Ut congue neque massa, at ornare sem faucibus commodo. Vivamus varius risus non aliquam egestas. <a target="_blank" href="http://www.worthy-words.net">Sed sollicitudin nisl enim, et pulvinar urna tincidunt sed.</a> </p>
+          <h2>The Final Product</h2>
+          <a target="_blank" href="download.php?file=CardioGlass_Design_Document.pdf">Download our UML design document!</a>
+
+
+
         </div>
+      </section>
+      <section class="row">
+        <?php include "includes/backToPortfolioButton.php" ?>
 
       </section>
-<section class="row">
-  <?php include "includes/backToPortfolioButton.php" ?>
-       
-      </section>
+
+
+
 
 
     </article>

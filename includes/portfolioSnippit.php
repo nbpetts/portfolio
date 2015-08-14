@@ -15,7 +15,7 @@
 
   <section class="row ">
     <div class="col-xs-12 <!--col-sm-offset-1--> col-sm-6  ">
-      <h2>Interface Design</h2>
+      <h2>Interface Design &amp; Development</h2>
 
     </div>
   </section>
@@ -28,7 +28,7 @@
 
           <img src="images/worthyWordsThumb.png" alt="A thumbnail for Worthy Words" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 1 Worthy Words</p>
+            <p class="">Fig. 1 Worthy Words.</p>
 
           </div>
         </div>
@@ -41,7 +41,7 @@
 
           <img src="images/mpactThumb.png" alt="A thumbnail for Mpact" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 2 Mpact</p>
+            <p class="">Fig. 2 Mpact.</p>
 
           </div>
 
@@ -55,7 +55,37 @@
 
           <img src="images/dumbThumb.png" alt="A thumbnail for Disingenuous Unified Monetary Bank" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 3 Disingenuous Unified Monetary Bank</p>
+            <p class="">Fig. 3 Disingenuous Unified Monetary Bank.</p>
+
+          </div>
+
+        </div>
+      </a>
+    </div>
+    <!-- end thumbnail-->
+  </section>
+  <section class="row ">
+    <div class="col-xs-6  col-sm-4">
+      <a href="cardioglass.php" class="">
+        <div class="thumbnail    porfolioThumbnail">
+
+          <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
+          <div class=" text-center">
+            <p class="">Fig. 4 CardioGlass.</p>
+
+          </div>
+
+        </div>
+      </a>
+    </div>
+    <!-- end thumbnail-->
+    <div class="col-xs-6 col-sm-4">
+      <a href="equipment.php" class="">
+        <div class="thumbnail porfolioThumbnail">
+
+          <img src="images/equipmentThumb.png" alt="A thumbnail for my equipment schedular">
+          <div class=" text-center">
+            <p class="">Fig. 5 Equipment Inventory.</p>
 
           </div>
 
@@ -67,7 +97,11 @@
 
 
 
+
   </section>
+
+
+
   <!-- end row-->
 
   <section class="row ">
@@ -87,7 +121,7 @@
 
           <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 4 Ladder Up</p>
+            <p class="">Fig. 6 Ladder Up.</p>
 
           </div>
 
@@ -102,7 +136,7 @@
 
           <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 5 Finding Volunteer Opportunities</p>
+            <p class="">Fig. 7 Finding Volunteer Opportunities.</p>
 
           </div>
 
@@ -115,49 +149,7 @@
 
   </section>
 
-  <section class="row ">
-    <div class="col-xs-12 col-sm-6   ">
-      <h2>Front End Development</h2>
 
-    </div>
-  </section>
-  <!-- end row-->
-
-  <section class="row ">
-    <div class="col-xs-6  col-sm-4">
-      <a href="cardioglass.php" class="">
-        <div class="thumbnail    porfolioThumbnail">
-
-          <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
-          <div class=" text-center">
-            <p class="">Fig. 6 CardioGlass</p>
-
-          </div>
-
-        </div>
-      </a>
-    </div>
-    <!-- end thumbnail-->
-    <div class="col-xs-6 col-sm-4">
-      <a href="equipment.php" class="">
-        <div class="thumbnail porfolioThumbnail">
-
-          <img src="images/placeholderSquareThumb.png" alt="A thumbnail for my equipment schedular">
-          <div class=" text-center">
-            <p class="">Fig. 7 Equipment Inventory</p>
-
-          </div>
-
-        </div>
-      </a>
-    </div>
-    <!-- end thumbnail-->
-
-
-
-
-
-  </section>
 
 
 

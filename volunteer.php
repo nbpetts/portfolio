@@ -125,7 +125,7 @@
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <h2>Lessons Learned</h2>
           <ul>
-            <li><strong>Observations show what people do, interviews reveal how people feel.</strong> TIt is clear that when one sets out to answer a research question, the right tool is required. Otherwise you risk wasting everyone’s time. Pilot studies and a firm understanding of the theory behind UX best practices can help!</li>
+            <li><strong>Observations show what people do, interviews reveal how people feel.</strong> It is clear that when one sets out to answer a research question, the right tool is required. Otherwise you risk wasting everyone’s time. Pilot studies and a firm understanding of the theory behind UX best practices can help!</li>
             <li><strong>Ethnographic research is worth the effort.</strong> It is invaluable for finding out how people feel, why they do things and what they really want. However, ethnographic research must be approached with the utmost rigor, so you don’t end up following false leads.</li>
             <li><strong>Hypotheses can be hard to substantiate.</strong> If you are going to go through the effort of doing quantitative research, you really need to make sure that your sample size is large enough to generate meaningful results.</li>
           </ul>

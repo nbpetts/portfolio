@@ -56,11 +56,14 @@
     </main>
     <!--close main-->
 
-    <section class="row">
-
-    </section>
+    <?php include "includes/recommendations.php" ?>
 
     <!--close article-->
+    <section class="row">
+    <div class="col-xs-12 col-sm-8 ">
+          <h1>Check me out</h1>
+        </div>
+    </section>
     <?php include "includes/social.php" ?>
     <?php include "includes/footer.php" ?>
   </div>

@@ -92,7 +92,7 @@
     </main>
     <!--close main-->
 
-
+    <?php include "includes/recommendations.php" ?>
     <?php include "includes/contactMe.php" ?>
 
     <?php include "includes/footer.php" ?>
