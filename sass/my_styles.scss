@@ -239,6 +239,9 @@ border:none;
 .caption {
 
 }
+.modalImage {
+  margin: 0 auto;
+}
 
 //////////////////////////////// /////form styling
 textarea {
@@ -392,8 +395,9 @@ ul.nav-pills > li > a:hover {
   .jobTitleGroup{
   border-bottom: 1px solid $myLightGrey;
   }
-  .btn {
-    font-size: .78em;
+  .btn, .btn:hover {
+    font-size: .79em;
+    padding-top: 14px;
   }
 
 }
@@ -404,10 +408,10 @@ ul.nav-pills > li > a:hover {
     .text-sm-center { text-align: center; }
     .text-sm-justify { text-align: justify; }
   
-  .backToPortfolioButton {
-      padding-top: 14px;
-     
-    }
+  .btn, .btn:hover {
+    font-size: .8em;
+    padding-top: 13px;
+  }
   .myFloatRight {
     
   }
@@ -436,9 +440,10 @@ margin-top: 15px;
     .text-md-center { text-align: center; }
     .text-md-justify { text-align: justify; }
   
-  .backToPortfolioButton {
-      padding-top: 24px;
-    }
+  .btn, .btn:hover {
+    font-size: 1em;
+    padding-top: 14px;
+  }
   
   h1.hero {
     font-size: 4.5em;
@@ -451,11 +456,10 @@ margin-top: 15px;
     .text-lg-right { text-align: right; }
     .text-lg-center { text-align: center; }
     .text-lg-justify { text-align: justify; }
-  .backToPortfolioButton {
-      padding-top: 32px;
-    }
-  .btn {
-    font-size: 1.5em;
+  
+ .btn, .btn:hover {
+    font-size: 1.2em;
+    padding-top: 20px;
   }
 }
 

@@ -1,6 +1,6 @@
 <section class="row">
     <div class="col-xs-12 col-sm-10  col-sm-8 ">
-        <h1>Drop me a line, why not?</h1>
+        <h1>Drop Me A Line, Why Not?</h1>
         <a name="content"></a>
     </div>
 

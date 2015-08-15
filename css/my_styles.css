@@ -7403,6 +7403,10 @@ p.activeCaption {
   box-shadow: 0px 0px 5px 5px #dbdbdb;
 }
 
+.modalImage {
+  margin: 0 auto;
+}
+
 textarea {
   height: 120px;
   background: none;
@@ -7566,8 +7570,9 @@ ul.nav-pills > li > a:hover {
     border-bottom: 1px solid #424242;
   }
 
-  .btn {
-    font-size: .78em;
+  .btn, .btn:hover {
+    font-size: .79em;
+    padding-top: 14px;
   }
 }
 @media (min-width: 768px) {
@@ -7587,8 +7592,9 @@ ul.nav-pills > li > a:hover {
     text-align: justify;
   }
 
-  .backToPortfolioButton {
-    padding-top: 14px;
+  .btn, .btn:hover {
+    font-size: .8em;
+    padding-top: 13px;
   }
 
   .caption > p.sidebar {
@@ -7624,8 +7630,9 @@ ul.nav-pills > li > a:hover {
     text-align: justify;
   }
 
-  .backToPortfolioButton {
-    padding-top: 24px;
+  .btn, .btn:hover {
+    font-size: 1em;
+    padding-top: 14px;
   }
 
   h1.hero {
@@ -7649,12 +7656,9 @@ ul.nav-pills > li > a:hover {
     text-align: justify;
   }
 
-  .backToPortfolioButton {
-    padding-top: 32px;
-  }
-
-  .btn {
-    font-size: 1.5em;
+  .btn, .btn:hover {
+    font-size: 1.2em;
+    padding-top: 20px;
   }
 }
 
