@@ -366,7 +366,7 @@ ul.nav-pills > li > a:hover {
 }
 /////////////////////////////////////////////// alignment classes
 .bottomAlign {
-  -webkit-display: flex;
+  display: -webkit-flex;
   -webkit-align-items: flex-end;
   display: flex;
   align-items: flex-end;

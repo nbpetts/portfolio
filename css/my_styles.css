@@ -7528,7 +7528,7 @@ ul.nav-pills > li > a:hover {
 }
 
 .bottomAlign {
-  -webkit-display: flex;
+  display: -webkit-flex;
   -webkit-align-items: flex-end;
   display: flex;
   align-items: flex-end;
