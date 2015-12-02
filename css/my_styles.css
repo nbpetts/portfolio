@@ -7219,9 +7219,21 @@ p.jobPlace {
   padding-left: 0;
 }
 
+.jobDetailsGroup > ul {
+  padding-left: 30px;
+}
+
 p.jobTime {
   font-style: italic;
   margin-bottom: 0;
+}
+
+.resumeSummary {
+  padding-top: .75em;
+}
+
+.technologist {
+  padding-left: 5px;
 }
 
 nav.navbar {
@@ -7294,7 +7306,7 @@ nav.navbar {
 }
 
 /*.buttonDiv {
-  max-height: 50px; 
+  max-height: 50px;
 }*/
 .btn:active {
   color: #1c1c1c;

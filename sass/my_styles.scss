@@ -2,12 +2,12 @@
 @import 'my_mixins.scss';
 @import '../node_modules/animate.css/animate.min.css';
 * {
-  
+
 //  outline: 1px solid red;
 }
 body {
   background-color: $lightBlue;
-  
+
 }
 .pageBackground {
   background-color: $myWhite;
@@ -49,7 +49,7 @@ h1 {
   font-size: 4.5em;
   color: $myH1;
   line-height: 1.125em;
-  
+
 }
 h1.hero {
   margin-bottom: -1px;
@@ -75,7 +75,7 @@ h3.jobTitle{
 }
 p.jobPlace {
   margin-bottom: 0;
-  
+
 }
 
 .jobDetailsGroup{
@@ -84,13 +84,18 @@ p.jobPlace {
 padding-left:0;
 }
 .jobDetailsGroup > ul {
-  
+ padding-left: 30px;
 }
 p.jobTime {
   font-style: italic;
   margin-bottom: 0;
 }
-
+.resumeSummary{
+  padding-top: .75em;
+}
+.technologist {
+  padding-left: 5px;
+}
 //////////////////////////////////////          my navbar styles
 nav.navbar {
   top:0px;
@@ -108,12 +113,12 @@ nav.navbar {
   width:100%;
   z-index: 100;
   top:0;
-  
+
 }
 .affix-top {
   position: relative;
   z-index: 100;
-  
+
 }
 .navbar-collapse.collapse.in {
   position: relative;
@@ -133,7 +138,7 @@ nav.navbar {
 //  background-size: cover;
   min-width: 150px;
 //  min-height: 38px;
- 
+
   @include responsive-bg-image(240.75, 63.75);
 }
 .btn:hover{
@@ -144,11 +149,11 @@ nav.navbar {
   background-repeat:no-repeat;
 //  background-size: contain;
   min-width: 150px;
- 
-  @include responsive-bg-image(240.75, 63.75); 
+
+  @include responsive-bg-image(240.75, 63.75);
 }
 /*.buttonDiv {
-  max-height: 50px; 
+  max-height: 50px;
 }*/
 .btn:active {
   color:  darken($myLightGrey, 15%);
@@ -160,16 +165,16 @@ nav.navbar {
   min-width: 150px;
  box-shadow: none;
   @include responsive-bg-image(240.75, 63.75);
-  
-  
+
+
 /*position: relative;
   top: 5px;
   left: 5px;
   bacground-color: darken($myWhite, 15%);
   border-radius: 0;
   box-shadow: 0 0 0 0;*/
-} 
-.btn-default :active { 
+}
+.btn-default :active {
   color:  darken($myLightGrey, 15%);
   background-color: transparent;
   border:none;
@@ -179,7 +184,7 @@ nav.navbar {
   min-width: 150px;
  box-shadow: none;
   @include responsive-bg-image(240.75, 63.75);
-} 
+}
 
 .btn:visitied {
   color:$myWhite;
@@ -196,7 +201,7 @@ div.buttonDiv, div.buttonDiv > a,  div.buttonDiv > a:hover, div.buttonDiv > a:ac
 /////////////////////////////// thumbnail and caption styles
 .caption > p {
   color: $tieBlue;
-  
+
 }
 .thumbnail {
   border:none;
@@ -246,7 +251,7 @@ border:none;
 //////////////////////////////// /////form styling
 textarea {
   height: 120px;
-  
+
   background: none;
 }
 input, textarea {
@@ -260,23 +265,23 @@ label, input, textarea {
 	display: block
 }
 .myLabel {
-  
-	
+
+
 	margin-top: -1px; // border collapser
 	position: relative;
 
 }
 .myForm {
 
-	
+
 	list-style-type: none;
-	
+
 	padding: 0;
-	
+
 
 }
 label {
-	
+
 	font-size: 70%;
 	letter-spacing: 0.03em;
 	position: absolute;
@@ -291,8 +296,8 @@ label {
 }
 input, input:focus, textarea, textarea:focus {
 	background-color: transparent;
-	
-	
+
+
 	font-size: 18px;
 	margin: 9px 0 7px 0;
 	margin: 0;
@@ -302,7 +307,7 @@ input, input:focus, textarea, textarea:focus {
 }
 input:focus, textarea:focus {
 	color: #000;
-		
+
 		box-shadow: 0px 3px 4px -2px rgba(0,0,115,0.25) inset;
 }
 label, input, textarea {
@@ -322,7 +327,7 @@ label, input, textarea {
   list-style: none;
   margin-top: 150px;
 
-  
+
 }
 .footerLinks > li {
   display: inline;
@@ -345,7 +350,7 @@ ul.nav-pills > li > a:hover {
 ////////////////////////////////////////////////////// recommendations
 .recommendation {
   margin-bottom: 1.5em;
-  
+
 }
 ///////////////////////////////////////////////////// Illustration
 .grass {
@@ -370,15 +375,15 @@ ul.nav-pills > li > a:hover {
   display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
   display: -ms-flexbox;      /* TWEENER - IE 10 */
   display: -webkit-flex;     /* NEW - Chrome */
-  display: flex; 
+  display: flex;
   -webkit-align-items: flex-end;
   align-items: flex-end;
-  
+
 }
 .middleAlign {
   display: flex;
   align-items: center;
-  
+
 }
 .text-xs-left { text-align: left; }
 .text-xs-right { text-align: right; }
@@ -386,9 +391,9 @@ ul.nav-pills > li > a:hover {
 .text-xs-justify { text-align: justify; }
 /////////////////////////////////////////////////////////////breakpoints
 
-@media (max-width: $screen-xs-max) { 
+@media (max-width: $screen-xs-max) {
   h1.hero {
-    
+
     font-size: 2.5em;
   }
   .jobTitleGroup{
@@ -407,18 +412,18 @@ ul.nav-pills > li > a:hover {
 
 }
 
-@media (min-width: $screen-sm-min) { 
+@media (min-width: $screen-sm-min) {
   .text-sm-left { text-align: left; }
     .text-sm-right { text-align: right; }
     .text-sm-center { text-align: center; }
     .text-sm-justify { text-align: justify; }
-  
+
   .btn, .btn:hover {
     font-size: .8em;
     padding-top: 13px;
   }
   .myFloatRight {
-    
+
   }
   .caption > p.sidebar {
   font-size: .9em;
@@ -428,45 +433,42 @@ margin-top: 15px;
   }
   .jobDetailsGroup{
   border-left: 2px solid $myLightGrey;
-  
+
 }
   h1.hero {
-   
+
     font-size: 3.5em;
   }
-  
+
 }
-@media (max-width: $screen-sm-max) { 
-   
+@media (max-width: $screen-sm-max) {
+
 }
-@media (min-width: $screen-md-min) { 
+@media (min-width: $screen-md-min) {
   .text-md-left { text-align: left; }
     .text-md-right { text-align: right; }
     .text-md-center { text-align: center; }
     .text-md-justify { text-align: justify; }
-  
+
   .btn, .btn:hover {
     font-size: 1em;
     padding-top: 14px;
   }
-  
+
   h1.hero {
     font-size: 4.5em;
   }
 }
 @media (max-width: $screen-md-max) {  }
-@media (min-width: $screen-lg-min) {  
+@media (min-width: $screen-lg-min) {
 
  .text-lg-left { text-align: left; }
     .text-lg-right { text-align: right; }
     .text-lg-center { text-align: center; }
     .text-lg-justify { text-align: justify; }
-  
+
  .btn, .btn:hover {
     font-size: 1.2em;
     padding-top: 20px;
   }
 }
-
-
-
