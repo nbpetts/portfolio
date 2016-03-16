@@ -165,7 +165,7 @@
             </div>
             <div class="modal-body row">
                 <div class="col-xs-12 text-center">
-                    <img src="images/accessibleGraphsFig1.png.png" class="img-responsive modalImage" alt="Some inaccessible graphs">
+                    <img src="images/accessibleGraphsFig1.png" class="img-responsive modalImage" alt="Some inaccessible graphs">
                 </div>
 
             </div>
