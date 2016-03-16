@@ -79,7 +79,7 @@
       </a>
     </div>
     <!-- end thumbnail-->
-    <div class="col-xs-6 col-sm-4">
+    <!-- <div class="col-xs-6 col-sm-4">
       <a href="equipment.php" class="">
         <div class="thumbnail porfolioThumbnail">
 
@@ -91,7 +91,7 @@
 
         </div>
       </a>
-    </div>
+    </div> -->
     <!-- end thumbnail-->
 
 
@@ -121,7 +121,7 @@
 
           <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 6 Ladder Up.</p>
+            <p class="">Fig. 5 Ladder Up.</p>
 
           </div>
 
@@ -136,7 +136,7 @@
 
           <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 7 Finding Volunteer Opportunities.</p>
+            <p class="">Fig. 6 Finding Volunteer Opportunities.</p>
 
           </div>
 
@@ -144,7 +144,19 @@
       </a>
     </div>
     <!-- end thumbnail-->
+    <div class="col-xs-6 col-sm-4">
+      <a href="accessible-graphs.php" class="">
+        <div class="thumbnail porfolioThumbnail">
 
+          <img src="images/accessibleGraphsThumb.png" alt="A thumbnail for my Accessible Graphs Report">
+          <div class=" text-center">
+            <p class="">Fig. 7 Improving Graph Accessiblity.</p>
+
+          </div>
+
+        </div>
+      </a>
+    </div>
 
 
   </section>

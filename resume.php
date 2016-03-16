@@ -158,7 +158,7 @@
         <section class="row">
           <div class="col-xs-12  ">
             <p>
-              <strong>DePaul University -</strong> Master of Science in Human Computer Interaction, 2016 (expected)- GPA 4.0</p>
+              <strong>DePaul University -</strong> Master of Science in Human Computer Interaction, June 2016 (expected)- GPA 4.0</p>
           </div>
 
         </section>
