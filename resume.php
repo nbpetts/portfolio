@@ -85,7 +85,7 @@
               <strong>Tech Support -</strong> Perform server administration; troubleshoot technology issues for on-site and remote users; manage the laptop inventory.</li>
             </p>
             <p>
-              <strong>Staff Supervision -</strong> Oversee a graduate student assistant who helps with tech support and data entry.</li>
+              <strong>Staff Supervision -</strong> Hire and oversee a one full time employee who helps with tech support and data entry.</li>
             </p>
 
 
