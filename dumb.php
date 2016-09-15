@@ -29,14 +29,14 @@
 
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>The Problem:</h2>
+                    <h2>The Problem</h2>
                     <p>How do you design an information architecture that offers bank users access to all of the functions available at the branch or ATM? Furthermore, how do you design with a bias toward users who seldom use the system?</p>
                 </div>
 
             </section>
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>My Role:</h2>
+                    <h2>My Role</h2>
                     <p>App Design, Sketching, Axure Wireframing</p>
                 </div>
 
@@ -117,7 +117,7 @@
                         </li>
                     </ul>
                     <h2>The Final Product</h2>
-                    <a target="_blank" href="download.php?file=Dumb_Design_Document.pdf">Download the design document!</a> 
+                    <a target="_blank" href="download.php?file=downloads/Dumb_Design_Document.pdf">Download the design document!</a> 
                     <br>
 
 

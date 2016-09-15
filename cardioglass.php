@@ -29,14 +29,14 @@
 
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>The Problem:</h2>
+                    <h2>The Problem</h2>
                     <p>How do you diagram a complicated software program so that everyone involved in building it can understand the user requirements? We outlined a complex web and device driven app for the Google Glass platform in Unified Modeling Language (UML).</p>
                 </div>
 
             </section>
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>My Role:</h2>
+                    <h2>My Role</h2>
                     <p>UML Sequence and Class Diagram designer, Design Scenarios and Use Case writer</p>
                 </div>
             </section>
@@ -115,7 +115,7 @@
 
                     </ul>
                     <h2>The Final Product</h2>
-                    <a target="_blank" href="download.php?file=CardioGlass_Design_Document.pdf">Download our UML design document!</a>
+                    <a target="_blank" href="download.php?file=downloads/CardioGlass_Design_Document.pdf">Download our UML design document!</a>
 
 
 

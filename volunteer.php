@@ -29,14 +29,14 @@
 
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>The Problem:</h2>
+          <h2>The Problem</h2>
           <p>Can my team use ethnographic user research to inform design decisions that will help organizations find volunteers? </p>
         </div>
 
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-          <h2>My Role:</h2>
+          <h2>My Role</h2>
           <p>Interviewer, Survey Designer, Persona Writer, Report Writer and Editor</p>
         </div>
       </section>
@@ -130,7 +130,7 @@
             <li><strong>Hypotheses can be hard to substantiate.</strong> If you are going to go through the effort of doing quantitative research, you really need to make sure that your sample size is large enough to generate meaningful results.</li>
           </ul>
           <h2>The Final Product</h2>
-          <a target="_blank" href="download.php?file=Finding_Volunteers_Report.pdf">Download the report!</a>
+          <a target="_blank" href="download.php?file=downloads/Finding_Volunteers_Report.pdf">Download the report!</a>
 
 
 

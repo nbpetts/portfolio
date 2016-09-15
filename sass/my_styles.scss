@@ -389,6 +389,13 @@ ul.nav-pills > li > a:hover {
 .text-xs-right { text-align: right; }
 .text-xs-center { text-align: center; }
 .text-xs-justify { text-align: justify; }
+/////////////////////////////////////////////////////////////Modals
+#fig2Modal .modal-dialog {
+  width: 75%
+}
+
+
+
 /////////////////////////////////////////////////////////////breakpoints
 
 @media (max-width: $screen-xs-max) {

@@ -78,6 +78,19 @@
         </div>
       </a>
     </div>
+    <div class="col-xs-6  col-sm-4">
+      <a href="uta-hagenbot.php" class="">
+        <div class="thumbnail    porfolioThumbnail">
+
+          <img src="images/utaPrototypeThumb.png" alt="A thumbnail for my UtaHagenBot" class="porfolioThumbnailImage">
+          <div class=" text-center">
+            <p class="">Fig. 4 UtaHagenBot.</p>
+
+          </div>
+
+        </div>
+      </a>
+    </div>
     <!-- end thumbnail-->
     <!-- <div class="col-xs-6 col-sm-4">
       <a href="equipment.php" class="">

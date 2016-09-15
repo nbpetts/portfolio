@@ -29,14 +29,14 @@
 
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>The Problem:</h2>
+                    <h2>The Problem</h2>
                     <p>Evaluate Ladder Up’s website for usability. Utilize heuristic evaluations and user testing to review the website and identify design improvements. Communicate the design changes effectively to laypersons.</p>
                 </div>
 
             </section>
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>My Role:</h2>
+                    <h2>My Role</h2>
                     <p>User Testing Moderator, Test Design, Report Writer and Editor</p>
                 </div>
             </section>
@@ -122,7 +122,7 @@
 
                     </ul>
                     <h2>The Final Product</h2>
-                    <a target="_blank" href="download.php?file=LadderUp_Report.pdf">Download the report!</a>
+                    <a target="_blank" href="download.php?file=downloads/LadderUp_Report.pdf">Download the report!</a>
                     <br>
 
 

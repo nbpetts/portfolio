@@ -29,7 +29,7 @@
 
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>The Problem:</h2>
+                    <h2>The Problem</h2>
                     <p>Graphs are a common method for disseminating large amounts of information. However, they are inaccessible to people who are blind. We sought answers to these questions:
 </p>
 <ul>
@@ -48,7 +48,7 @@
             </section>
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>My Role:</h2>
+                    <h2>My Role</h2>
                     <p>Interviewer, Protocol Writer and Editor, Report Writer and Editor</p>
                 </div>
             </section>
@@ -133,11 +133,11 @@
                         <li><strong>Guidelines can help, but they help more when they are clear.</strong> W3C’s accessibility recommendations are long and confusing, and we suspect that might be partly to blame for the sorry state of accessibility on the web today. </li>
                     </ul>
                     <h2>The Final Product</h2>
-                    <a target="_blank" href="download.php?file=Accessible_Graphs.pdf">Download the report!</a>
+                    <a target="_blank" href="download.php?file=downloads/Accessible_Graphs.pdf">Download the report!</a>
                     <br>
                     or
                     <br>
-                    <a target="_blank" href="download.php?file=Accessible_Graphs_Presentation.pdf">Download the Presentation!</a>
+                    <a target="_blank" href="download.php?file=downloads/Accessible_Graphs_Presentation.pdf">Download the Presentation!</a>
                 </div>
             </section>
             <section class="row">

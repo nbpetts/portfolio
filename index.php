@@ -63,7 +63,7 @@
         <div class="col-xs-5 col-sm-offset-0 col-sm-4 col-xs-pull-4 col-sm-pull-1 pull-right">
           <a href="worthywords.php" class="">
             <div href="#" class="thumbnail ">
-              <img src="images/Fig1.png" alt="A prototype of the Script Courier app" class="sidebarImage">
+              <img src="images/Fig1.png" alt="A prototype of the Worthy Words app" class="sidebarImage">
               <div class="caption text-center">
                 <p class="sidebar">Fig. 1 - Learn about the story of Worthy Words, an app I created.</p>
               </div>

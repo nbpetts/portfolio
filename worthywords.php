@@ -28,14 +28,14 @@
 
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>The Problem:</h2>
+                    <h2>The Problem</h2>
                     <p>Adventure Stage Chicago wanted to connect with their young audiences in a unique way on a shoestring budget.</p>
                 </div>
 
             </section>
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>My Role:</h2>
+                    <h2>My Role</h2>
                     <p>App Designer/Developer</p>
                 </div>
 

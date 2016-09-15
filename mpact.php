@@ -29,14 +29,14 @@
 
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>The Problem:</h2>
+                    <h2>The Problem</h2>
                     <p>How do you convey a technology that doesn’t yet exist in a way that a potential client understands it? My partner and I conceived and prototyped an app that takes advantage of The Internet of Things.</p>
                 </div>
 
             </section>
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                    <h2>My Role:</h2>
+                    <h2>My Role</h2>
                     <p>App Design, Sketching, Axure Wireframing</p>
                 </div>
 
@@ -113,7 +113,7 @@
                         <li><strong>Prototyping shows where to look next.</strong> Each time we created an iteration, we took notes about where we could improve. Each new iteration was better than its predecessor.</li>
                     </ul>
                     <h2>The Final Product</h2>
-                    <a target="_blank" href="download.php?file=Mpact_Design_Document.pdf">Download the design document!</a> 
+                    <a target="_blank" href="download.php?file=downloads/Mpact_Design_Document.pdf">Download the design document!</a> 
                     <br>
                     <a target="_blank" href="http://8pjb72.axshare.com/">Check out our Mpact prototype here!</a>
 
