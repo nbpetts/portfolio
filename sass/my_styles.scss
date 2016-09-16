@@ -390,7 +390,7 @@ ul.nav-pills > li > a:hover {
 .text-xs-center { text-align: center; }
 .text-xs-justify { text-align: justify; }
 /////////////////////////////////////////////////////////////Modals
-#fig2ModalBig .modal-dialog {
+#fig2ModalBig .modal-dialog, #fig1ModalBig .modal-dialog, #fig5ModalBig .modal-dialog {
   width: 75%
 }
 

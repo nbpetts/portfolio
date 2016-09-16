@@ -78,6 +78,7 @@
         </div>
       </a>
     </div>
+    <!-- end thumbnail-->
     <div class="col-xs-6  col-sm-4">
       <a href="uta-hagenbot.php" class="">
         <div class="thumbnail    porfolioThumbnail">
@@ -92,19 +93,19 @@
       </a>
     </div>
     <!-- end thumbnail-->
-    <!-- <div class="col-xs-6 col-sm-4">
-      <a href="equipment.php" class="">
+    <div class="col-xs-6 col-sm-4">
+      <a href="bc-sharing-design.php" class="">
         <div class="thumbnail porfolioThumbnail">
 
-          <img src="images/equipmentThumb.png" alt="A thumbnail for my equipment schedular">
+          <img src="images/bcSharingBeforeThumb.png" alt="A thumbnail for my Basecamp sharing feature redesign">
           <div class=" text-center">
-            <p class="">Fig. 5 Equipment Inventory.</p>
+            <p class="">Fig. 5 Client Sharing Flow Redesign.</p>
 
           </div>
 
         </div>
       </a>
-    </div> -->
+    </div>
     <!-- end thumbnail-->
 
 
@@ -190,19 +191,19 @@
     </div>
     <!-- end thumbnail-->
 
-    <!-- <div class="col-xs-6  col-sm-4">
-      <a href="volunteer.php" class="">
+    <div class="col-xs-6  col-sm-4">
+      <a href="cta-accessibility.php" class="">
         <div class="thumbnail    porfolioThumbnail">
 
-          <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
+          <img src="images/ctaUserJourneyThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 6 Finding Volunteer Opportunities.</p>
+            <p class="">Fig. 6 CTA Train Accessibility.</p>
 
           </div>
 
         </div>
       </a>
-    </div> -->
+    </div>
     <!-- end thumbnail-->
     <!-- <div class="col-xs-6 col-sm-4">
       <a href="accessible-graphs.php" class="">

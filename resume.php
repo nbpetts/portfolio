@@ -174,8 +174,8 @@
 
         </section>
         <section class="row">
-          <div class="col-xs-12 col-sm-4 ">
-            <h2>Education</h2>
+          <div class="col-xs-12 col-sm-5 ">
+            <h2>Places I Have Learned</h2>
           </div>
 
         </section>
@@ -195,7 +195,7 @@
         </section>
         <section class="row">
           <div class="col-xs-12 col-sm-4 ">
-            <h2>On the Web</h2>
+            <h2>Find Me on the Web</h2>
           </div>
 
         </section>
