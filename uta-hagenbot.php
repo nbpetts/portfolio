@@ -73,7 +73,7 @@
             </section>
             <section class="row">
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
-                    <a href="#" data-toggle="modal" data-target="#fig2Modal">
+                    <a href="#" data-toggle="modal" data-target="#fig2ModalBig">
                         <img src="images/utaStoryboard.png" alt="A storyboard of how Uta might work." class="img-responsive">
                         <p class="text-center">Fig. 2 My epic storyboard.</p>
                     </a>
@@ -210,7 +210,7 @@
         </div>
     </div>
 </div>
-<div class="modal fade" id="fig2Modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade" id="fig2ModalBig" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">

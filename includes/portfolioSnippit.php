@@ -173,6 +173,53 @@
 
 
   </section>
+  <section class="row ">
+
+    <div class="col-xs-6 col-sm-4">
+      <a href="clientside.php" class="">
+        <div class="thumbnail    porfolioThumbnail">
+
+          <img src="images/clientsideHappyCamperThumb.png" alt="a thumbnail for Clientside Research" class="porfolioThumbnailImage">
+          <div class=" text-center">
+            <p class="">Fig. 5 Clientside Research.</p>
+
+          </div>
+
+        </div>
+      </a>
+    </div>
+    <!-- end thumbnail-->
+
+    <!-- <div class="col-xs-6  col-sm-4">
+      <a href="volunteer.php" class="">
+        <div class="thumbnail    porfolioThumbnail">
+
+          <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
+          <div class=" text-center">
+            <p class="">Fig. 6 Finding Volunteer Opportunities.</p>
+
+          </div>
+
+        </div>
+      </a>
+    </div> -->
+    <!-- end thumbnail-->
+    <!-- <div class="col-xs-6 col-sm-4">
+      <a href="accessible-graphs.php" class="">
+        <div class="thumbnail porfolioThumbnail">
+
+          <img src="images/accessibleGraphsThumb.png" alt="A thumbnail for my Accessible Graphs Report">
+          <div class=" text-center">
+            <p class="">Fig. 7 Improving Graph Accessiblity.</p>
+
+          </div>
+
+        </div>
+      </a>
+    </div>
+ -->
+
+  </section>
 
 
 
