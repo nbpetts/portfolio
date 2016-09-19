@@ -1,1 +1,1 @@
-ErrorDocument 404 oops.php
+ErrorDocument 404 http://www.nathanpetts.com/portfolio/oops.php 

@@ -23,8 +23,10 @@
       </section>
       <section class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-1">
-          <p><a href="contact.php">Maybe try again?</a></p>
-          <p>If this is the second time you are seeing this, something might be broken. Send me a direct email: <a href="mailto:nbpetts@gmail.com">nbpetts at gmail.com</a>. Or, take a look at my portfolio:</p>
+          <p><a href="http://www.nathanpetts.com/portfolio/index.php">Maybe try again?</a></p>
+          <p>If this is the second time you are seeing this, something might be broken. Send me a direct email: <a href="mailto:nbpetts@gmail.com">nbpetts at gmail.com</a>.</p>
+
+          <p> Or, take a look at my portfolio:</p>
                   
         </div>
         <?php include "includes/portfolioButton.php" ?>
