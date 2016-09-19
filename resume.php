@@ -100,17 +100,15 @@
               <strong>Web Design &amp; Project Management </strong>
             </p>
             <ul>
-              <li>Completed a content audit as well as accessibility and heuristic evaluations of the site and systems.</li>
-              <li>Conducted user interviews and contextual analyses to gather user requirements.</li>
-              <li>Translated business requirements into specifications for a contracted vendor.</li>
-              <li>Wrote personas and managed feature backlog.</li>
+              <li>Employees depend on the MATEC website to complete daily tasks; it was undocumented, inflexible and did not meet their need for a reliable online tool. Managed the project to revamp the site; completed a content audit as well as accessibility and heuristic evaluations of the website. Conducted user interviews and contextual analyses to gather user requirements.</li>
+              <li>Translated business and user requirements into specifications for a contracted vendor. Wrote personas and managed feature backlog.</li>
               <li>Migrated and curated content for the new site.</li>
-              <li> Implemented a Drupal-based website in line with modern web standards.</li>
+              <li>The result was a website in line with modern web standards that was hailed as a vast improvement by users.</li>
             </ul>
 
 
             <p>
-              <strong>Ops &amp; Data Management -</strong>Ensure data integrity by troubleshooting data errors and bugs and training users on effective data collection processes. Provide management with accurate, timely customized reports using web interfaces, PHP and MySQL.
+              <strong>Ops &amp; Data Management -</strong>Ensured data integrity by troubleshooting data errors and bugs and training users on effective data collection processes. Provided management with accurate, timely customized reports using web interfaces, PHP and MySQL.
             </p>
           
 
