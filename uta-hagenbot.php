@@ -104,7 +104,7 @@
                     <div class="thumbnail">
                         <a href="#" data-toggle="modal" data-target="#fig4Modal">
                             <img src="images/utaPersonaSajel.png" alt="A user persona named Sajel." class="img-responsive">
-                            <p class="text-center">Fig 4. Sajel—now there’s a name for a persona .</p>
+                            <p class="text-center">Fig 4. Sajel—now there’s a name for a persona.</p>
                         </a>
 
 

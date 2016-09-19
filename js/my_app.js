@@ -4,6 +4,9 @@ $(document).ready(function () {
     if (("/portfolio/" + el.attr("href")) === window.location.pathname) {
       el.parent().addClass("active");
     }
+    if (el.context.pathname === window.location.pathname) {
+      el.parent().addClass("active");
+    }
   };
 
   var isScrolledIntoView = function (elem) {
