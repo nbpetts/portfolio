@@ -51,7 +51,7 @@ $(document).ready(function () {
       
 
 
-      pageBackground.toggleClass("pageBackgroundMargin", $(window).scrollTop() >= navTop);
+     // pageBackground.toggleClass("pageBackgroundMargin", $(window).scrollTop() >= navTop);
 
       /*nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
       pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);*/
