@@ -15,7 +15,7 @@
       <div class="container pageBackground">
 
         <section class="row ">
-          <div class="col-xs-12 col-sm-8 ">
+          <div class="col-xs-12 ">
             <h1>Nathan B. Petts</h1>
             <a id="content" name="content"></a>
             <script type="text/javascript">

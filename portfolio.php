@@ -15,7 +15,7 @@
   <div class="container pageBackground">
 
     <section class="row">
-      <div class="col-xs-12 col-sm-8 ">
+      <div class="articleTitle">
         <h1>A Selection of My Work</h1><a id="content" name="content"></a> 
         <a name="content"></a>
       </div>

@@ -14,7 +14,7 @@
 <a id="content" name="content"></a> 
         
       <section class="row">
-        <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+        <div class="articleTitle">
           <h1>Oops! Something went wrong.</h1>
           
         </div>

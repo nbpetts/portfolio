@@ -13,7 +13,7 @@
     <div class="container pageBackground">
 
         <section class="row">
-            <div class="col-xs-12 col-sm-offset-2 col-sm-8 ">
+            <div class="portfolioArticleTitle">
                 <h1>Uta HagenBot: Designs in Embodied Interaction*</h1>
                 <a id="content" name="content"></a>
             </div>

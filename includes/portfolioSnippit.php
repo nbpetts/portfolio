@@ -23,7 +23,7 @@
 
   <section class="row ">
 
-    <div class="col-xs-6 col-sm-4">
+    <div class="portfolioThumbLink">
       <a href="bc-sharing-design.php" class="">
         <div class="thumbnail porfolioThumbnail">
 
@@ -37,7 +37,7 @@
       </a>
     </div>
     <!-- end thumbnail-->
-    <div class="col-xs-6  col-sm-4">
+    <div class="portfolioThumbLink">
       <a href="uta-hagenbot.php" class="">
         <div class="thumbnail    porfolioThumbnail">
 
@@ -51,7 +51,7 @@
       </a>
     </div>
     <!-- end thumbnail-->
-    <div class="col-xs-6 <!--col-sm-offset-1--> col-sm-4">
+    <div class="portfolioThumbLink">
       <a href="worthywords.php" class="">
         <div class="thumbnail    porfolioThumbnail">
 
@@ -94,87 +94,141 @@
         </div>
       </a>
     </div>
- -->    <!-- end thumbnail-->
-    <div class="col-xs-6  col-sm-4">
-      <a href="cardioglass.php" class="">
-        <div class="thumbnail    porfolioThumbnail">
+  -->    <!-- end thumbnail-->
+  <div class="portfolioThumbLink">
+    <a href="cardioglass.php" class="">
+      <div class="thumbnail    porfolioThumbnail">
 
-          <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
-          <div class=" text-center">
-            <p class="">Fig. 4 CardioGlass.</p>
-
-          </div>
+        <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
+        <div class=" text-center">
+          <p class="">Fig. 4 CardioGlass.</p>
 
         </div>
-      </a>
-    </div>
-    <!-- end thumbnail-->
-    
-    
-    <!-- end thumbnail-->
 
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
+  
+  
+  <!-- end thumbnail-->
+</section>
+<section class="row ">
+  <div class="portfolioThumbLinkSm">
+    <a href="bc-sharing-design.php" class="">
+      <div class="thumbnail porfolioThumbnail">
 
-
-
-
-  </section>
-
-
-
-  <!-- end row-->
-
-  <section class="row ">
-    <div class="col-xs-12 col-sm-6   ">
-      <h2>User Research</h2>
-
-    </div>
-  </section>
-  <!-- end row-->
-
-
-  <section class="row ">
-    <div class="col-xs-6 col-sm-4">
-      <a href="clientside.php" class="">
-        <div class="thumbnail    porfolioThumbnail">
-
-          <img src="images/clientsideHappyCamperThumb.png" alt="a thumbnail for Clientside Research" class="porfolioThumbnailImage">
-          <div class=" text-center">
-            <p class="">Fig. 1 Clientside Research.</p>
-
-          </div>
+        <img src="images/bcSharingBeforeThumb.png" alt="A thumbnail for my Basecamp sharing feature redesign">
+        <div class=" text-center">
+          <p class="">Fig. 1 Client Sharing Flow Redesign.</p>
 
         </div>
-      </a>
-    </div>
-    <!-- end thumbnail-->
-    <div class="col-xs-6  col-sm-4">
-      <a href="cta-accessibility.php" class="">
-        <div class="thumbnail    porfolioThumbnail">
 
-          <img src="images/ctaUserJourneyThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
-          <div class=" text-center">
-            <p class="">Fig. 2 CTA Train Accessibility.</p>
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
+  <div class="portfolioThumbLinkSm">
+    <a href="uta-hagenbot.php" class="">
+      <div class="thumbnail    porfolioThumbnail">
 
-          </div>
-
-        </div>
-      </a>
-    </div>
-    <!-- end thumbnail-->
-    <div class="col-xs-6 col-sm-4">
-      <a href="ladder.php" class="">
-        <div class="thumbnail    porfolioThumbnail">
-
-          <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
-          <div class=" text-center">
-            <p class="">Fig. 3 Ladder Up.</p>
-
-          </div>
+        <img src="images/utaPrototypeThumb.png" alt="A thumbnail for my UtaHagenBot" class="porfolioThumbnailImage">
+        <div class=" text-center">
+          <p class="">Fig. 2 UtaHagenBot.</p>
 
         </div>
-      </a>
-    </div>
-    <!-- end thumbnail-->
+
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
+</section>
+
+<section class="row ">
+  <div class="portfolioThumbLinkSm">
+    <a href="worthywords.php" class="">
+      <div class="thumbnail    porfolioThumbnail">
+
+        <img src="images/worthyWordsThumb.png" alt="A thumbnail for Worthy Words" class="porfolioThumbnailImage">
+        <div class=" text-center">
+          <p class="">Fig. 3 Worthy Words.</p>
+
+        </div>
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
+  <div class="portfolioThumbLinkSm">
+    <a href="cardioglass.php" class="">
+      <div class="thumbnail    porfolioThumbnail">
+
+        <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
+        <div class=" text-center">
+          <p class="">Fig. 4 CardioGlass.</p>
+
+        </div>
+
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
+</section>
+
+
+<!-- end row-->
+
+<section class="row ">
+  <div class="col-xs-12 col-sm-6   ">
+    <h2>User Research</h2>
+
+  </div>
+</section>
+<!-- end row-->
+
+
+<section class="row ">
+  <div class="col-xs-6 col-sm-4">
+    <a href="clientside.php" class="">
+      <div class="thumbnail    porfolioThumbnail">
+
+        <img src="images/clientsideHappyCamperThumb.png" alt="a thumbnail for Clientside Research" class="porfolioThumbnailImage">
+        <div class=" text-center">
+          <p class="">Fig. 1 Clientside Research.</p>
+
+        </div>
+
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
+  <div class="col-xs-6  col-sm-4">
+    <a href="cta-accessibility.php" class="">
+      <div class="thumbnail    porfolioThumbnail">
+
+        <img src="images/ctaUserJourneyThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
+        <div class=" text-center">
+          <p class="">Fig. 2 CTA Train Accessibility.</p>
+
+        </div>
+
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
+  <div class="col-xs-6 col-sm-4">
+    <a href="ladder.php" class="">
+      <div class="thumbnail    porfolioThumbnail">
+
+        <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
+        <div class=" text-center">
+          <p class="">Fig. 3 Ladder Up.</p>
+
+        </div>
+
+      </div>
+    </a>
+  </div>
+  <!-- end thumbnail-->
 
     <!-- <div class="col-xs-6  col-sm-4">
       <a href="volunteer.php" class="">
@@ -226,7 +280,7 @@
  
 
 </section>
- -->
+-->
 
 
 

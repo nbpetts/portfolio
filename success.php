@@ -13,7 +13,7 @@
     <div class="container pageBackground">
 <a id="content" name="content"></a> 
       <section class="row">
-        <div class="col-xs-12 col-sm-4 col-sm-offset-1">
+        <div class="articleTitle">
           <h1>Success!</h1>
           
         </div>

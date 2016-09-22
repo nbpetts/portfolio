@@ -1978,14 +1978,14 @@ pre code {
   clear: both;
 }
 
-.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .portfolioThumbLink, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .portfolioThumbLinkSm, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .portfolioArticleTitle, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .articleTitle, .col-md-10, .col-lg-10, .col-xs-11, .portfolioArticleTitle, .articleTitle, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
   position: relative;
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
 }
 
-.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .portfolioThumbLinkSm, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .portfolioArticleTitle, .articleTitle, .col-xs-12 {
   float: left;
 }
 
@@ -2009,7 +2009,7 @@ pre code {
   width: 41.66667%;
 }
 
-.col-xs-6 {
+.col-xs-6, .portfolioThumbLinkSm {
   width: 50%;
 }
 
@@ -2029,7 +2029,7 @@ pre code {
   width: 83.33333%;
 }
 
-.col-xs-11 {
+.col-xs-11, .portfolioArticleTitle, .articleTitle {
   width: 91.66667%;
 }
 
@@ -2194,7 +2194,7 @@ pre code {
 }
 
 @media (min-width: 768px) {
-  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .portfolioThumbLink, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .portfolioArticleTitle, .col-sm-9, .col-sm-10, .articleTitle, .col-sm-11, .col-sm-12 {
     float: left;
   }
 
@@ -2210,7 +2210,7 @@ pre code {
     width: 25%;
   }
 
-  .col-sm-4 {
+  .col-sm-4, .portfolioThumbLink {
     width: 33.33333%;
   }
 
@@ -2226,7 +2226,7 @@ pre code {
     width: 58.33333%;
   }
 
-  .col-sm-8 {
+  .col-sm-8, .portfolioArticleTitle {
     width: 66.66667%;
   }
 
@@ -2234,7 +2234,7 @@ pre code {
     width: 75%;
   }
 
-  .col-sm-10 {
+  .col-sm-10, .articleTitle {
     width: 83.33333%;
   }
 
@@ -2354,11 +2354,11 @@ pre code {
     margin-left: 0%;
   }
 
-  .col-sm-offset-1 {
+  .col-sm-offset-1, .articleTitle {
     margin-left: 8.33333%;
   }
 
-  .col-sm-offset-2 {
+  .col-sm-offset-2, .portfolioArticleTitle {
     margin-left: 16.66667%;
   }
 
@@ -6890,7 +6890,7 @@ button.close {
 @-ms-viewport {
   width: device-width;
 }
-.visible-xs {
+.visible-xs, .portfolioThumbLinkSm {
   display: none !important;
 }
 
@@ -6922,20 +6922,21 @@ button.close {
 }
 
 @media (max-width: 767px) {
-  .visible-xs {
+  .visible-xs, .portfolioThumbLinkSm {
     display: block !important;
   }
 
-  table.visible-xs {
+  table.visible-xs, table.portfolioThumbLinkSm {
     display: table;
   }
 
-  tr.visible-xs {
+  tr.visible-xs, tr.portfolioThumbLinkSm {
     display: table-row !important;
   }
 
-  th.visible-xs,
-  td.visible-xs {
+  th.visible-xs, th.portfolioThumbLinkSm,
+  td.visible-xs,
+  td.portfolioThumbLinkSm {
     display: table-cell !important;
   }
 }
@@ -7066,7 +7067,7 @@ button.close {
 }
 
 @media (max-width: 767px) {
-  .hidden-xs {
+  .hidden-xs, .portfolioThumbLink {
     display: none !important;
   }
 }

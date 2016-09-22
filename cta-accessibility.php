@@ -13,7 +13,7 @@
     <div class="container pageBackground">
 
         <section class="row">
-            <div class="col-xs-12 col-sm-offset-2 col-sm-8 ">
+            <div class="portfolioArticleTitle">
                 <h1>CTA Train Accessibility for People Who are Blind</h1>
                 <a id="content" name="content"></a>
             </div>
@@ -49,7 +49,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig1ModalBig">
                         <img src="images/ctaUserJourney.png" alt="An infographic that describes how people who are blind experience the CTA." class="img-responsive">
-                        <p class="text-center">Fig. 1 We all worked to conceptualize the journey, but I am the primary creator.</p>
+                        <p class="text-center">Fig. 1 We all worked to conceptualize the journey, but I was the primary creator.</p>
                     </a>
 
 

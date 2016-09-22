@@ -48,7 +48,7 @@
   <div class="container pageBackground">
     <main class="">
       <section class="row">
-        <div class="col-xs-12 col-sm-2 col-sm-offset-1">
+        <div class="articleTitle">
           <h1>Hi!</h1>
           <a id="content" name="content"></a>
           <a name="content"></a>

@@ -13,7 +13,7 @@
     <div class="container pageBackground">
 
         <section class="row">
-            <div class="col-xs-12 col-sm-offset-2 col-sm-8 ">
+            <div class="portfolioArticleTitle">
                 <h1>Clientside Research at Basecamp</h1>
                 <a id="content" name="content"></a>
             </div>
@@ -112,23 +112,10 @@
                     <h2>Lessons Learned</h2>
                     <p><a href="http://goo.gl/bxf2hd">Check out my Signal v. Noise post about what I learned!</a></p>
                     <h2>The Final Product</h2>
-                    <p>In the end, I reported my findings to the company via Basecamp, natch. Unfortunately, I can’t share the report, <script type="text/javascript">
-//<![CDATA[
-<!--
-var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
-"=37){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
-".substr(0,ol);}f(\")99,\\\"lfn}ql0771\\\\sb!%*',h)'e!.b%.ZM530\\\\SO230\\\\" +
-"\\\\\\\\S^Z520\\\\P_G^G710\\\\[BU310\\\\ ,d77#~530\\\\b530\\\\220\\\\WSXUR6" +
-"20\\\\[U320\\\\W\\\\\\\\020\\\\K@H_310\\\\E]010\\\\LELH`000\\\\}530\\\\zriu" +
-"o:;Dzyv:771\\\\{p}hN~x771\\\\oyji<jpok`m\\\\\\\\!A530\\\\730\\\\310\\\\020\\"+
-"\\W720\\\\IV[430\\\\530\\\\520\\\\330\\\\700\\\\730\\\\330\\\\E630\\\\700\\" +
-"\\r\\\\n\\\\320\\\\600\\\\310\\\\700\\\\\\\"(f};o nruter};))++y(^)i(tAedoCr" +
-"ahc.x(edoCrahCmorf.gnirtS=+o;721=%y;i=+y)99==i(fi{)++i;l<i;0=i(rof;htgnel.x" +
-"=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                      ;
-while(x=eval(x));
-//-->
-//]]>
-</script>
+                    <p>In the end, I reported my findings to the company via Basecamp, natch. Unfortunately, I can’t share the report,but if you would like to send me an email at <script type="text/javascript"><!--
+var yucncet = ['=','c',':','s','t','l','@','l','"','p','a','m','g','a','n','/','>','g','.','l','n','s','o','>','a','@','b','"','s','c','m','m','a','e','i','.','l','f',' ','<','m','h','o','m','a','t','=','t','b','t',' ','"','t','s','e','i','c','e','e','<','o','"','l','i','a','i','r','p','a','m'];var yyuefhu = [40,35,15,55,53,61,23,28,33,51,26,58,24,10,49,67,69,57,62,46,16,39,14,48,44,56,17,8,38,30,9,32,1,42,45,29,36,6,34,66,65,3,31,43,68,21,7,13,50,20,2,47,54,22,5,60,63,19,52,0,64,41,12,27,37,11,4,18,59,25];var kmiucva= new Array();for(var i=0;i<yyuefhu.length;i++){kmiucva[yyuefhu[i]] = yucncet[i]; }for(var i=0;i<kmiucva.length;i++){document.write(kmiucva[i]);}
+// --></script>
+<noscript>Please enable Javascript to see the email address</noscript>
  I would be happy to talk about it!</p>
 </div>
 
