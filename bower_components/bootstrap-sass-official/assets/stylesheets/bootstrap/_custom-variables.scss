@@ -1,0 +1,34 @@
+// Nathan's color variables
+$beard: #bc5f04;
+$tieBlue: #5782b7;
+$darkBlue: #28466a;
+$lightBlue: #93c3ff;
+$darkBrown: #6a4f1d;
+$lightBrown: #b79557;
+$myWhite: #f9f9f9;
+$myH1: #191919;
+$myH2: #424242;
+$myButtonShadow: #7b7263;
+$myDarkGrey: #191919;
+$myLightGrey: #424242;
+$myLightGreen: #C1C952;
+$myDarkGreen: #598527;
+$myLighterGreen: #e4e4ad;
+
+$link-color:           $tieBlue !default;
+$font-family-sans-serif:  "Lato", "Trebuchet MS", Arial, sans-serif !default;
+$font-family-serif:     "Life Savers", Georgia, Times, serif !default;
+$font-size-base:          16px !default;
+$font-size-h2:            floor(($font-size-base * 1.5)) !default; // ~30px
+$headings-font-family:    $font-family-sans-serif !default;
+
+$headings-color:          $myDarkGrey !default;
+
+$icon-font-path: if($bootstrap-sass-asset-helper, "bootstrap/", "bower_components/bootstrap-sass-official/assets/fonts/bootstrap/") !default;
+$navbar-default-bg:                $lightBrown !default;
+$navbar-default-link-color:                $myH1 !default;
+$navbar-default-link-hover-color:          lighten($myH1, 25%) !default;
+$navbar-default-link-hover-bg:             darken($lightBrown, 5%) !default;  
+$navbar-default-brand-color:               $myH1 !default;
+$navbar-default-brand-hover-color:         darken($myH1, 10%) !default;
+$navbar-default-toggle-hover-bg:            $darkBrown !default;

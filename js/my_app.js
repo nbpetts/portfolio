@@ -57,14 +57,14 @@ $(document).ready(function () {
       pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);*/
 
     }); // end scroll
-    // $("nav").affix({
-    //   offset: {
-    //     top: navTop
+    $("nav").affix({
+      offset: {
+        top: navTop
 
-    //   }
+      }
       
 
-    // }); // end affix
+    }); // end affix
 
 
   }); // end pageload
@@ -80,14 +80,14 @@ $(document).ready(function () {
           $('html,body').animate({
             scrollTop: target.offset().top - 140
           }, 1000);
-          // $("nav").affix({
-          //   offset: {
-          //     top: $("nav").position().top
+          $("nav").affix({
+            offset: {
+              top: $("nav").position().top
 
-          //   }
+            }
 
 
-          // }); // end affix
+          }); // end affix
           //        $(".pageBackground").toggleClass ("pageBackgroundMargin");
           return false;
         }
