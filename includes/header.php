@@ -2,7 +2,7 @@
 
 
 <div class="navWrapper">
-  <nav class="navbar navbar-default " role="navigation">
+  <nav class="navbar navbar-default "  role="navigation">
     <div class="container">
       <div class="navbar-header">
 

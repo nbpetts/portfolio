@@ -11,13 +11,13 @@ $(document).ready(function () {
 
   var isScrolledIntoView = function (elem) {
     var $elem = $(elem),
-      $window = $(window),
-      docViewTop = $window.scrollTop(),
-      docViewBottom = docViewTop + $window.height(),
-      docViewMid = (docViewBottom + docViewTop) / 2,
-      docViewTopAdj = docViewTop + 200;
+    $window = $(window),
+    docViewTop = $window.scrollTop(),
+    docViewBottom = docViewTop + $window.height(),
+    docViewMid = (docViewBottom + docViewTop) / 2 - 400,
+    docViewTopAdj = docViewTop + 200;
     elemTop = $elem.offset().top,
-      elemBottom = elemTop + $elem.height();
+    elemBottom = elemTop + $elem.height();
 
     return ((elemTop <= docViewMid) && (elemBottom >= docViewTopAdj));
   };
@@ -26,37 +26,9 @@ $(document).ready(function () {
   //navbar scorll control and active styling
   $(window).load(function () {
     var nav = $("nav"),
-      navTop = nav.position().top,
-      pageBackground = $(".pageBackground");
-    $(window).scroll(function (e) {
-      $("nav").affix({
-        offset: {
-          top: navTop
-
-        }
-        
-
-      }); // end affix
-      if ($("#portfolio").length) {
-
-
-        if (isScrolledIntoView($("#portfolioSection"))) {
-          $("#portfolioLink").parent().addClass("active");
-        } else {
-          $("#portfolioLink").parent().removeClass("active");
-
-        }
-
-      }
-      
-
-
-     // pageBackground.toggleClass("pageBackgroundMargin", $(window).scrollTop() >= navTop);
-
-      /*nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
-      pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);*/
-
-    }); // end scroll
+    navTop = nav.position().top,
+    pageBackground = $(".pageBackground");
+    
     $("nav").affix({
       offset: {
         top: navTop
@@ -69,22 +41,55 @@ $(document).ready(function () {
 
   }); // end pageload
 
+  $(window).scroll(function (e) {
+    var nav = $("nav"),
+    navTop = nav.position().top,
+    pageBackground = $(".pageBackground");
+
+    $("nav").affix({
+      offset: {
+        top: navTop
+
+      }
+
+
+      }); // end affix
+    if ($("#portfolio").length) {
+
+
+      if (isScrolledIntoView($("#portfolioSection"))) {
+        $("#portfolioLink").parent().addClass("active");
+      } else {
+        $("#portfolioLink").parent().removeClass("active");
+
+      }
+
+    }
+
+
+
+     // pageBackground.toggleClass("pageBackgroundMargin", $(window).scrollTop() >= navTop);
+
+      /*nav.toggleClass("navbar-fixed-top", $(window).scrollTop() > navTop);
+      pageBackground.toggleClass ("pageBackgroundMargin", $(window).scrollTop() > navTop);*/
+
+    }); // end scroll
 
   //scroll button controll  
 
-    $('a[href*=#]:not([href=#])').click(function () {
-      if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-        var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-        if (target.length) {
-          $('html,body').animate({
-            scrollTop: target.offset().top - 140
-          }, 1000);
-          $("nav").affix({
-            offset: {
-              top: $("nav").position().top
+  $('a[href*=#]:not([href=#])').click(function () {
+    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top - 140
+        }, 1000);
+        $("nav").affix({
+          offset: {
+            top: $("nav").position().top
 
-            }
+          }
 
 
           }); // end affix
