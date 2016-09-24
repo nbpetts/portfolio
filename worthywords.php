@@ -45,7 +45,7 @@
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/worthyWords.png" alt="The main page of Worthy Words the app" class="img-responsive">
 
-                        <p class="text-center">Fig. 1 Worthy Words home page.</p>
+                        <p class="text-center">Fig. 1 - Worthy Words home page.</p>
                     </a>
 
 
@@ -65,7 +65,7 @@
                     <div class=" thumbnail">
                         <a href="#" data-toggle="modal" data-target="#fig2Modal">
                             <img src="images/worthyWordsSketch.png" alt="An early sketch of Worthy Words the app" class="img-responsive">
-                            <p class="text-center">Fig. 2 Worthy Words early sketches.</p>
+                            <p class="text-center">Fig. 2 - Worthy Words early sketches.</p>
                         </a>
 
 
@@ -75,7 +75,7 @@
                     <div class="thumbnail">
                         <a href="#" data-toggle="modal" data-target="#fig3Modal">
                             <img src="images/worthyWordsPrincessPickerPrototype.png" alt="the paper doll version of the worthy words prototype" class="img-responsive">
-                            <p class="text-center">Fig. 3 Princess Picker. An alternative to Worthy Words.</p>
+                            <p class="text-center">Fig. 3 - Princess Picker. An alternative to Worthy Words.</p>
                         </a>
 
 
@@ -94,7 +94,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig4Modal">
                         <img src="images/worthyWordsV0.png" alt="The main page of an early version of Worthy Words the app" class="img-responsive">
-                        <p class="text-center">Fig. 4 Worthy Words: version .01.</p>
+                        <p class="text-center">Fig. 4 - Worthy Words: version .01.</p>
                     </a>
 
 
@@ -145,7 +145,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Worthy Words home page.</p>
+                <p class="text-center">Fig. 1 - Worthy Words home page.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -165,7 +165,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Worthy Words early sketches.</p>
+                <p class="text-center">Fig. 2 - Worthy Words early sketches.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -185,7 +185,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Princess Picker. An alternative to Worthy Words.</p>
+                <p class="text-center">Fig. 3 - Princess Picker. An alternative to Worthy Words.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -205,7 +205,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 Worthy Words: version .01.</p>
+                <p class="text-center">Fig. 4 - Worthy Words: version .01.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

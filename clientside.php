@@ -40,7 +40,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/clientsideHappyCamper.png" alt="Basecamp's logo." class="img-responsive">
-                        <p class="text-center">Fig. 1 The first thing I learned was the official name of the logo: the Happy Camper. </p>
+                        <p class="text-center">Fig. 1 - The first thing I learned was the official name of the logo: the Happy Camper. </p>
                     </a>
 
 
@@ -67,7 +67,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig2ModalBig">
                         <img src="images/clientsideAffinityDiagram.png" alt="An affinity diagram for the pilot study." class="img-responsive">
-                        <p class="text-center">Fig. 2 Many different themes emerged from the data...time to focus the research.</p>
+                        <p class="text-center">Fig. 2 - Many different themes emerged from the data...time to focus the research.</p>
                     </a>
 
 
@@ -89,7 +89,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig3Modal">
                         <img src="images/clientsideChecklist.png" alt="A short equipment checklist">
-                        <p class="text-center">Fig. 3 I also created checklists. Never forget the checklists...</p>
+                        <p class="text-center">Fig. 3 - I also created checklists. Never forget the checklists...</p>
                     </a>
 
 
@@ -147,7 +147,7 @@ var yucncet = ['=','c',':','s','t','l','@','l','"','p','a','m','g','a','n','/','
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 The first thing I learned was the official name of the logo: the Happy Camper. </p>
+                <p class="text-center">Fig. 1 - The first thing I learned was the official name of the logo: the Happy Camper. </p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -168,7 +168,7 @@ var yucncet = ['=','c',':','s','t','l','@','l','"','p','a','m','g','a','n','/','
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Many different themes emerged from the data...time to focus the research.</p>
+                <p class="text-center">Fig. 2 - Many different themes emerged from the data...time to focus the research.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -188,7 +188,7 @@ var yucncet = ['=','c',':','s','t','l','@','l','"','p','a','m','g','a','n','/','
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 I also created checklists. Never forget the checklists...</p>
+                <p class="text-center">Fig. 3 - I also created checklists. Never forget the checklists...</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

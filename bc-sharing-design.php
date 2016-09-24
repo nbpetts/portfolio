@@ -49,7 +49,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/bcSharingBefore.png" alt="Basecamp's sharing feature before my redesign, the feature is hidden under a button." class="img-responsive">
-                        <p class="text-center">Fig. 1 First you have to click the share button and THEN you can see the option to send to the client. </p>
+                        <p class="text-center">Fig. 1 - First you have to click the share button and THEN you can see the option to send to the client. </p>
                     </a>
 
 
@@ -67,7 +67,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                 <a href="#" data-toggle="modal" data-target="#fig2Modal">
                         <img src="images/bcSharingLowfiPrototype.png" alt="One of my low-fi prototypes." class="img-responsive">
-                        <p class="text-center">Fig. 2 Rapid prototyping: one of my Axure Prototypes.</p>
+                        <p class="text-center">Fig. 2 - Rapid prototyping: one of my Axure Prototypes.</p>
                     </a>
 
 
@@ -92,7 +92,7 @@
 
                                 Your browser does not support the video tag.
                             </video>
-                            <p class="text-center">Fig. 3 This way the flow is a lot more like email...</p>
+                            <p class="text-center">Fig. 3 - This way the flow is a lot more like email...</p>
                         </a>
 
 
@@ -116,7 +116,7 @@
 
                                 Your browser does not support the video tag.
                             </video>
-                            <p class="text-center">Fig. 4 This pattern uses an interface users might be used to.</p>
+                            <p class="text-center">Fig. 4 - This pattern uses an interface users might be used to.</p>
                         </a>
 
 
@@ -179,7 +179,7 @@ I would be happy to talk about it!</p>
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 First you have to click the share button and THEN you can see the option to send to the client. </p>
+                <p class="text-center">Fig. 1 - First you have to click the share button and THEN you can see the option to send to the client. </p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -200,7 +200,7 @@ I would be happy to talk about it!</p>
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Rapid prototyping: one of my Axure Prototypes. <a href="http://y7dkcl.axshare.com/#g=1&p=home&c=1" target="_blank">Check out the Axure prototype.</a> Find the working link...</p>
+                <p class="text-center">Fig. 2 - Rapid prototyping: one of my Axure Prototypes. <a href="http://y7dkcl.axshare.com/#g=1&p=home&c=1" target="_blank">Check out the Axure prototype.</a> Find the working link...</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -224,7 +224,7 @@ I would be happy to talk about it!</p>
 
                 </div>
                 <div class="modal-footer">
-                    <p class="text-center">Fig. 3 This way the flow is a lot more like email...</p>
+                    <p class="text-center">Fig. 3 - This way the flow is a lot more like email...</p>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                     </button>
                 </div>
@@ -248,7 +248,7 @@ I would be happy to talk about it!</p>
 
                 </div>
                 <div class="modal-footer">
-                    <p class="text-center">Fig. 3 This way the flow is a lot more like email...</p>
+                    <p class="text-center">Fig. 3 - This way the flow is a lot more like email...</p>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                     </button>
                 </div>

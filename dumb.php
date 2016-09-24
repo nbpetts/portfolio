@@ -53,7 +53,7 @@
                     <div class=" thumbnail">
                         <a href="#" data-toggle="modal" data-target="#fig1Modal">
                             <img src="images/dumbFig1.png" alt="An early sketch that shows the program flow" class="img-responsive">
-                            <p class="text-center">Fig. 1 Early sketches.</p>
+                            <p class="text-center">Fig. 1 - Early sketches.</p>
                         </a>
 
 
@@ -63,7 +63,7 @@
                     <div class="thumbnail">
                         <a href="#" data-toggle="modal" data-target="#fig2Modal">
                             <img src="images/dumbFig2.png" alt="sketches that show program requirements" class="img-responsive">
-                            <p class="text-center">Fig. 2 This sketch lists requirements of the app.</p>
+                            <p class="text-center">Fig. 2 - This sketch lists requirements of the app.</p>
                         </a>
 
 
@@ -83,7 +83,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig3Modal">
                         <img src="images/dumbFig3.png" alt="early design of the DUMB bank app. Lots of table borders and clutter" class="img-responsive">
-                        <p class="text-center">Fig. 3 The first design. The table borders contribute to a cluttered design.</p>
+                        <p class="text-center">Fig. 3 - The first design. The table borders contribute to a cluttered design.</p>
                     </a>
 
 
@@ -101,7 +101,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig4Modal">
                         <img src="images/dumbFig4.png" alt="the final design, much simpler visually">
-                        <p class="text-center">Fig. 4 The final design.</p>
+                        <p class="text-center">Fig. 4 - The final design.</p>
                     </a>
 
 
@@ -153,7 +153,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Early sketches.</p>
+                <p class="text-center">Fig. 1 - Early sketches.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -173,7 +173,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 This sketch lists requirements of the app.</p>
+                <p class="text-center">Fig. 2 - This sketch lists requirements of the app.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -193,7 +193,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 The first design. The table borders contribute to a cluttered design.</p>
+                <p class="text-center">Fig. 3 - The first design. The table borders contribute to a cluttered design.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -213,7 +213,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 The final design.</p>
+                <p class="text-center">Fig. 4 - The final design.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

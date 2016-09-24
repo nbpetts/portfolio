@@ -57,7 +57,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/accessibleGraphsFig1.png" alt="some examples of inaccessible graphs" class="img-responsive">
-                        <p class="text-center">Fig. 1 Inaccessible Graphs.</p>
+                        <p class="text-center">Fig. 1 - Inaccessible Graphs.</p>
                     </a>
 
 
@@ -91,7 +91,7 @@
 
                         <!-- <a href="#" data-toggle="modal" data-target="#fig1Modal"> -->
                             <iframe width="380" height="315" src="https://www.youtube.com/embed/T6pOxs7HN4E" frameborder="0" allowfullscreen></iframe>
-                            <p class="text-center">Fig. 2 Our affinity Diagramming Process.</p>
+                            <p class="text-center">Fig. 2 - Our affinity Diagramming Process.</p>
                         <!-- </a> -->
 
 
@@ -170,7 +170,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Ladder Up Usability Test Presentation.</p>
+                <p class="text-center">Fig. 1 - Ladder Up Usability Test Presentation.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

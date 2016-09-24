@@ -42,7 +42,7 @@
             
               <img src="images/worthyWordsThumb.png" alt="A thumbnail for Worthy Words" class="porfolioThumbnailImage">
               <div class=" text-center">
-                <p class="">Fig. 1 Worthy Words</p>
+                <p class="">Fig. 1 - Worthy Words</p>
 
               </div>
           </div>
@@ -54,7 +54,7 @@
             
               <img src="images/mpactThumb.png" alt="A thumbnail for Mpact" class="porfolioThumbnailImage">
               <div class=" text-center">
-                <p class="">Fig. 2 Mpact</p>
+                <p class="">Fig. 2 - Mpact</p>
 
               </div>
            
@@ -66,7 +66,7 @@
             
               <img src="images/dumbThumb.png" alt="A thumbnail for Disingenuous Unified Monetary Bank" class="porfolioThumbnailImage">
               <div class=" text-center">
-                <p class="">Fig. 3 Disingenuous Unified Monetary Bank</p>
+                <p class="">Fig. 3 - Disingenuous Unified Monetary Bank</p>
 
               </div>
             
@@ -92,7 +92,7 @@
            
               <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
               <div class=" text-center">
-                <p class="">Fig. 4 Finding Volunteer Opportunities</p>
+                <p class="">Fig. 4 - Finding Volunteer Opportunities</p>
 
               </div>
 
@@ -104,7 +104,7 @@
             
               <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
               <div class=" text-center">
-                <p class="">Fig. 5 Ladder Up</p>
+                <p class="">Fig. 5 - Ladder Up</p>
 
               </div>
             
@@ -129,7 +129,7 @@
             
               <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
               <div class=" text-center">
-                <p class="">Fig. 6 CardioGlass</p>
+                <p class="">Fig. 6 - CardioGlass</p>
 
               </div>
             
@@ -141,7 +141,7 @@
            
               <img src="images/placeholderSquareThumb.png" alt="A thumbnail for my equipment schedular">
               <div class=" text-center">
-                <p class="">Fig. 7 Equipment Inventory</p>
+                <p class="">Fig. 7 - Equipment Inventory</p>
 
               </div>
 

@@ -45,7 +45,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/ladderUpFig1.png" alt="presentation cover for our research project" class="img-responsive">
-                        <p class="text-center">Fig. 1 Ladder Up Usability Test Presentation.</p>
+                        <p class="text-center">Fig. 1 - Ladder Up Usability Test Presentation.</p>
                     </a>
 
 
@@ -65,7 +65,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig2Modal">
                         <img src="images/ladderUpFig2.png" alt="Ladder Up's volunteer form" class="img-responsive">
-                        <p class="text-center">Fig. 2 Ladder Up’s forms did not follow best practices.</p>
+                        <p class="text-center">Fig. 2 - Ladder Up’s forms did not follow best practices.</p>
                     </a>
                 </div>
             </section>
@@ -82,7 +82,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig3Modal">
                         <img src="images/ladderUpFig3.png" alt="Some of the research questions we asked" class="img-responsive">
-                        <p class="text-center">Fig. 3 Table of example research questions.</p>
+                        <p class="text-center">Fig. 3 - Table of example research questions.</p>
                     </a>
                 </div>
             </section>
@@ -107,7 +107,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig4Modal">
                         <img src="images/ladderUpFig4.png" alt="An example recomendation for Ladder Up.">
-                        <p class="text-center">Fig. 4 Recommendation example.</p>
+                        <p class="text-center">Fig. 4 - Recommendation example.</p>
                     </a>
 
 
@@ -158,7 +158,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Ladder Up Usability Test Presentation.</p>
+                <p class="text-center">Fig. 1 - Ladder Up Usability Test Presentation.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -178,7 +178,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Ladder Up’s forms did not follow best practices.</p>
+                <p class="text-center">Fig. 2 - Ladder Up’s forms did not follow best practices.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -198,7 +198,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Table of example research questions.</p>
+                <p class="text-center">Fig. 3 - Table of example research questions.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -218,7 +218,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 Recommendation example.</p>
+                <p class="text-center">Fig. 4 - Recommendation example.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

@@ -54,7 +54,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/cardioglassFig1.png" alt="An overview diagram, showing the actors involved in the CardioGlass platform" class="img-responsive">
-                        <p class="text-center">Fig. 1 CardioGlass overview.</p>
+                        <p class="text-center">Fig. 1 - CardioGlass overview.</p>
                     </a>
 
 
@@ -75,7 +75,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig2Modal">
                         <img src="images/cardioglassFig2.png" alt="An example use case for CardioGlass that details how the system supports reducing stress in a user" class="img-responsive">
-                        <p class="text-center">Fig. 2 Example use case.</p>
+                        <p class="text-center">Fig. 2 - Example use case.</p>
                     </a>
                 </div>
             </section>
@@ -92,7 +92,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig3Modal">
                         <img src="images/cardioglassFig3.png" alt="Some classes involved in the CardioGlass platform" class="img-responsive">
-                        <p class="text-center">Fig. 3 Domain model diagram.</p>
+                        <p class="text-center">Fig. 3 - Domain model diagram.</p>
                     </a>
                 </div>
             </section>
@@ -101,7 +101,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig4Modal">
                         <img src="images/cardioglassFig4.png" alt="one of our sequence diagrams. This one show how the system would analyse symptoms" class="img-responsive">
-                        <p class="text-center">Fig. 4 Sequence diagram.</p>
+                        <p class="text-center">Fig. 4 - Sequence diagram.</p>
                     </a>
                 </div>
 
@@ -151,7 +151,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 CardioGlass overview.</p>
+                <p class="text-center">Fig. 1 - CardioGlass overview.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -171,7 +171,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Example use case.</p>
+                <p class="text-center">Fig. 2 - Example use case.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -191,7 +191,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Domain model diagram.</p>
+                <p class="text-center">Fig. 3 - Domain model diagram.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -211,7 +211,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 Sequence diagram.</p>
+                <p class="text-center">Fig. 4 - Sequence diagram.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

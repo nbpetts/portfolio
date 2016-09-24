@@ -45,7 +45,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/mpactFig1.png" alt="An image from our presentation that outlines some of Mpact's technologies." class="img-responsive">
-                        <p class="text-center">Fig. 1 Mpact System Components.</p>
+                        <p class="text-center">Fig. 1 - Mpact System Components.</p>
                     </a>
 
 
@@ -64,7 +64,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig2Modal">
                         <img src="images/mpactFig2.png" alt="An image from our presentation that details the content manager section of Mpact" class="img-responsive">
-                        <p class="text-center">Fig. 2 Mpact details.</p>
+                        <p class="text-center">Fig. 2 - Mpact details.</p>
                     </a>
                 </div>
             </section>
@@ -80,7 +80,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig3Modal">
                         <img src="images/mpactFig3.png" alt="Sketches showing the screen flow and other details" class="img-responsive">
-                        <p class="text-center">Fig. 3 Mpact sketches and early designs.</p>
+                        <p class="text-center">Fig. 3 - Mpact sketches and early designs.</p>
                     </a>
 
 
@@ -98,7 +98,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig4Modal">
                         <img src="images/mpact.png" alt="The app in a phone mock-up" class="img-responsive">
-                        <p class="text-center">Fig. 4 Mpact version.01.</p>
+                        <p class="text-center">Fig. 4 - Mpact version.01.</p>
                     </a>
 
 
@@ -149,7 +149,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Mpact System Components.</p>
+                <p class="text-center">Fig. 1 - Mpact System Components.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -169,7 +169,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Mpact details.</p>
+                <p class="text-center">Fig. 2 - Mpact details.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -189,7 +189,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Mpact sketches and early designs.</p>
+                <p class="text-center">Fig. 3 - Mpact sketches and early designs.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -209,7 +209,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 Mpact version.01.</p>
+                <p class="text-center">Fig. 4 - Mpact version.01.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

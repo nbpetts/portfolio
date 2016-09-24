@@ -49,7 +49,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig1ModalBig">
                         <img src="images/ctaUserJourney.png" alt="An infographic that describes how people who are blind experience the CTA." class="img-responsive">
-                        <p class="text-center">Fig. 1 We all worked to conceptualize the journey, but I was the primary creator.</p>
+                        <p class="text-center">Fig. 1 - We all worked to conceptualize the journey, but I was the primary creator.</p>
                     </a>
 
 
@@ -68,7 +68,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig2Modal">
                         <img src="images/ctaSurveyData.png" alt="A bar graph showing which categories are important to our survey respondants." class="img-responsive">
-                        <p class="text-center">Fig. 2 The survey respondents ranked as important many of the same pieces of information that our observation participants thought were important.</p>
+                        <p class="text-center">Fig. 2 - The survey respondents ranked as important many of the same pieces of information that our observation participants thought were important.</p>
                     </a>
 
 
@@ -87,7 +87,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig3Modal">
                         <img src="images/ctaTruncatedDomes.png" alt="An image of the textured floor panels called truncated Domes. ">
-                        <p class="text-center">Fig. 3 Truncated domes in their natural habitat.</p>
+                        <p class="text-center">Fig. 3 - Truncated domes in their natural habitat.</p>
                     </a>
 
 
@@ -106,7 +106,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig4Modal">
                             <img src="images/ctaIphonePrototype.png" alt="Images from my iPhone prototype.">
-                            <p class="text-center">Fig. 4 Xcode became my best friend for two weeks.</p>
+                            <p class="text-center">Fig. 4 - Xcode became my best friend for two weeks.</p>
                         </a>
 
 
@@ -129,7 +129,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig5ModalBig">
                         <img src="images/ctaStoryboard.png" alt="A storyboard describing how riding the CTA might be like if our proposals were adpoted.">
-                        <p class="text-center">Fig. 5 Anna rides a new, improved CTA system.</p>
+                        <p class="text-center">Fig. 5 - Anna rides a new, improved CTA system.</p>
                     </a>
 
 
@@ -178,7 +178,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 We all worked to conceptualize the journey, but I am the primary creator.</p>
+                <p class="text-center">Fig. 1 - We all worked to conceptualize the journey, but I am the primary creator.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -199,7 +199,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 The survey respondents ranked as important many of the same pieces of information that our observation participants thought were important.</p>
+                <p class="text-center">Fig. 2 - The survey respondents ranked as important many of the same pieces of information that our observation participants thought were important.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -219,7 +219,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Truncated domes in their natural habitat.</p>
+                <p class="text-center">Fig. 3 - Truncated domes in their natural habitat.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -239,7 +239,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 Xcode became my best friend for two weeks.</p>
+                <p class="text-center">Fig. 4 - Xcode became my best friend for two weeks.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -259,7 +259,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 5 Anna rides a new, improved CTA system.</p>
+                <p class="text-center">Fig. 5 - Anna rides a new, improved CTA system.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

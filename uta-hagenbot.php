@@ -57,7 +57,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/twoActorsSpeak.png" alt="A sketch of two actors rehersing side by side. One holds a script." class="img-responsive">
-                        <p class="text-center">Fig. 1 Andrea used her close proximity to be able to glance back and forth at the script—an example of embodied interaction. </p>
+                        <p class="text-center">Fig. 1 - Andrea used her close proximity to be able to glance back and forth at the script—an example of embodied interaction. </p>
                     </a>
 
 
@@ -75,7 +75,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig2ModalBig">
                         <img src="images/utaStoryboard.png" alt="A storyboard of how Uta might work." class="img-responsive">
-                        <p class="text-center">Fig. 2 My epic storyboard.</p>
+                        <p class="text-center">Fig. 2 - My epic storyboard.</p>
                     </a>
 
 
@@ -122,7 +122,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig5Modal">
                         <img src="images/utaUserJourney.png" alt="A user journey of how Actors memorize their lines." class="img-responsive">
-                        <p class="text-center">Fig. 5 This is how memorization goes.  </p>
+                        <p class="text-center">Fig. 5 - This is how memorization goes.  </p>
                     </a>
 
 
@@ -140,7 +140,7 @@
                 <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
                     <a href="#" data-toggle="modal" data-target="#fig6Modal">
                         <img src="images/utaPrototype.png" alt="A screenshot of the Prototype." class="img-responsive">
-                        <p class="text-center">Fig. 6 The prototype—shoutout to The Bear by Anton Chekhov, translated by Paul Schmidt.  </p>
+                        <p class="text-center">Fig. 6 - The prototype—shoutout to The Bear by Anton Chekhov, translated by Paul Schmidt.  </p>
                     </a>
 
 
@@ -203,7 +203,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Andrea used her close proximity to be able to glance back and forth at the script—an example of embodied interaction. </p>
+                <p class="text-center">Fig. 1 - Andrea used her close proximity to be able to glance back and forth at the script—an example of embodied interaction. </p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -224,7 +224,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 My epic storyboard.</p>
+                <p class="text-center">Fig. 2 - My epic storyboard.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -244,7 +244,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Persona spectrum. No “Mid 20’s Mike” or “Donny Deciders” here.</p>
+                <p class="text-center">Fig. 3 - Persona spectrum. No “Mid 20’s Mike” or “Donny Deciders” here.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -264,7 +264,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 Sajel—now there’s a name for a persona.</p>
+                <p class="text-center">Fig. 4 - Sajel—now there’s a name for a persona.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -284,7 +284,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 5 This is how memorization goes.</p>
+                <p class="text-center">Fig. 5 - This is how memorization goes.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -304,7 +304,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 6 The prototype—shoutout to The Bear by Anton Chekhov, translated by Paul Schmidt.</p>
+                <p class="text-center">Fig. 6 - The prototype—shoutout to The Bear by Anton Chekhov, translated by Paul Schmidt.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

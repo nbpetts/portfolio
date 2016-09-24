@@ -44,7 +44,7 @@
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
 
           <a href="#" data-toggle="modal" data-target="#fig1Modal"><img src="images/volunteerFig1.png" alt="presentation cover for our research project" class="img-responsive">
-          <p class="text-center">Fig. 1 Finding Volunteer Opportunities research.</p></a>
+          <p class="text-center">Fig. 1 - Finding Volunteer Opportunities research.</p></a>
 
 
 
@@ -69,7 +69,7 @@
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
 
           <a href="#" data-toggle="modal" data-target="#fig2Modal"><img src="images/volunteerFig2.png" alt="Part of an affinity diagram showing various themes from our observations" class="img-responsive">
-          <p class="text-center">Fig. 2 Part of our affinity diagram.</p></a>
+          <p class="text-center">Fig. 2 - Part of our affinity diagram.</p></a>
         </div>
       </section>
 
@@ -84,7 +84,7 @@
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
 
           <a href="#" data-toggle="modal" data-target="#fig3Modal"><img src="images/volunteerFig3.png" alt="Themes present in our observations" class="img-responsive">
-          <p class="text-center">Fig. 3 Interview findings table.</p></a>
+          <p class="text-center">Fig. 3 - Interview findings table.</p></a>
         </div>
       </section>
 
@@ -99,7 +99,7 @@
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
 
           <a href="#" data-toggle="modal" data-target="#fig4Modal"><img src="images/volunteerFig4.png" alt="A persona named Kate Donnager" class="img-responsive">
-          <p class="text-center">Fig. 4 Volunteer persona. We developed this persona by looking at the interview data.</p></a>
+          <p class="text-center">Fig. 4 - Volunteer persona. We developed this persona by looking at the interview data.</p></a>
         </div>
       </section>
       <section class="row">
@@ -115,7 +115,7 @@
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 thumbnail">
 
           <a href="#" data-toggle="modal" data-target="#fig5Modal"><img src="images/volunteerFig5.png" alt="Our recommendations for organizations seeking volunteers">
-          <p class="text-center">Fig. 5 The final recommendations.</p>
+          <p class="text-center">Fig. 5 - The final recommendations.</p>
 </a>
 
 
@@ -166,7 +166,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Finding Volunteer Opportunities research.</p>
+                <p class="text-center">Fig. 1 - Finding Volunteer Opportunities research.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -186,7 +186,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Part of our affinity diagram.</p>
+                <p class="text-center">Fig. 2 - Part of our affinity diagram.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -206,7 +206,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Interview findings table.</p>
+                <p class="text-center">Fig. 3 - Interview findings table.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -226,7 +226,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 4 Volunteer persona. We developed this persona by looking at the interview data.</p>
+                <p class="text-center">Fig. 4 - Volunteer persona. We developed this persona by looking at the interview data.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -246,7 +246,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 5 The final recommendations.</p>
+                <p class="text-center">Fig. 5 - The final recommendations.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

@@ -45,7 +45,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig1Modal">
                         <img src="images/equipmentFig1.png" alt="a screenshot of the equipment checkout tool" class="img-responsive">
-                        <p class="text-center">Fig. 1 Check out equipment and keep track of who has it!</p>
+                        <p class="text-center">Fig. 1 - Check out equipment and keep track of who has it!</p>
                     </a>
 
 
@@ -73,7 +73,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig2Modal">
                         <img src="images/equipmentFig2.png" alt="A screenshot that shows the equipment deletion process" class="img-responsive">
-                        <p class="text-center">Fig. 2 Delete the equipment when it is no longer needed!</p>
+                        <p class="text-center">Fig. 2 - Delete the equipment when it is no longer needed!</p>
                     </a>
                 </div>
             </section>
@@ -90,7 +90,7 @@
 
                     <a href="#" data-toggle="modal" data-target="#fig3Modal">
                         <img src="images/equipmentFig3.png" alt="A screenshot of the repo on Github." class="img-responsive">
-                        <p class="text-center">Fig. 3 Github, go!</p>
+                        <p class="text-center">Fig. 3 - Github, go!</p>
                     </a>
                 </div>
             </section>
@@ -146,7 +146,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 1 Check out equipment and keep track of who has it!</p>
+                <p class="text-center">Fig. 1 - Check out equipment and keep track of who has it!</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -166,7 +166,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 2 Delete the equipment when it is no longer needed!</p>
+                <p class="text-center">Fig. 2 - Delete the equipment when it is no longer needed!</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -186,7 +186,7 @@
 
             </div>
             <div class="modal-footer">
-                <p class="text-center">Fig. 3 Github, go!</p>
+                <p class="text-center">Fig. 3 - Github, go!</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>

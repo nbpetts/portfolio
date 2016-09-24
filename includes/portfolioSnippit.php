@@ -29,7 +29,7 @@
 
           <img src="images/bcSharingBeforeThumb.png" alt="A thumbnail for my Basecamp sharing feature redesign">
           <div class=" text-center">
-            <p class="">Fig. 1 Client Sharing Flow Redesign.</p>
+            <p class="">Fig. 1 - Client Sharing Flow Redesign.</p>
 
           </div>
 
@@ -43,7 +43,7 @@
 
           <img src="images/utaPrototypeThumb.png" alt="A thumbnail for my UtaHagenBot" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 2 UtaHagenBot.</p>
+            <p class="">Fig. 2 - UtaHagenBot.</p>
 
           </div>
 
@@ -57,7 +57,7 @@
 
           <img src="images/worthyWordsThumb.png" alt="A thumbnail for Worthy Words" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 3 Worthy Words.</p>
+            <p class="">Fig. 3 - Worthy Words.</p>
 
           </div>
         </div>
@@ -70,7 +70,7 @@
 
           <img src="images/mpactThumb.png" alt="A thumbnail for Mpact" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 2 Mpact.</p>
+            <p class="">Fig. 2 - Mpact.</p>
 
           </div>
 
@@ -87,7 +87,7 @@
 
           <img src="images/dumbThumb.png" alt="A thumbnail for Disingenuous Unified Monetary Bank" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 4 Disingenuous Unified Monetary Bank.</p>
+            <p class="">Fig. 4 - Disingenuous Unified Monetary Bank.</p>
 
           </div>
 
@@ -101,7 +101,7 @@
 
         <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
         <div class=" text-center">
-          <p class="">Fig. 4 CardioGlass.</p>
+          <p class="">Fig. 4 - CardioGlass.</p>
 
         </div>
 
@@ -120,7 +120,7 @@
 
         <img src="images/bcSharingBeforeThumb.png" alt="A thumbnail for my Basecamp sharing feature redesign">
         <div class=" text-center">
-          <p class="">Fig. 1 Client Sharing Flow Redesign.</p>
+          <p class="">Fig. 1 - Client Sharing Flow Redesign.</p>
 
         </div>
 
@@ -134,7 +134,7 @@
 
         <img src="images/utaPrototypeThumb.png" alt="A thumbnail for my UtaHagenBot" class="porfolioThumbnailImage">
         <div class=" text-center">
-          <p class="">Fig. 2 UtaHagenBot.</p>
+          <p class="">Fig. 2 - UtaHagenBot.</p>
 
         </div>
 
@@ -151,7 +151,7 @@
 
         <img src="images/worthyWordsThumb.png" alt="A thumbnail for Worthy Words" class="porfolioThumbnailImage">
         <div class=" text-center">
-          <p class="">Fig. 3 Worthy Words.</p>
+          <p class="">Fig. 3 - Worthy Words.</p>
 
         </div>
       </div>
@@ -164,7 +164,7 @@
 
         <img src="images/umlClassDiagramThumb.png" alt="A thumbnail for my UML project" class="porfolioThumbnailImage">
         <div class=" text-center">
-          <p class="">Fig. 4 CardioGlass.</p>
+          <p class="">Fig. 4 - CardioGlass.</p>
 
         </div>
 
@@ -193,7 +193,7 @@
 
         <img src="images/clientsideHappyCamperThumb.png" alt="a thumbnail for Clientside Research" class="porfolioThumbnailImage">
         <div class=" text-center">
-          <p class="">Fig. 1 Clientside Research.</p>
+          <p class="">Fig. 1 - Clientside Research.</p>
 
         </div>
 
@@ -207,7 +207,7 @@
 
         <img src="images/ctaUserJourneyThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
         <div class=" text-center">
-          <p class="">Fig. 2 CTA Train Accessibility.</p>
+          <p class="">Fig. 2 - CTA Train Accessibility.</p>
 
         </div>
 
@@ -221,7 +221,7 @@
 
         <img src="images/ladderUpTaskThumb.png" alt="a thumbnail for Ladder Up" class="porfolioThumbnailImage">
         <div class=" text-center">
-          <p class="">Fig. 3 Ladder Up.</p>
+          <p class="">Fig. 3 - Ladder Up.</p>
 
         </div>
 
@@ -236,7 +236,7 @@
 
           <img src="images/ethnographicPersonaThumb.png" alt="a thumbnail for Finding Volunteer Opportunities" class="porfolioThumbnailImage">
           <div class=" text-center">
-            <p class="">Fig. 6 Finding Volunteer Opportunities.</p>
+            <p class="">Fig. 6 - Finding Volunteer Opportunities.</p>
 
           </div>
 
@@ -250,7 +250,7 @@
 
           <img src="images/accessibleGraphsThumb.png" alt="A thumbnail for my Accessible Graphs Report">
           <div class=" text-center">
-            <p class="">Fig. 7 Improving Graph Accessiblity.</p>
+            <p class="">Fig. 7 - Improving Graph Accessiblity.</p>
 
           </div>
 
@@ -270,7 +270,7 @@
 
           <img src="images/accessibleGraphsThumb.png" alt="A thumbnail for my Accessible Graphs Report">
           <div class=" text-center">
-            <p class="">Fig. 7 Improving Graph Accessiblity.</p>
+            <p class="">Fig. 7 - Improving Graph Accessiblity.</p>
 
           </div>
 

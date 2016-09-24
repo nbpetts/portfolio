@@ -44,7 +44,7 @@
 
             </div>
             <div class="modal-footer">
-              <p class="text-center">Fig. 1 Fenchurch. So cute.</p>
+              <p class="text-center">Fig. 1 - Fenchurch. So cute.</p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
             </div>
