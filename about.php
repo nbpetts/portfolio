@@ -26,7 +26,7 @@
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-1">
                     <p>A Chicago actor and improvisor, computers and technology have always fascinated me. I’ve figured out a way to do what I am passionate about while earning my living.</p>
-                    <p>I am a lifelong learner and have a history of teaching myself skills, from javascript frameworks to pneumatic blood squibs. Need a backpacking stove made from a Pepsi can? I got you covered.</p>
+                    <p>I am a lifelong learner and have a history of teaching myself skills, from JavaScript frameworks to pneumatic blood squibs. Need a backpacking stove made from a Pepsi can? I got you covered.</p>
                 </div>
                 <div class="col-xs-5 col-sm-offset-0 col-sm-4 col-xs-pull-4 col-sm-pull-1 pull-right">
                     <div href="#" class="thumbnail ">

@@ -58,7 +58,7 @@
       <section class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-1">
           <p>Thanks for dropping by.</p>
-          <p>The way I see it, connecting with users—meeting them where they are with a spirit of optimism—is the key to making useful software. Most technology is not designed with people in mind. I want to bring a user centered focus to software creation. That’s why I earned a master’s degree in Human Computer Interaction at DePaul University. One day, I hope to develop an app that my father can use without swearing.</p>
+          <p>The way I see it, connecting with users—meeting them where they are with a spirit of optimism—is the key to making useful software. Most technology is not designed with people in mind. I want to bring a user-centered focus to software creation. That’s why I earned a master’s degree in Human Computer Interaction at DePaul University. One day, I hope to develop an app that my father can use without swearing.</p>
         </div>
         <div class="col-xs-5 col-sm-offset-0 col-sm-4 col-xs-pull-4 col-sm-pull-1 pull-right">
           <a href="worthywords.php" class="">
