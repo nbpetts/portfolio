@@ -173,7 +173,7 @@
         </section>
         <section class="row">
           <div class="col-xs-12 col-sm-5 ">
-            <h2>Places I Have Learned</h2>
+            <h2>Degrees I Have Earned</h2>
           </div>
 
         </section>
