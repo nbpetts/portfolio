@@ -119,7 +119,7 @@
           <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-sm-right jobTitleGroup">
             <h3 class="jobTitle">Technology Support Specialist</h3>
             <p class="jobPlace">Rush University Medical Library</p>
-            <p class="jobTime">October 2012 - February 2014</p>
+            <p class="jobTime">November 2005 - February 2014</p>
           </div>
           <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9 jobDetailsGroup text-left">
 
