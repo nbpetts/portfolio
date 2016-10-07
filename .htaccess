@@ -1,1 +1,5 @@
 ErrorDocument 404 http://www.nathanpetts.com/portfolio/oops.php 
+
+<FilesMatch ".(eot|ttf|otf|woff)">
+	Header set Access-Control-Allow-Origin "*"
+</FilesMatch>

@@ -5,6 +5,11 @@
     </div>
 </section>
 <section class="row">
+    <div class="col-xs-12 col-sm-4  recommendation">
+        <p>&ldquo;I fully enjoyed working with Nathan during his internship at Basecamp. He was always motivated, self-directed, and good at communicating his processes and progress. He was also patient and flexible while we debated which problems we wanted to investigate, and he was willing to step out of his comfort zone to explore new methods and tech that he hadn't worked with before. Nathan accomplished a lot in a short time at Basecamp, and I think he'd be an excellent addition to any UX team that's looking to gain a deeper understanding of their users and their product.&rdquo;</p>
+        <h3 class="jobTitle">Jonas Downey</h3>
+        <p class="jobTime">Product Designer at Basecamp</p>
+    </div>
     <div class="col-xs-12 col-sm-4 recommendation">
         <p>&ldquo;Nathan's professionalism, ingenuity, and work ethic make him a dream collaborator. Our creation of an online game was a brand new experience for me and my company. Nathan was able to not only deliver a product that was user friendly and great fun, but provided clear options, consistent and friendly communication, and researched everything for informed decision making. We would work with Nathan again in a heart beat and count ourselves lucky to have had his expertise on board.&rdquo;</p>
         <h3 class="jobTitle">Sarah Rose Graber</h3>
@@ -18,17 +23,14 @@
         <h3 class="jobTitle">Max Anderson</h3>
         <p class="jobTime">Instructor at University of Illinois at Chicago</p>
     </div>
-    <div class="col-xs-12 col-sm-4 recommendation">
+    <!-- <div class="col-xs-12 col-sm-4 recommendation">
         <p>&ldquo;He feeds me adequately. Also, proficient at tummy rubs.&rdquo;</p>
         <h3 class="jobTitle">Fenchurch</h3>
         <a href="#" data-toggle="modal" data-target="#fenchurchModal">
             <p class="jobTime">Professional Cat</p>
         </a>
-        <!--<p>&ldquo;Dear Nathan,
-      <br> I want to thank you for the time you spent with me on solving the problems on ExamSoft. I really appreciate your professionalism and help.&rdquo;</p>
-    <h3 class="jobTitle">Emily Wang, Ph.D., CCC-SLP</h3>
-    <p class="jobTime">Speech-Language Pathologist</p>-->
-    </div>
+       
+    </div> -->
 </section>
 
 <div class="modal fade" id="fenchurchModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -45,9 +47,9 @@
             </div>
             <div class="modal-footer">
               <p class="text-center">Fig. 1 - Fenchurch. So cute.</p>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-        </div>
-    </div>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+              </button>
+          </div>
+      </div>
+  </div>
 </div>
