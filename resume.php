@@ -90,7 +90,7 @@
 
             </ul>
             <p class="resumeSubTitle"><strong>
-              User Research Activities
+              UX Design
             </strong></p>
             <ul>
               <li>Advocated the redesign of a user flow that research showed was hidden in the interface</li>
