@@ -59,43 +59,38 @@ h1.hero {
   color: $beard;
   font-weight: bold;
 }
-
+.resumeLink {
+  text-indent: 10px;
+}
 
 ///////////////////////////////resume styles
-p.resumePhone {
-  margin-bottom: 0;
+.img-resume {
+  margin-top: 3.75em;
 }
-a.resumeEmail {
-  margin-top: 0;
+.resumeH4 {
+  margin-top: 3em;
 }
-h3.jobTitle{
-  font-size: 1em;
-  font-weight: bold;
-  margin-bottom: 0;
-  margin-top: 0;
+.resumeFirstJob {
+  margin-top: 1.1em;
 }
-p.jobPlace {
-  margin-bottom: 0;
-
+.resumeName {
+  font-size: 2.25em;
 }
 
-.jobDetailsGroup{
-
-  font-size: 0.875em;
-padding-left:0;
-}
-.jobDetailsGroup > ul {
- padding-left: 30px;
-}
-p.jobTime {
-  font-style: italic;
+.jobTitle {
+  font-size: 1.25em;
   margin-bottom: 0;
 }
-.resumeSummary{
-  padding-top: .75em;
+.jobTime {
+  font-size: .75em;
+  margin-bottom: 0;
 }
-.technologist {
-  padding-left: 5px;
+
+.resumeSubTitle {
+margin-bottom: 0;
+}
+.resumeFirstList {
+  margin-bottom: 0;
 }
 //////////////////////////////////////          my navbar styles
 nav.navbar {

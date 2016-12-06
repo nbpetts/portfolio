@@ -7392,45 +7392,42 @@ h1.hero {
   font-weight: bold;
 }
 
-p.resumePhone {
+.resumeLink {
+  text-indent: 10px;
+}
+
+.img-resume {
+  margin-top: 3.75em;
+}
+
+.resumeH4 {
+  margin-top: 3em;
+}
+
+.resumeFirstJob {
+  margin-top: 1.1em;
+}
+
+.resumeName {
+  font-size: 2.25em;
+}
+
+.jobTitle {
+  font-size: 1.25em;
   margin-bottom: 0;
 }
 
-a.resumeEmail {
-  margin-top: 0;
-}
-
-h3.jobTitle {
-  font-size: 1em;
-  font-weight: bold;
-  margin-bottom: 0;
-  margin-top: 0;
-}
-
-p.jobPlace {
+.jobTime {
+  font-size: .75em;
   margin-bottom: 0;
 }
 
-.jobDetailsGroup {
-  font-size: 0.875em;
-  padding-left: 0;
-}
-
-.jobDetailsGroup > ul {
-  padding-left: 30px;
-}
-
-p.jobTime {
-  font-style: italic;
+.resumeSubTitle {
   margin-bottom: 0;
 }
 
-.resumeSummary {
-  padding-top: .75em;
-}
-
-.technologist {
-  padding-left: 5px;
+.resumeFirstList {
+  margin-bottom: 0;
 }
 
 nav.navbar {
