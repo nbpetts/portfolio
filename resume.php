@@ -35,7 +35,7 @@
               // -->
             </script>
             <noscript>Please enable Javascript to see the email address</noscript>
-            <p>Relocating to Portland, OR January 2017</p> 
+            <p>Relocating to Portland, OR April 2017</p> 
 
             <img src="images/partsOfMe.png" alt="Nathan is 50% User Researcher, 30% UX/UI Designer and 20% Front End Developer" class="img-responsive img-resume">
             <img src="images/skillsAndTools.png" alt="A list of skills and tools" class="img-responsive img-resume">
@@ -68,7 +68,7 @@
                 Create data visualizations for MATEC, a former employer, using JavaScript libraries, PHP and SQL
               </li>
               <li>Design a responsive, dynamic website with Ruby on Rails for a local stand-up comedian</li>
-              <li>Write and edit a paper with two other researchers about improving graph accessibility on the web—to be published in SIGCHI Extended Abstracts in early 2017</li>
+              <li>Write and edit a paper with two other researchers about improving graph accessibility on the web</li>
             </ul>
             
 
