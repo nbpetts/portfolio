@@ -35,7 +35,7 @@
               // -->
             </script>
             <noscript>Please enable Javascript to see the email address</noscript>
-            <p>Relocating to Portland, OR April 2017</p> 
+            <p>Portland, OR</p> 
 
             <img src="images/partsOfMe.png" alt="Nathan is 50% User Researcher, 30% UX/UI Designer and 20% Front End Developer" class="img-responsive img-resume">
             <img src="images/skillsAndTools.png" alt="A list of skills and tools" class="img-responsive img-resume">

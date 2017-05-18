@@ -25,7 +25,7 @@
             </section>
             <section class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-1">
-                    <p>A Chicago actor and improvisor, computers and technology have always fascinated me. I’ve figured out a way to do what I am passionate about while earning my living.</p>
+                    <p>Now a resident of Portland OR, for ten years I was a Chicago actor and improvisor. Computers and technology have always fascinated me. I’ve figured out a way to do what I am passionate about while earning a living.</p>
                     <p>I am a lifelong learner and have a history of teaching myself skills, from JavaScript frameworks to pneumatic blood squibs. Need a backpacking stove made from a Pepsi can? I got you covered.</p>
                 </div>
                 <div class="col-xs-5 col-sm-offset-0 col-sm-4 col-xs-pull-4 col-sm-pull-1 pull-right">
@@ -40,7 +40,7 @@
 
                 </div>
                 <div class="col-xs-12 col-sm-6 col-sm-offset-1">
-                    <p>On the weekends you can find me with my wife hiking Wisconsin, at home working on my bicycle or losing to my friends at Settlers of Catan.</p>
+                    <p>On the weekends you can find me with my wife hiking, at home working on my bicycle or losing to my friends at Settlers of Catan.</p>
 
 
                 </div>
