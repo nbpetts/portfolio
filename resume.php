@@ -59,16 +59,17 @@
 
           <div class="col-xs-12 col-sm-8">
 
-            <p class="jobTitle resumeFirstJob"><strong>Contract  &amp; Pro Bono UX Design  &amp; Research</strong></p>
+            <p class="jobTitle resumeFirstJob"><strong>Contract  &amp; Pro Bono UX Design  &amp; Development</strong></p>
 
             <p class="jobTime">September 2016 - Present</p>
             
             <ul>
+              <li>Designed, developed and deployed a Ruby on Rails CRM for a Portland non-profit, leading to better usability, deduplication of data and ease of future development</li>
               <li>
                 Create data visualizations for MATEC, a former employer, using JavaScript libraries, PHP and SQL
               </li>
               <li>Design a responsive, dynamic website with Ruby on Rails for a local stand-up comedian</li>
-              <li>Write and edit a paper with two other researchers about improving graph accessibility on the web</li>
+              
             </ul>
             
 
