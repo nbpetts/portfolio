@@ -28,7 +28,7 @@
       <a class="  col-xs-1 col-sm-1 col-xs-offset-5 col-sm-offset-6 downArrow " href="#content">
         <img src="images/downArrow.svg" alt="Click Here to Skip to the main Content">
       </a>
-      <img src="images/pixelGuy.png" alt="Pixel Version of Nathan Petts" class="img-responsive col-xs-1 col-xs-offset-1 col-sm-2 col-md-1 nathan   ">
+      <img src="images/pixelGuy.png" alt="Pixel Version of Nathan Petts" class="img-responsive col-xs-1 col-xs-offset-1 col-sm-2 col-md-2 nathan   ">
 
     </div>
     <!--end row-->

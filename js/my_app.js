@@ -1,15 +1,8 @@
 $(document).ready(function () {
 
-  var checkIfActiveLink = function (el) {
-    if (("/portfolio/" + el.attr("href")) === window.location.pathname) {
-      el.parent().addClass("active");
-    }
-    if (el.context.pathname === window.location.pathname) {
-      el.parent().addClass("active");
-    }
-  };
+  if (window.location.pathname != "/resume.php") {
 
-  var isScrolledIntoView = function (elem) {
+    var isScrolledIntoView = function (elem) {
     var $elem = $(elem),
     $window = $(window),
     docViewTop = $window.scrollTop(),
@@ -76,6 +69,18 @@ $(document).ready(function () {
     }); // end scroll
 
   //scroll button controll  
+  }
+
+  var checkIfActiveLink = function (el) {
+    if (("/portfolio/" + el.attr("href")) === window.location.pathname) {
+      el.parent().addClass("active");
+    }
+    if (el.context.pathname === window.location.pathname) {
+      el.parent().addClass("active");
+    }
+  };
+
+  
 
   $('a[href*=#]:not([href=#])').click(function () {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {

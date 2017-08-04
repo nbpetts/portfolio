@@ -10,7 +10,7 @@
 
 <body data-spy="scroll" data-target=".navbar">
   <?php include_once( "includes/googleAnalytics.php") ?>
-  <?php include "includes/header.php" ?>
+  <?php include "includes/header_resume.php" ?>
 
   <div class="container pageBackground">
     <section class="row">
