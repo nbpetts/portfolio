@@ -21,23 +21,23 @@
     </div>
     <!--end row-->
     <div class="row">
-      <img src="images/speachCaret.svg" alt="Speach Bubble Caret" class="img-responsive  col-xs-1 col-xs-offset-6  col-sm-offset-7">
+      <img src="images/speachCaret.svg" alt="Speach Bubble Caret" class="img-responsive  col-xs-1 col-xs-offset-6  col-sm-offset-7 hidden-xs">
     </div>
     <!--end row-->
     <div class="row bottomAlign">
-      <a class="  col-xs-1 col-sm-1 col-xs-offset-5 col-sm-offset-6 downArrow " href="#content">
+      <a class="  col-xs-1 col-sm-1 col-xs-offset-5 col-sm-offset-6 downArrow hidden-xs" href="#content">
         <img src="images/downArrow.svg" alt="Click Here to Skip to the main Content">
       </a>
-      <img src="images/pixelGuy.png" alt="Pixel Version of Nathan Petts" class="img-responsive col-xs-1 col-xs-offset-1 col-sm-2 col-md-2 nathan   ">
+      <img src="images/pixelGuy.png" alt="Pixel Version of Nathan Petts" class="img-responsive col-xs-1 col-xs-offset-1 col-sm-2 col-md-2 nathan   hidden-xs">
 
     </div>
     <!--end row-->
     <div class="row">
-      <div class="col-xs-7 col-xs-offset-4 grass  "></div>
+      <div class="col-xs-7 col-xs-offset-4 grass  hidden-xs"></div>
     </div>
     <!--end row-->
     <div class="row  ">
-      <div class="col-xs-7 col-xs-offset-4 rock"></div>
+      <div class="col-xs-7 col-xs-offset-4 rock hidden-xs"></div>
     </div>
     <!--end row-->
   </section>

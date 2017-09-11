@@ -64,7 +64,8 @@ h1.hero {
 }
 
 .nathan { 
-  max-width: 150px;
+  // max-width: 150px;
+  min-height: 75px;
 }
 
 ///////////////////////////////resume styles
@@ -422,6 +423,7 @@ ul.nav-pills > li > a:hover {
   h1.hero {
 
     font-size: 2.5em;
+    margin-bottom: 30px ; 
   }
   .jobTitleGroup{
     padding-left:0;

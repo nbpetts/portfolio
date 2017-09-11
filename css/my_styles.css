@@ -7397,7 +7397,7 @@ h1.hero {
 }
 
 .nathan {
-  max-width: 150px;
+  min-height: 75px;
 }
 
 .img-resume {
@@ -7780,6 +7780,7 @@ ul.nav-pills > li > a:hover {
 @media (max-width: 767px) {
   h1.hero {
     font-size: 2.5em;
+    margin-bottom: 30px;
   }
 
   .jobTitleGroup {
