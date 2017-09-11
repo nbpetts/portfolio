@@ -142,7 +142,7 @@
 
 
 
-            <p class="jobTitle"><strong>Actor</strong> @ Chicago, IL</p>
+            <p class="jobTitle"><strong>Actor</strong> @ Professional Theaters</p>
 
             <p class="jobTime">Ongoing</p>
 
