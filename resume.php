@@ -59,16 +59,16 @@
 
           <div class="col-xs-12 col-sm-8">
 
-            <p class="jobTitle resumeFirstJob"><strong>Contract  &amp; Pro Bono UX Design  &amp; Development</strong></p>
+            <p class="jobTitle resumeFirstJob"><strong>Freelance UX Designer and Developer</strong></p>
 
             <p class="jobTime">September 2016 - Present</p>
             
             <ul>
-              <li>Designed, developed and deployed a Ruby on Rails CRM for a Portland non-profit, leading to better usability, deduplication of data and ease of future development</li>
+              <li>Designing a responsive, dynamic website with Ruby on Rails for a local stand-up comedian, giving her a unique calling card online</li>
               <li>
-                Create data visualizations for MATEC, a former employer, using JavaScript libraries, PHP and SQL
+                Designed, developed and deployed a Ruby on Rails CRM for a Portland non-profit, leading to better usability, deduplication of data and ease of future development
               </li>
-              <li>Design a responsive, dynamic website with Ruby on Rails for a local stand-up comedian</li>
+              <li>Designed and developed data visualizations for MATEC, a former employer, using JavaScript libraries, PHP and SQL to provide a clearer view of their data and goals</li>
               
             </ul>
             
@@ -123,7 +123,7 @@
               </p>
               
               <ul>
-                <li>Reverse-engineered and managed a legacy database, improved data integrity by troubleshooting bugs and data errors</li>
+                <li>Reverse-engineered and managed a legacy database; improved data integrity by troubleshooting bugs and data errors</li>
                 <li>Provided training and documentation to staff resulting in accurate and timely data entry</li>
               </ul>
            
