@@ -1,19 +1,22 @@
 $(document).ready(function () {
 
-  if (window.location.pathname != "/resume.php") {
+  if ((window.location.pathname != "/resume.php" ) && (window.location.pathname != "/portfolio/resume.php")) {
+
+
 
     var isScrolledIntoView = function (elem) {
-    var $elem = $(elem),
-    $window = $(window),
-    docViewTop = $window.scrollTop(),
-    docViewBottom = docViewTop + $window.height(),
-    docViewMid = (docViewBottom + docViewTop) / 2 - 400,
-    docViewTopAdj = docViewTop + 200;
-    elemTop = $elem.offset().top,
-    elemBottom = elemTop + $elem.height();
+      var $elem = $(elem),
+      $window = $(window),
+      docViewTop = $window.scrollTop(),
+      docViewBottom = docViewTop + $window.height(),
+      docViewMid = (docViewBottom + docViewTop) / 2 - 400,
+      docViewTopAdj = docViewTop + 200;
+      elemTop = $elem.offset().top,
+      elemBottom = elemTop + $elem.height();
 
     return ((elemTop <= docViewMid) && (elemBottom >= docViewTopAdj));
-  };
+    };
+
 
 
   //navbar scorll control and active styling
@@ -69,7 +72,8 @@ $(document).ready(function () {
     }); // end scroll
 
   //scroll button controll  
-  }
+  
+  } // end resume if
 
   var checkIfActiveLink = function (el) {
     if (("/portfolio/" + el.attr("href")) === window.location.pathname) {
